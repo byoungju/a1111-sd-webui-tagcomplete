@@ -41,7 +41,7 @@ Dark and Light mode supported, including tag colors:
 ### As an extension (recommended)
 Either clone the repo into your extensions folder:
 ```bash
-git clone "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git" extensions/tag-autocomplete
+git clone "https://github.com/mkco5162/a1111-sd-webui-tagcomplete.git" extensions/tag-autocomplete
 ```
 (The second argument specifies the name of the folder, you can choose whatever you like).
 
@@ -62,7 +62,7 @@ The script needs **all three folders** to work properly.
 The config contains the following settings and defaults:
 ```json
 {
-	"tagFile": "danbooru.csv",
+	"tagFile": "danbooru2.csv",
 	"activeIn": {
 		"txt2img": true,
 		"img2img": true,
