@@ -7,10 +7,12 @@
 	},
 	"maxResults": 8,
 	"resultStepLength": 500,
+	"delayTime": 100,
 	"showAllResults": false,
 	"useLeftRightArrowKeys": false,
 	"replaceUnderscores": true,
 	"escapeParentheses": true,
+	"appendComma": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
 	"translation": {
