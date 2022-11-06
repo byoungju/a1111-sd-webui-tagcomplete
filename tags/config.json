@@ -1,11 +1,12 @@
 {
-	"tagFile": "danbooru2.csv",
+	"tagFile": "danbooru.csv",
 	"activeIn": {
 		"txt2img": true,
 		"img2img": true,
 		"negativePrompts": true
 	},
-	"maxResults": 8,
+	"hideUIOptions": false,
+	"maxResults": 5,
 	"resultStepLength": 500,
 	"delayTime": 100,
 	"showAllResults": false,
@@ -15,16 +16,22 @@
 	"appendComma": true,
 	"useWildcards": true,
 	"useEmbeddings": true,
+	"alias": {
+		"searchByAlias": true,
+		"onlyShowAlias": false
+	},
 	"translation": {
-		"searchByTranslation": true,
-		"onlyShowTranslation": false
+		"translationFile": "",
+		"oldFormat": false,
+		"searchByTranslation": true
 	},
 	"extra": {
 		"extraFile": "",
-		"onlyTranslationExtraFile": false
+		"onlyAliasExtraFile": false
 	},
 	"colors": {
 		"danbooru": {
+			"-1": ["red", "maroon"],
 			"0": ["lightblue", "dodgerblue"],
 			"1": ["indianred", "firebrick"],
 			"3": ["violet", "darkorchid"],
