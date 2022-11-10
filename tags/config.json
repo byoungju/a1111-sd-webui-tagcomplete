@@ -1,12 +1,12 @@
 {
-	"tagFile": "danbooru2.csv",
+	"tagFile": "danbooru3.csv",
 	"activeIn": {
 		"txt2img": true,
 		"img2img": true,
 		"negativePrompts": true
 	},
 	"hideUIOptions": false,
-	"maxResults": 8,
+	"maxResults": 23,
 	"resultStepLength": 500,
 	"delayTime": 100,
 	"showAllResults": false,
@@ -17,11 +17,11 @@
 	"useWildcards": true,
 	"useEmbeddings": true,
 	"alias": {
-		"searchByAlias": true,
+		"searchByAlias": false,
 		"onlyShowAlias": false
 	},
 	"translation": {
-		"translationFile": "",
+		"translationFile": "danbooru4.csv",
 		"oldFormat": false,
 		"searchByTranslation": true
 	},
