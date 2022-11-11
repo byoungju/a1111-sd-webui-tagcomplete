@@ -2881,7 +2881,6 @@ see-through,옷이 비쳐 보인다
 clothes_down,옷을 벗다
 unfastened,옷이 풀렸다
 bottomless,옷을 상체만 입는다
-side_slit,옷의 선을 노출하다
 clothing_aside,옷의 옆을 노출하다
 arm_cutout,옷의 팔이 노출되다
 shoulder_cutout,옷의 어깨를 노출하다
@@ -2951,13 +2950,10 @@ cleavage,옷의 가슴골을 노출하다
 underboob_cutout,옷의 행동 중앙을 노출하다
 underboob,옷의 밑가슴를 노출하다
 sideboob,옷의 옆가슴을 노출하다
-areola_slip,옷 안에 유륜을 노출하다
-nipple_slip,옷 안에 젖꼭지를 살짝 노출하다
 robe_slip,가운을 당기다
 hood_down,후드를 내렸다
 open_jacket,재킷를 벗어 노출하다
 open_coat,코트를 벗어 노출하다
-open_robe,로브를 벗어 노출하다
 cape_lift,망토를 올려 노출하다
 sweater_lift,스웨터를 올려 노출하다
 pajamas_pull,잠옷을 내려 노출하다
@@ -3025,12 +3021,10 @@ hat_over_one_eye,모자를 한쪽 눈 위에 올리다
 hat_over_eyes,모자를 양쪽 눈 위에 올리다
 holding_hat,모자를 들다
 hat_removed,모자를 벗다
-hat_tip,모자를 잡다
 torn_hat,모자를 찢다
 hat_basket,모자에 담다
 hat_loss,모자가 날아가다
 adjusting_headwear,모자를 조정하다
-hand_on_headwear,모자에 손을 대다
 backwards_hat,모자를 뒤로 돌리다
 sideways_hat,모자를 옆으로 돌리다
 putting_on_headwear,모자를 쓰다
@@ -3038,7 +3032,6 @@ tilted_headwear,모자를 기울이다
 eyewear_in_mouth,안경을 입 안에 물다
 eyewear_on_head,안경을 머리 위에 올리다
 eyewear_on_headwear,안경을 모자 위에 올리다
-adjusting_eyewear,안경을 조정하다
 crooked_eyewear,안경을 삐뚫었다
 eyewear_removed,안경을 제거한다
 eyewear_hang,안경을 벗어 장식하다
@@ -3047,7 +3040,6 @@ looking_for_glasses,안경을 찾다
 eyewear_switch,다른 안경을 끼다
 eyewear_view,안경 안으로 보다
 hand_on_eyewear,안경에 손을 대다
-looking_over_eyewear,안경를 보다
 removing_eyewear,안경을 제거하다
 mask_on_head,마스크를 머리 위에 올리다
 mask_over_one_eye,마스크를 한쪽 눈 위에 올리다
@@ -3278,7 +3270,6 @@ nipple_chain,젖꼭지 체인
 nipple_plug,젖꼭지 플러그
 clitoris_piercing,음핵 피어싱
 clitoris_ring,음핵 링
-clitoris_slip,음핵 슬립
 clitoris_tied,음핵 구속
 clitoris_chain,음핵 사슬
 clitoris_leash,음핵 끈
@@ -3448,7 +3439,6 @@ nipple_penetration,자지를 젖꼭지에 삽입하다
 penis_to_breast,자지를 가슴 안에 넣다
 penis_in_pussy,자지를 보지 안에 넣디
 penis_in_ass,자지를 엉덩이에 넣다
-penis_in_panties,자지를 팬티 안에 넣다
 penis_in_pantyhose,자지를 팬티 스타킹 안에 넣다
 penis_in_bikini,자지를 비키니 안에 넣다
 penis_in_swimsuit,자지를 수영복 안에 넣다
@@ -3578,7 +3568,6 @@ too_many_tentacles,촉수를 매우 말리 늘리다
 tentacles_in_thighhighs,촉수를 허벅지 안에 넣다
 tentacles_under_clothes,촉수를 옷 안에 넣다
 animation,애니메이션 
-cartoon,카툰 
 fine_art_parody={},패러디 
 pectoral_focus,가슴에 집중 
 hip_focus,엉덩이에 집중 
@@ -3626,16 +3615,12 @@ warehouse,창고
 geyser,온천 
 tower,탑 
 brothers,형제 
-menhera,멘헤라 
 merchant,상인 
 school_nurse,보건 교사 
 skank,걸레 
-crying_with_eyes_open,눈뜬 우는 얼굴 
 two-tone_hair,투 톤 
 streaked_hair,줄무늬 
 gradient_hair,그라데이션 
-blunt_bangs,일자 앞머리 
-short_eyebrow,눈썹이 짧다 
 gorilla_ears,고릴라 
 mature_female,성숙한 여자 
 fat,뚱뚱한 몸 
@@ -3650,13 +3635,7 @@ habit,사제복
 skirtsuit,정장
 track_suit,운동복 
 housekeeper_costume,하우스키퍼 
-tank_top,탱크탑 
-tube_top,튜브탑 
 criss-cross_halter,X자로 꼬인 옷 
-pullover,풀오버 
-fur_coat,모피 코트 
-pinapo_dress,피나포 드레스 
-bandeau,가슴 가리개 
 converse,운동화 
 headband,머리띠 
 fedora,탐정 모자 
@@ -3684,10 +3663,1036 @@ cleavage_cutout,옷의 가슴골을 노출하다
 panties_around_one_leg,팬티를 발목 주위로 내리다 
 throwing,무엇을 던지다 
 bouncingbreasts,무엇이 요동친다 
-small,자지가 작다 
 vaginal,보지 
 urethra,보지 
 tenga,인공 질 
 handcuffs,수갑 
 love_train,다중 연결 
 prone_bone,후배위 
+hair tie,머리끈
+highleg,하이레그
+pincet,핀셋
+squirt,분출
+smile,웃다
+skirt,치마
+hat,모자
+dress,드레스
+ribbon,리본
+bow,절하다
+jewelry,보석류
+weapon,무기
+flower,꽃
+ahoge,아하제
+hetero,이종
+heart,마음
+nude,나체상
+wings,날개
+necktie,넥타이
+glasses,안경
+day,낮
+fang,송곳니
+belt,벨트
+cloud,구름
+indoors,실내
+cum,정액
+hood,후드
+sex,섹스
+water,물
+chibi,치비
+bra,브래지어
+yuri,유리
+armor,갑옷
+mole,몰
+uniform,제복
+feet,피트
+dated,날짜
+gun,총
+pillow,베개
+book,책
+sash,허리띠
+legs,다리
+petals,꽃잎
+cosplay,코스프레
+lowres,로우
+window,창문
+bell,벨
+saliva,타액
+bed,침대
+blood,피
+scan,주사
+profile,프로필
+tattoo,타투
+anus,항문
+buttons,버튼
+toes,발가락
+rose,장미
+chain,체인
+animal,동물
+frown,찌푸린 얼굴
+pov,1인칭 화면
+back,뒤
+scar,흉터
+parody,패러디
+chair,의자
+soles,발바닥
+phone,전화
+bound,경계
+border,국경
+moon,달
+cover,표지
+table,테이블
+happy,행복한
+ring,반지
+halo,후광
+helmet,헬멧
+cross,십자가
+bottle,병
+bug,버그
+grass,풀
+fire,불
+crown,왕관
+knife,칼
+couple,부부
+denim,데님
+plant,식물
+robot,로봇
+precure,프리큐어
+staff,직원
+towel,수건
+wind,바람
+casual,캐주얼
+brooch,브로치
+kiss,키스
+sheath,칼집
+child,아이
+box,상자
+gem,보석
+candy,캔디
+steam,증기
+armband,팔찌
+scenery,풍경
+breath,호흡
+gundam,건담
+couch,소파
+lace,레이스
+bara,오직
+bandaid,반창고
+mecha,메카
+angry,화난
+cloak,망토
+claws,발톱
+rifle,소총
+beard,수염
+snow,눈
+buckle,버클
+furry,모피
+gift,선물
+spikes,스파이크
+handgun,권총
+desk,책상
+alcohol,알코올
+plate,접시
+broom,비
+ball,공
+persona,사람
+forest,숲
+tray,쟁반
+headset,헤드셋
+zipper,지퍼
+smoke,연기
+fish,물고기
+bubble,거품
+teacup,찻잔
+cake,케이크
+condom,콘돔
+bowl,그릇
+veins,정맥
+pocket,호주머니
+bulge,솟아오른
+skull,두개골
+sunset,해질녘
+outline,개요
+spear,창
+shield,방패
+ice,얼음
+watch,시계
+pouch,주머니
+shawl,숄
+serious,심각한
+smirk,웃음
+injury,부상
+pose,포즈
+tabard,휘장
+crystal,결정
+hairpin,머리핀
+handbag,핸드백
+mirror,거울
+bouquet,꽃다발
+stairs,계단
+paper,종이
+snake,뱀
+glint,반짝임
+doll,인형
+sign,기호
+video,비디오
+nose,코
+spoon,숟가락
+card,카드
+fence,울타리
+bandana,두건
+anklet,구두
+geta,깡통
+sand,모래
+stubble,그루터기
+door,통해
+camera,사진기
+wand,벽
+emblem,엠블럼
+music,음악
+apple,사과
+sun,태양
+blanket,담요
+cannon,대포
+railing,방책
+horizon,수평선
+goatee,염소 수염
+eyeball,안구
+basket,바구니
+logo,로고
+pocky,포키
+anchor,닻
+guitar,기타
+pen,펜
+frog,개구리
+glass,잔
+tiles,타일
+mittens,장갑
+flag,깃발
+headpat,헤드 팻
+scythe,낫
+selfie,셀카
+talking,얘기
+car,자동차
+smug,척하는
+magic,마법
+ugoira,우고이라
+gagged,재갈
+rigging,장비
+light,빛
+battle,전투
+bucket,통
+tatami,다다미
+lamp,램프
+bench,벤치
+bush,관목
+scales,저울
+candle,초
+sarong,사롱
+joints,관절
+shade,그늘
+orgasm,오르가슴
+peach,복숭아
+dark,어둠
+key,열쇠
+cable,케이블
+space,우주
+holster,집어넣어
+dagger,단도
+string,문자열
+carrot,당근
+bath,목욕
+drunk,주정뱅이
+sack,자루
+parasol,파라솔
+petite,작다
+torii,도리
+teapot,찻주전자
+axe,축
+antlers,가지 진 뿔
+pumpkin,호박
+belly,배
+rwby,루비
+tight,꽉
+macross,마크로스
+precum,뿐만 아니라
+bald,곧
+aura,아우 라
+link,링크
+scared,무서 워
+torpedo,어뢰
+manly,남자 같은
+pikachu,피카츄
+tea,차
+balloon,풍선
+mermaid,인어
+leather,가죽
+sunbeam,광선
+bamboo,대나무
+pee,오줌
+pencil,연필
+summer,여름
+tank,전차
+vines,덩굴
+annoyed,짜증
+sad,슬픈
+saki,사키
+cutoffs,컷오프
+old,오래된
+bread,빵
+futon,이불 세트
+cookie,쿠키
+rice,쌀
+badge,배지
+syringe,주사기
+monitor,모니터
+ripples,잔물결
+beer,맥주
+egg,알
+scroll,스크롤
+hammer,망치
+planet,행성
+error,오류
+cushion,쿠션
+ribs,갈비
+coin,동전
+sleepy,졸린
+bride,신부
+pun,조차
+shell,포탄
+dirty,더럽다
+cyborg,사이보그
+latex,라텍스
+broken,깨진
+nervous,긴장
+pervert,변태
+sound,소리
+bruise,타박상
+marvel,경이
+coffee,커피
+harness,마구
+planted,심어져
+burger,햄버거
+yawning,품
+wine,포도주
+damaged,손상
+pillar,기둥
+shelf,선반
+grapes,포도
+tape,테이프
+laptop,랩톱
+orb,천체
+penguin,펭귄
+albino,알비노
+meat,고기
+quiver,떨림
+bokeh,보케
+flame,불꽃
+zombie,좀비
+autumn,가을
+bicycle,자전거
+family,가족
+noodles,국수
+amputee,수족
+visor,챙
+vase,꽃병
+chick,병아리
+waves,파도
+resized,조정
+ladle,국자
+knees,무릎
+trident,삼지창
+gourd,바가지
+gold,금
+lock,자물쇠
+whistle,휘파람
+gears,기어
+money,돈
+gumi,고무
+cane,개
+throne,왕좌
+evening,저녁
+digimon,디지몬
+statue,조상
+baby,아기
+crowd,군중
+crack,크랙
+bullet,탄알
+cropped,자른
+crab,게
+letter,편지
+tomboy,말괄량이
+snowman,눈사람
+toilet,화장실
+drawing,그림
+hot,덥다
+fusion,융해
+defeat,패배
+locker,사물함
+crotch,샅
+milk,우유
+energy,에너지
+death,죽음
+crow,까마귀
+alien,외국인
+costume,복장
+shy,수줍은
+stick,스틱
+clover,클로버
+clone,클론
+demon,악마
+barcode,바코드
+silk,비단
+lamia,흡혈귀
+sode,정원
+puddle,웅덩이
+thorns,가시
+hose,호스
+banana,바나나
+what,무엇
+octopus,낙지
+pole,극
+framed,프레임
+rapier,검
+wrench,렌치
+macaron,마카롱
+cage,장롱
+zouri,주우리
+chicken,닭
+tekken,철권
+violin,바이올린
+needle,바늘
+afloat,해상
+sushi,초밥
+cream,크림
+drum,북
+figure,숫자
+scope,범위
+train,기차
+floor,층
+circle,원
+fins,까지
+map,지도
+lemon,레몬
+dancer,댄서
+pizza,피자
+taur,황소
+lineup,라인업
+shotgun,산탄총
+gothic,고딕
+duck,오리
+seagull,갈매기
+shovel,삽
+toy,장난감
+speaker,스피커
+tomato,토마토
+grenade,수류탄
+pancake,팬케이크
+skates,스케이트
+mochi,떡
+piano,계획
+eevee,이브이
+midair,공중
+ceiling,천장
+extra,여분의
+chemise,셔츠
+holo,홀로
+writing,쓰기
+spill,엎지르다
+lotus,연꽃
+lotion,로션
+paint,페인트
+cupcake,컵케이크
+cheese,치즈
+keyhole,열쇠 구멍
+hallway,복도
+wedding,결혼식
+medal,메달
+pudding,푸딩
+fashion,유행
+pirate,해적
+snot,코딱지
+ladder,사다리
+ramen,평가하다
+pastry,과자
+shark,상어
+owl,올빼미
+spandex,스판덱스
+doorway,문간
+sigh,한숨
+blade,잎
+lights,조명
+embers,불씨
+cold,감기
+talons,발뒤꿈치
+cigar,여송연
+bloom,피다
+typo,오타
+hairy,털
+updo,업도
+room,방
+nape,목덜미
+dusk,황혼
+flask,플라스크
+tally,집계
+carpet,양탄자
+sunrise,해돋이
+curry,카레
+smell,냄새
+cyclops,키클롭스
+ufo,비행접시
+sink,가라앉다
+eraser,지우개
+spatula,주걱
+beak,부리
+satchel,가방
+dessert,디저트
+cervix,자궁 경부
+racket,라켓
+liquid,액체
+wire,철사
+attack,공격
+jet,제트기
+trumpet,트럼펫
+arch,아치
+vial,유리병
+briefs,팬티
+action,행동
+moss,이끼
+veranda,베란다
+turban,터번
+mop,대걸레
+whale,고래
+spanked,때리다
+gusset,삼각 천
+dust,먼지
+pill,알약
+teenage,사춘기
+wreath,화환
+scepter,홀
+taiyaki,붕어빵
+afro,아프리카
+aria,공기
+warship,군함
+grimace,찡그린 얼굴
+comb,빗
+skewer,꼬챙이
+cube,큐브
+failure,실패
+drawer,서랍
+tanuki,너구리
+flute,플루트
+squid,오징어
+counter,카운터
+corpse,시체
+gate,문
+stone,돌
+balcony,발코니
+chart,차트
+daisy,데이지
+burning,타오르는
+pointer,포인터
+shrimp,새우
+harem,하렘
+fluffy,솜털
+bomb,폭탄
+faucet,수도꼭지
+fishing,낚시
+sparks,스파크
+dolphin,돌고래
+missile,미사일
+pain,고통
+spider,거미
+tube,튜브
+rubble,잔해
+hooves,발굽
+sticker,스티커
+patch,패치
+coral,산호
+helm,키
+swing,그네
+flexing,굴곡
+tarot,타로
+palms,손바닥
+menu,메뉴
+worried,걱정
+messy,지저분한
+crease,주름
+torn,찢어진
+wheel,바퀴
+blinds,장님
+hexagon,육각형
+eagle,독수리
+mahjong,마작
+twitter,지저귀다
+notepad,메모장
+truth,진실
+mascot,마스코트
+truck,트럭
+hanging,매달린
+morning,아침
+gamepad,게임 패드
+neck,목
+skyline,지평선
+ovum,난자
+radio,라디오
+berserk,미쳐
+kanji,한자
+screen,화면
+glitch,결함
+nike,나이키
+kettle,주전자
+potion,독
+scooter,스쿠터
+origami,종이접기
+soccer,축구
+sponge,스펀지
+stove,스토브
+yordle,요들
+friends,친구
+flash,플래시
+runes,룬
+soup,수프
+sobble,흐느껴 울다
+gathers,수집
+sausage,소시지
+sick,아픈
+ladybug,무당벌레
+wig,가발
+inset,삽입하다
+tent,텐트
+ryona,료나
+machine,기계
+pasta,파스타
+tulip,튤립
+potato,감자
+uvula,목젖
+iphone,아이폰
+snail,달팽이
+ipod,아이팟
+tempura,튀김
+theft,절도
+emoji,이모티콘
+archery,양궁
+lapels,옷깃
+laundry,세탁
+unicorn,유니콘
+disgust,혐오
+ketchup,케첩
+lettuce,상추
+abuse,학대
+luggage,수하물
+boar,멧돼지
+cactus,선인장
+chimney,굴뚝
+sundae,아이스크림
+honey,꿀
+cooler,냉각기
+beans,건초 더미
+picnic,피크닉
+clothes,옷
+lighter,라이터
+bus,버스
+bored,심심하다
+snack,간식
+soda,소다
+yarn,털 실
+rocket,로켓
+wetsuit,잠수복
+omelet,오믈렛
+diaper,기저귀
+berry,딸기
+corn,옥수수
+asian,동양인
+tools,도구
+easel,화가
+hoop,희망
+reins,고삐
+wood,나무
+screw,나사
+voile,베일
+meowth,야옹
+popcorn,팝콘
+cleaver,식칼
+texture,텍스처
+brick,벽돌
+ballet,발레
+porch,현관
+stain,얼룩
+elvaan,엘반
+hanbok,한복
+noose,올가미
+seaweed,김
+bayonet,총검
+drugs,마약
+icing,장식
+nier,거절하다
+saddle,안장
+concert,음악회
+coconut,코코넛
+credits,크레딧
+america,미국
+airship,비행선
+hole,구멍
+adidas,아디다스
+napkin,냅킨
+cursive,필기체
+sparrow,참새
+net,그물
+grave,무덤
+crazy,미친
+duster,걸레
+arachne,아라크네
+chalice,성배
+grill,그릴
+tire,타이어
+surcoat,외투
+thermos,보온병
+lattice,격자
+psychic,심령현상
+karaoke,가라오케
+pigeon,비둘기
+onion,양파
+frozen,얼다
+melon,멜론
+wallet,지갑
+tall,키가 큰
+cursor,커서
+note,메모
+cart,카트
+butter,버터
+clown,어릿광대
+lizard,도마뱀
+juice,즙
+pegasus,페가수스
+seat,좌석
+mummy,엄마
+korra,절차
+plume,깃털
+pet,애완동물
+soviet,소비에트
+hungry,배고프다
+torture,고문
+beam,빔
+cloth,옷감
+radish,무
+puppy,강아지
+sauna,사우나
+diving,다이빙
+steak,스테이크
+crowbar,쇠지레
+mast,돛대
+hanami,하나미
+evil,악
+army,육군
+hook,갈고리
+galaxy,은하
+mat,음식
+sewing,바느질
+acorn,도토리
+suicide,자살
+salad,샐러드
+aurora,오로라
+whiskey,위스키
+cola,콜라
+parrot,앵무새
+meta,메타
+oil,기름
+cast,캐스트
+focused,집중
+syrup,시럽
+easter,부활절
+animare,애니메이션
+koi,잉어
+hardhat,안전모
+pelt,던지다
+vampy,뱀파이어
+crumbs,부스러기
+sheik,셰이크
+youtube,유튜브
+head,머리
+otaku,오타쿠
+phoenix,불사조
+bee,꿀벌
+eel,뱀장어
+cattail,부들
+compass,나침반
+germany,독일
+drugged,취한
+bolt,볼트
+surfing,파도타기
+saw,톱
+catsuit,캣수트
+folder,폴더
+cabbage,양배추
+scouter,스카우트
+tennis,테니스
+viper,독사
+pinned,고정
+heles,치유
+storm,폭풍우
+orca,범고래
+weights,무게
+canteen,매점
+prank,장난
+rooster,수탉
+math,수학
+pitcher,투수
+moth,나방
+stance,자세
+gesture,제스처
+ashtray,재떨이
+chess,체스
+murder,살인
+voms,음부
+casino,카지노
+punk,펑크
+rust,쉬다
+bipod,받침대
+stocks,주식
+walker,보행자
+nazi,나치
+lonely,외로운
+trash,쓰레기
+singlet,싱글
+dwarf,난쟁이
+brain,뇌
+urinal,변기
+rag,넝마
+vodka,보드카
+cork,코르크
+crocs,악어
+record,기록
+ticket,표
+hawk,호크
+band,밴드
+sauce,소스
+nerv,신경
+jam,잼
+haunter,헌터
+materia,건
+fern,멀리
+enema,관장
+aroused,흥분
+skating,스케이팅
+mansion,대저택
+masked,마스크
+tofu,두부
+zorua,토양
+bars,바
+stapler,지게차
+trophy,트로피
+beaker,비커
+bacon,베이컨
+party,파티
+fever,발열
+carton,판지
+poring,실재
+udon,우동
+pepper,후추
+kitten,새끼고양이
+manhwa,만화
+mud,진흙
+square,정사각형
+poop,똥
+twig,나뭇가지
+sleigh,썰매
+goomy,끈적한
+spiral,나선
+oven,오븐
+package,패키지
+diagram,다이어그램
+rattle,텅
+worm,벌레
+wrapper,래퍼
+comet,혜성
+burnt,탄
+piapro,피아프로
+kupaa,승천
+seed,씨
+batman,배트맨
+magnet,자석
+obese,뚱뚱한
+heater,히터
+fly,파리
+bonsai,분재
+leina,슬픔
+grid,그리드
+curious,호기심이 많은
+pacific,태평양
+trowel,모종삽
+wool,양모
+hashtag,해시태그
+boulder,보울
+board,판
+rpg,롤플레잉
+oden,오뎅
+arguing,말다툼
+cowboy,카우보이
+pepsi,펩시
+suplex,수플렉스
+giraffe,기린
+menace,위협
+slide,슬라이드
+fisting,주먹 넣기
+basin,대야
+racecar,레이싱카
+mullet,숭어
+dome,돔
+peanuts,땅콩
+nebula,성운
+sprite,도깨비
+racing,경주
+dawn,새벽
+waffle,와플
+traffic,교통
+ipad,아이패드
+dating,데이트
+alpaca,알파카
+vomit,게우다
+height,높이
+chimera,키메라
+heroman,히어로맨
+metal,금속
+frieza,추위
+meteor,유성
+cello,첼로
+jester,광대
+target,과녁
+liquor,주류
+matches,성냥
+razor,면도기
+unhappy,불행
+lobster,가재
+trapped,갇혀
+tuna,다랑어
+slug,민달팽이
+dreepy,드립
+boxing,권투
+pidgey,피지
+core,심
+swan,백조
+urban,도시의
+scizor,가위
+barbell,바벨
+hybrid,잡종
+totoro,토토로
+bort,자리 비움
+ryne,린
+puzzle,수수께끼
+guile,교활
+bauble,싸구려
+shinx,정강이
+forced,강제
+kite,연
+prier,기도하다
+clam,조개
+rotated,회전
+keroro,케로로
+flood,홍수
+dishes,설거지
+piglet,새끼 돼지
+typing,입력
+saiyan,사이어인
+falcon,송골매
+knot,매듭
+ostrich,타조
+scrape,긁다
+subway,지하철
+spire,첨탑
+caution,주의
+tossing,던지기
+hymen,처녀막
+rivalry,경쟁
+keyring,열쇠 고리
+engine,엔진
+lego,레고
+fart,속도
+koala,코알라
+battery,배터리
+faceoff,대결
+menat,의미
+samsung,삼성
+cicada,매미
+clash,충돌
+sail,돛
+camping,캠핑
+science,과학
+placard,벽장
+block,차단
+crash,추락
+nest,둥지
+wetland,습지
+pony,조랑말
+diary,일기
+mortar,박격포
+hanged,교수형
+swirl,소용돌이
+laces,끈
+braces,중괄호
+goose,거위
+despair,절망
+liru,무료
+cub,새끼
+prince,왕자
+test,테스트
+noise,소음
+furious,격노한
+yoga,요가
+baton,지휘봉
+bomber,폭격기
+organs,기관
+farm,농장
+ogre,오우거
+shatter,균열
+memory,기억
+wax,밀랍
+barista,바텐더
+vespa,말벌
+model,모델
+tailred,꼬리
+gelatin,젤라틴
+yakuza,야쿠자
+cracker,크래커
+sashimi,생선회
+lineage,혈통
+ginko,은행 나무
+kyoto,교토
+jedi,제다이
+ovaries,난소
+genie,요정
+stack,스택
+tackle,태클
+peacock,공작
+mujina,무지나
+hotpot,냄비
+rake,갈퀴
+binder,바인더
+molcar,몰카
+kendo,검도
+pincers,집게
+mustard,겨자
+diorama,디오라마
+kumiho,구미호
+poker,포커
+taxi,택시
+sumo,스모
+viking,바이킹
+golf,골프
+yagoo,야구
+nobeta,노베타
+weasel,족제비
+valley,골짜기
+alchemy,연금술
+poverty,빈곤
+birth,출생
+clumsy,서투른
+wafer,웨이퍼
+idea,생각
+scat,배설물
+spots,반점
+heavy,무겁다
+salt,소금
+relaxed,느긋한
+bard,시인
+gaiters,각반
+caress,애무
