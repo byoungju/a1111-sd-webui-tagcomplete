@@ -1,72 +1,72 @@
 ﻿masterpiece,명작
-distinct,뚜렷한 이미지
-blurry,흐릿한 이미지
-highres,높은 해상도
+distinct,뚜렷한_이미지
+blurry,흐릿한_이미지
+highres,높은_해상도
 high_quality,고화질
-hyper_detail,높은 디테일
-finely_detailed,세세한 디테일
-intricate_details,복잡한 디테일
-perfect_body,완벽한 신체
-perfect_anatomy,완벽한 체형
+hyper_detail,높은_디테일
+finely_detailed,세세한_디테일
+intricate_details,복잡한_디테일
+perfect_body,완벽한_신체
+perfect_anatomy,완벽한_체형
 unfinished,러프
 sketch,스케치
-ligne_claire,선이 명확한
-traditional_media,손 그림
-faux_traditional_media,가짜 손 그림
+ligne_claire,선이_명확한
+traditional_media,손_그림
+faux_traditional_media,가짜_손_그림
 game_cg,게임
 pixel_art,픽셀
 bishoujo,미소녀
 anime_art_style,애니메이션
 realistic,실사체
 semi_realistic,빈실사체
-manga_realistic,일본풍 실사체
-cartoon_realistic,미국풍 실사체
+manga_realistic,일본풍_실사체
+cartoon_realistic,미국풍_실사체
 webtoon,웹툰
 pixiv,픽시브
 illustration,삽화
-eromanga,에로 만화
-shonen_manga,소년 만화
+eromanga,에로_만화
+shonen_manga,소년_만화
 disney,디즈니
 cartoon,카툰
-cartoon_network,카툰 네트워크
-calarts_style,칼아츠 스타일
-graphic_novel,그래픽 노벨
-american_cartoon,미국 카툰
-american_comics,미국 만화
+cartoon_network,카툰_네트워크
+calarts_style,칼아츠_스타일
+graphic_novel,그래픽_노벨
+american_cartoon,미국_카툰
+american_comics,미국_만화
 style_parody={},패러디
 fantasy,판타지
-dark_fantasy,다크 판타지
-gothic_fantasy,고딕 판타지
-urban_fantasy,어반 판타지
-romance_fantasy,로맨스 판타지
+dark_fantasy,다크_판타지
+gothic_fantasy,고딕_판타지
+urban_fantasy,어반_판타지
+romance_fantasy,로맨스_판타지
 steampunk,스팀펑크
 dieselpunk,디젤펑크
 cyberpunk,사이버펑크
 arcanepunk,아케인펑크
-greek_mythology,그리스 신화
-nordic_mythology,북유럽 신화
-sumerian_mythology,수메르 신화
-slavic_mythology,슬라브 신화
-aztec_mythology,아즈텍 신화
-egyptian_mythology,이집트 신화
-indian_mythology,인도 신화
-japanese_mythology,일본 신화
-chinese_mythology,중국 신화
-celtic_mythology,켈트 신화
-album_cover,앨범 표지
-character_single,싱글 캐릭터 표지
-cover_page,작품 표지
-doujin_cover,동인지 표지
-fake_cover,가짜 표지
-video_game_cover,비디오 게임 표지
-magazine_cover,잡지 표지
-manga_cover,만화 표지
+greek_mythology,그리스_신화
+nordic_mythology,북유럽_신화
+sumerian_mythology,수메르_신화
+slavic_mythology,슬라브_신화
+aztec_mythology,아즈텍_신화
+egyptian_mythology,이집트_신화
+indian_mythology,인도_신화
+japanese_mythology,일본_신화
+chinese_mythology,중국_신화
+celtic_mythology,켈트_신화
+album_cover,앨범_표지
+character_single,싱글_캐릭터_표지
+cover_page,작품_표지
+doujin_cover,동인지_표지
+fake_cover,가짜_표지
+video_game_cover,비디오_게임_표지
+magazine_cover,잡지_표지
+manga_cover,만화_표지
 teuroteu,트로트
-game_music,게임 음악
+game_music,게임_음악
 new_music,뉴뮤직
-new_age_music,뉴에이지 음악
-city_pop,시티 팝
-animated_music,애니메이션 음악
+new_age_music,뉴에이지_음악
+city_pop,시티_팝
+animated_music,애니메이션_음악
 enka,엔카
 eurobeat,유로비트
 electronica,일렉트로니카
@@ -78,9 +78,9 @@ rock_and_roll,로큰롤
 rock,록
 ballad,발라드
 blues,블루스
-soulfulmusic,소울 음악
+soulfulmusic,소울_음악
 jazz,재즈
-electronic_music,전자 음악
+electronic_music,전자_음악
 country,컨트리
 classic,클래식
 pop,팝
@@ -88,7 +88,7 @@ funk,펑크
 fork,포크
 hip-hop,힙합
 nihonga,일본화
-sumi-e,일본 페인팅
+sumi-e,일본_페인팅
 ukiyo-e,우키요에
 art_deco,아르데코
 art_nouveau,아르누보
@@ -106,13 +106,13 @@ millipen,밀리펜
 ballpoint_pen,볼펜
 chalk,분필
 brush,브러시
-color_ink,색 잉크
+color_ink,색_잉크
 colored_pencil,색연필
-calligraphy_brush,서예 붓
+calligraphy_brush,서예_붓
 watercolor,수채화
-watercolor_pencil,수채화 연필
+watercolor_pencil,수채화_연필
 charcoal,숯
-acrylic_paint,아크릴 물감
+acrylic_paint,아크릴_물감
 airbrush,에어브러시
 oil_painting,유화
 ink,잉크
@@ -120,97 +120,97 @@ canvas,캔버스
 crayon,크레용
 pastel,파스텔
 nib_pen,펜촉
-coupy_pencil,플라스틱 연필
+coupy_pencil,플라스틱_연필
 painting,회화
 graphite,흑연
 porn,포르노
-sex_video,섹스 비디오
-revenge_porn,리벤지 포르노
-male_focus,남자에 집중
-female_focus,여자에 집중
-front_focus,앞쪽에 집중
-back_focus,뒤쪽에 집중
-other_focus,바깥에 집중
-eye_focus,눈에 집중
-hand_focus,손에 집중
-foot_focus,발에 집중
-breast_focus,가슴에 집중
-armpit_focus,겨드랑이에 집중
-navel_focus,배꼽에 집중
-thigh_focus,허벅지에 집중
-ass_focus,엉덩이에 집중
-face,범위를 얼굴에
-upper_body,범위를 상체에
-lower_body,범위를 하체에
-cowboy_shot,범위를 얼굴~허벅지에
-feet_out_of_frame,범위를 얼굴~발목에
-fullbody,범위를 전신까지
-wide_shot,범위를 멀리서
-very_wide_shot,범위를 매우 멀리서
-looking_at_viewer,시점을 뷰어에
-looking_up,시점을 위에
-looking_down,시점을 아래로
-looking_front,시점을 앞으로
-looking_back,시점을 뒤로
-looking_away,시점을 멀리
-looking_outside,시점을 밖에
-looking_to_the_side,시점을 측면에
-eye_contact,시점을 눈에
-looking_at_hand,시점을 손에
-looking_through_legs,시점을 다리에
-looking_at_breasts,시점을 가슴에
-looking_at_ass,시점을 엉덩이에
-looking_at_another,시점을 다른 사람에
-looking_at_mirror,시점을 거울에
-looking_at_phone,시점을 전화에
-looking_over_eyewear,시점을 안경 밖에
+sex_video,섹스_비디오
+revenge_porn,리벤지_포르노
+male_focus,남자에_집중
+female_focus,여자에_집중
+front_focus,앞쪽에_집중
+back_focus,뒤쪽에_집중
+other_focus,바깥에_집중
+eye_focus,눈에_집중
+hand_focus,손에_집중
+foot_focus,발에_집중
+breast_focus,가슴에_집중
+armpit_focus,겨드랑이에_집중
+navel_focus,배꼽에_집중
+thigh_focus,허벅지에_집중
+ass_focus,엉덩이에_집중
+face,범위를_얼굴에
+upper_body,범위를_상체에
+lower_body,범위를_하체에
+cowboy_shot,범위를_얼굴~허벅지에
+feet_out_of_frame,범위를_얼굴~발목에
+fullbody,범위를_전신까지
+wide_shot,범위를_멀리서
+very_wide_shot,범위를_매우_멀리서
+looking_at_viewer,시점을_뷰어에
+looking_up,시점을_위에
+looking_down,시점을_아래로
+looking_front,시점을_앞으로
+looking_back,시점을_뒤로
+looking_away,시점을_멀리
+looking_outside,시점을_밖에
+looking_to_the_side,시점을_측면에
+eye_contact,시점을_눈에
+looking_at_hand,시점을_손에
+looking_through_legs,시점을_다리에
+looking_at_breasts,시점을_가슴에
+looking_at_ass,시점을_엉덩이에
+looking_at_another,시점을_다른_사람에
+looking_at_mirror,시점을_거울에
+looking_at_phone,시점을_전화에
+looking_over_eyewear,시점을_안경_밖에
 1koma,1컷
 2koma,2컷
 3koma,3컷
 4koma,4컷
 5koma,5컷
 6koma,6컷
-cross-section,추가적인 컷씬
-borderless_panels,테두리 없는 컷
-left-to-right_manga,왼쪽에서 오른쪽 컷 진행
-right-to-left_comic,오른쪽에서 왼쪽 컷 진행
-fire* effect,불 효과
-flame* effect,화염 효과
-spark* effect* spark,전기 효과
-lightning* effect,번개 효과
-wind* effect,바람 효과
-wave* effect,파도 효과
-magical* effect,매지컬 효과
-effect* glossy,광택 효과
-effect* light_rays,광선 효과
-effect* speed_lines,집중선 효과
-* effect* trembling,떨림 효과
-effect* blur,블러 효과
-effect* motion_blur,모션 블러 효과
-dynamic_angle,역동적인 각도
-dynamic_pose,역동적인 포즈
-* light_particle,반짝이는 입자 효과
-light* gray_particle,회색 입자가 반짝히는 효과
-light* white_particle,흰색 입자가 반짝히는 효과
-light* brown_particle,갈색 입자가 반짝히는 효과
-light* red_particle,빨강색 입자가 반짝히는 효과
-light* pink_particle,분홍색 입자가 반짝히는 효과
-light* orange_particle,주황색 입자가 반짝히는 효과
-light* yellow_particle,노란색 입자가 반짝히는 효과
-light* golden_particle,황금색 입자가 반짝히는 효과
-light* light_green_particle,연두색 입자가 반짝히는 효과
-light* green_particle,초록색 입자가 반짝히는 효과
-light* sky_blue_particle,하늘색 입자가 반짝히는 효과
-light* blue_particle,파란색 입자가 반짝히는 효과
-light* purple_particle,보라색 입자가 반짝히는 효과
-light* black_particle,검은색 입자가 반짝히는 효과
-light* rainbow_particle,무지개색 입자가 반짝히는 효과
-* swirling_around_the_character,캐릭터 주변을 휘몰아치는 효과
-fire* swirling_around_the_character,불이 휘몰아치는 효과
-water* swirling_around_the_character,물이 휘몰아치는 효과
-wind* swirling_around_the_character,바람이 휘몰아치는 효과
-lighting* swirling_around_the_character,번개가 휘몰아치는 효과
-wave* swirling_around_the_character,파도가 휘몰아치는 효과
+cross-section,추가적인_컷씬
+borderless_panels,테두리_없는_컷
+left-to-right_manga,왼쪽에서_오른쪽_컷_진행
+right-to-left_comic,오른쪽에서_왼쪽_컷_진행
+fire*_effect,불_효과
+flame*_effect,화염_효과
+spark*_effect*_spark,전기_효과
+lightning*_effect,번개_효과
+wind*_effect,바람_효과
+wave*_effect,파도_효과
+magical*_effect,매지컬_효과
+effect*_glossy,광택_효과
+effect*_light_rays,광선_효과
+effect*_speed_lines,집중선_효과
+*_effect*_trembling,떨림_효과
+effect*_blur,블러_효과
+effect*_motion_blur,모션_블러_효과
+dynamic_angle,역동적인_각도
+dynamic_pose,역동적인_포즈
+*_light_particle,반짝이는_입자_효과
+light*_gray_particle,회색_입자가_반짝히는_효과
+light*_white_particle,흰색_입자가_반짝히는_효과
+light*_brown_particle,갈색_입자가_반짝히는_효과
+light*_red_particle,빨강색_입자가_반짝히는_효과
+light*_pink_particle,분홍색_입자가_반짝히는_효과
+light*_orange_particle,주황색_입자가_반짝히는_효과
+light*_yellow_particle,노란색_입자가_반짝히는_효과
+light*_golden_particle,황금색_입자가_반짝히는_효과
+light*_light_green_particle,연두색_입자가_반짝히는_효과
+light*_green_particle,초록색_입자가_반짝히는_효과
+light*_sky_blue_particle,하늘색_입자가_반짝히는_효과
+light*_blue_particle,파란색_입자가_반짝히는_효과
+light*_purple_particle,보라색_입자가_반짝히는_효과
+light*_black_particle,검은색_입자가_반짝히는_효과
+light*_rainbow_particle,무지개색_입자가_반짝히는_효과
+*_swirling_around_the_character,캐릭터_주변을_휘몰아치는_효과
+fire*_swirling_around_the_character,불이_휘몰아치는_효과
+water*_swirling_around_the_character,물이_휘몰아치는_효과
+wind*_swirling_around_the_character,바람이_휘몰아치는_효과
+lighting*_swirling_around_the_character,번개가_휘몰아치는_효과
+wave*_swirling_around_the_character,파도가_휘몰아치는_효과
 gray_background,회색
 white_background,흰색
 brown_background,갈색
@@ -226,22 +226,22 @@ blue_background,파란색
 purple_background,보라색
 black_background,검은색
 rainbow_background,무지개색
-two-tone_background,투 톤
+two-tone_background,투_톤
 streaked_background,줄무늬
 gradient_background,그라데이션
-split-color_background,색깔 분열
-multicolored_background,여러 색깔
-colored_inner_background,내부 착색
-plaid_background,격자 무늬
-strawberry_background,딸기 무늬
-polka_dot_background,물방울 무늬
-american_flag_background,미국 국기 무늬
-argyle_background,아가일 무늬
-camouflage_background,위장 무늬
-print_background,인쇄한 무늬
-diagonal-striped_background,사선 줄무늬
-vertical-striped_background,세로 줄무늬
-checkered_background,체크 무늬
+split-color_background,색깔_분열
+multicolored_background,여러_색깔
+colored_inner_background,내부_착색
+plaid_background,격자_무늬
+strawberry_background,딸기_무늬
+polka_dot_background,물방울_무늬
+american_flag_background,미국_국기_무늬
+argyle_background,아가일_무늬
+camouflage_background,위장_무늬
+print_background,인쇄한_무늬
+diagonal-striped_background,사선_줄무늬
+vertical-striped_background,세로_줄무늬
+checkered_background,체크_무늬
 asia,아시아
 korea,한국
 north_korea,북한
@@ -286,8 +286,8 @@ house,집
 apartment,아파트
 hut,오두막
 shack,오두막집
-treehouse,나무 위의집
-stilt_house,물 위의 집
+treehouse,나무_위의집
+stilt_house,물_위의_집
 closet,옷장
 bathroom,화장실
 bathtub,욕조
@@ -301,18 +301,18 @@ otaku_room,오타쿠방
 shower,샤워실
 toilet_stall,칸막이화장실
 prison_cell,감옥
-dungeon,지하 감옥
-minaret,건물 난간
+dungeon,지하_감옥
+minaret,건물_난간
 church,교회
-military_base,군사 기지
-bunker,군사 벙커
+military_base,군사_기지
+bunker,군사_벙커
 library,도서관
 city,도시
 park,공원
 village,마을
 town,빌딩
 rural,시골
-floating_city,이동하는 도시
+floating_city,이동하는_도시
 garden,정원
 graveyard,묘지
 courtroom,법정
@@ -320,20 +320,20 @@ infirmary,병실
 hospital,병원
 mosque,사원
 castle,성
-love_hotel,러브 호텔
+love_hotel,러브_호텔
 hotel,호텔
 hotel_room,호텔방
 shrine,신사
 ruins,유적
-phone_booth,전화 부스
+phone_booth,전화_부스
 temple,절
 school,학교
-rooftop,건물 옥상
+rooftop,건물_옥상
 classroom,교실
 clubroom,동아리실
 office,사무실
 staff_room,직원실
-cubicle_1_cubicle,1인 사무실
+cubicle_1_cubicle,1인_사무실
 arcade,게임장
 stadium,경기장
 ferris_wheel,관람차
@@ -352,7 +352,7 @@ nightclub,클럽
 arena,투기장
 carousel,회전목마
 stage,무대
-convention,이벤트 무대
+convention,이벤트_무대
 locker_room,라커룸
 bowling_alley,볼링장
 pool,수영장
@@ -373,8 +373,8 @@ armory,무기창고
 bakery,빵집
 salon,샬롱
 bookstore,서점
-sex_shop,성인 도구가게
-supermarket,슈퍼 마켓
+sex_shop,성인_도구가게
+supermarket,슈퍼_마켓
 market,시장
 dining_room,식당
 pharmacy,야외
@@ -387,9 +387,9 @@ path,길
 bridge,다리
 sidewalk,보도
 crosswalk,횡단보도
-stone_walkway,돌 산책로
-wooden_bridg,나무 다리
-rope_bridge,밧줄 다리
+stone_walkway,돌_산책로
+wooden_bridg,나무_다리
+rope_bridge,밧줄_다리
 road,도로
 highway,고속도로
 garage,차고
@@ -397,7 +397,7 @@ tunnel,터널
 gas_station,주유소
 parking_lot,주차장
 train_station,기차역
-railroad_tracks,철도 선로
+railroad_tracks,철도_선로
 railroad_crossing,교차로
 harbor,항구
 canal,운하
@@ -407,7 +407,7 @@ hangar,격납고
 airport,공항
 airfield,비행장
 runway,활주로
-control_tower,컨트롤 타워
+control_tower,컨트롤_타워
 construction_site,건설현장
 factory,공장
 flower_field,꽃밭
@@ -415,11 +415,11 @@ cooling_tower,냉각탑
 wheat_field,밀밭
 powerplant,발전소
 field,밭
-laboratory,별자리 투영기
+laboratory,별자리_투영기
 rice_paddy,쌀밭
 conservatory,온실
 barn,외양간
-nuclear_powerplant,원자력 발전소
+nuclear_powerplant,원자력_발전소
 workshop,작업장
 gazebo,전망대
 refinery,정련소
@@ -436,7 +436,7 @@ desert,사막
 savannah,사바나
 mountain,산
 island,섬
-floating_island,섬이 떠다니다
+floating_island,섬이_떠다니다
 hill,언덕
 pond,연못
 oasis,오아시스
@@ -449,7 +449,7 @@ canyon,협곡
 lake,호수
 volcano,화산
 wasteland,황무지
-megastructure,거대 구조물
+megastructure,거대_구조물
 guard_tower,경비탑
 dam,댐
 dock,둑
@@ -458,7 +458,7 @@ skyscraper,마천루
 fountain,분수
 aqueduct,수로
 clock_tower,시계탑
-space_elevator,우주 엘리베이터
+space_elevator,우주_엘리베이터
 bell_tower,종탑
 pagoda,탑
 1other,1명
@@ -467,18 +467,18 @@ pagoda,탑
 4other,4명
 5other,5명
 6other,6명
-1boys,남성 1명
-2boys,남성 2명
-3boys,남성 3명
-4boys,남성 4명
-5boys,남성 5명
-6boys,남성 6명
-1girls,여성 1명
-2girls,여성 2명
-3girls,여성 3명
-4girls,여성 4명
-5girls,여성 5명
-6girls,여성 6명
+1boys,남성_1명
+2boys,남성_2명
+3boys,남성_3명
+4boys,남성_4명
+5boys,남성_5명
+6boys,남성_6명
+1girls,여성_1명
+2girls,여성_2명
+3girls,여성_3명
+4girls,여성_4명
+5girls,여성_5명
+6girls,여성_6명
 son,아들
 daughter,딸
 father,아버지
@@ -494,36 +494,36 @@ younger_brother,남동생
 younger_sister,여동생
 siblings,형제
 sisters,자매
-brother_and_sister,형제와 자매
-step-siblings,의붓 형제
-half-siblings,이복 형제자매
+brother_and_sister,형제와_자매
+step-siblings,의붓_형제
+half-siblings,이복_형제자매
 multiple_births,다태아
 twins,쌍둥이
-triplets,세 쌍둥이
-quadruplets,네 쌍둥이
-sextuplets,다섯 쌍둥이
-septuplets,일곱 쌍둥이
-father_and_son,아버지와 아들
-father_and_daughter,아버지와 딸
-mother_and_son,어머니와 아들
-mother_and_daughter,어머니와 딸
-uncle_and_nephew,삼촌과 남자 조카
-uncle_and_niece,삼촌과 여자 조카
-aunt_and_niece,이모와 여자 조카
-aunt_and_nephew,이모와 남자 조카
-grandfather_and_grandson,할아버지와 손자
-grandfather_and_granddaughter,할아버지와 손녀
-grandmother_and_grandson,할머니와 손자
-grandmother_and_granddaughter,할머니와 손녀
+triplets,세_쌍둥이
+quadruplets,네_쌍둥이
+sextuplets,다섯_쌍둥이
+septuplets,일곱_쌍둥이
+father_and_son,아버지와_아들
+father_and_daughter,아버지와_딸
+mother_and_son,어머니와_아들
+mother_and_daughter,어머니와_딸
+uncle_and_nephew,삼촌과_남자_조카
+uncle_and_niece,삼촌과_여자_조카
+aunt_and_niece,이모와_여자_조카
+aunt_and_nephew,이모와_남자_조카
+grandfather_and_grandson,할아버지와_손자
+grandfather_and_granddaughter,할아버지와_손녀
+grandmother_and_grandson,할머니와_손자
+grandmother_and_granddaughter,할머니와_손녀
 yellow_man,황인
-a_mixed_eastern_blood,동앙계 혼혈
-eastern_quota,동양계 쿼터
+a_mixed_eastern_blood,동앙계_혼혈
+eastern_quota,동양계_쿼터
 white_man,백인
-a_mixed_race_of_white_blood,백인계 혼혈
-white_quarter,백인계 쿼터
+a_mixed_race_of_white_blood,백인계_혼혈
+white_quarter,백인계_쿼터
 black_man,흑인
-a_mixed_race_of_black_people,흑인계 혼혈
-black_quarter,흑인계 쿼터
+a_mixed_race_of_black_people,흑인계_혼혈
+black_quarter,흑인계_쿼터
 korean,한국인
 north_koreans,북한인
 japanese,일본인
@@ -571,19 +571,19 @@ bokodere,보코데레
 yandere,얀데레
 tsundere,츤데레
 kuudere,쿨데레
-lawful_good,질서 선
-lawful_neutral,질서 중립
-lawful_evil,질서 악
-neutral_good,중립 선
+lawful_good,질서_선
+lawful_neutral,질서_중립
+lawful_evil,질서_악
+neutral_good,중립_선
 true_neutral,중립
-neutral_evil,중립 악
-chaotic_good,혼돈 선
-chaotic_neutral,혼돈 중립
-chaotic_evil,혼돈 악
+neutral_evil,중립_악
+chaotic_good,혼돈_선
+chaotic_neutral,혼돈_중립
+chaotic_evil,혼돈_악
 goblin,고블린
 elf,엘프
-dark_elf,다크 엘프
-high_elf,하이 엘프
+dark_elf,다크_엘프
+high_elf,하이_엘프
 orc,오크
 monster,요괴
 fairy,요정
@@ -615,55 +615,55 @@ mouse,쥐
 rabbit,토끼
 panda,팬더
 tiger,호랑이
-dog_anthro,강아지 인간
-gorilla_anthro,고릴라 인간
-cat_anthro,고양이 인간
-bear_anthro,곰 인간
-raccoon_anthro,너구리 인간
-wolf_anthro,늑대 인간
-squirrel_anthro,다람쥐 인간
-pig_anthro,돼지 인간
-horse_anthro,말 인간
-bat_anthro,박쥐 인간
-deer_anthro,사슴 인간
-lion_anthro,사자 인간
-cow_anthro,소 인간
-sheep_anthro,양 인간
-fox_anthro,여우 인간
-goat_anthro,염소 인간
-monkey_anthro,원숭이 인간
-ferret_anthro,족제비 인간
-mouse_anthro,쥐 인간
-rabbit_anthro,토끼 인간
-panda_anthro,팬더 인간
-tiger_anthro,호랑이 인간
-dog_furry,강아지 수인
-gorilla_furry,고릴라 수인
-cat_furry,고양이 수인
-bear_furry,곰 수인
-raccoon_furry,너구리 수인
-wolf_furry,늑대 수인
-squirrel_furry,다람쥐 수인
-pig_furry,돼지 수인
-horse_furry,말 수인
-bat_furry,박쥐 수인
-deer_furry,사슴 수인
-lion_furry,사자 수인
-cow_furry,소 수인
-sheep_furry,양 수인
-fox_furry,여우 수인
-goat_furry,염소 수인
-monkey_furry,원숭이 순인
-ferret_furry,족제비 수인
-mouse_furry,쥐 수인
-rabbit_furry,토끼 수인
-panda_furry,팬더 수인
-tiger_furry,호랑이 수인
+dog_anthro,강아지_인간
+gorilla_anthro,고릴라_인간
+cat_anthro,고양이_인간
+bear_anthro,곰_인간
+raccoon_anthro,너구리_인간
+wolf_anthro,늑대_인간
+squirrel_anthro,다람쥐_인간
+pig_anthro,돼지_인간
+horse_anthro,말_인간
+bat_anthro,박쥐_인간
+deer_anthro,사슴_인간
+lion_anthro,사자_인간
+cow_anthro,소_인간
+sheep_anthro,양_인간
+fox_anthro,여우_인간
+goat_anthro,염소_인간
+monkey_anthro,원숭이_인간
+ferret_anthro,족제비_인간
+mouse_anthro,쥐_인간
+rabbit_anthro,토끼_인간
+panda_anthro,팬더_인간
+tiger_anthro,호랑이_인간
+dog_furry,강아지_수인
+gorilla_furry,고릴라_수인
+cat_furry,고양이_수인
+bear_furry,곰_수인
+raccoon_furry,너구리_수인
+wolf_furry,늑대_수인
+squirrel_furry,다람쥐_수인
+pig_furry,돼지_수인
+horse_furry,말_수인
+bat_furry,박쥐_수인
+deer_furry,사슴_수인
+lion_furry,사자_수인
+cow_furry,소_수인
+sheep_furry,양_수인
+fox_furry,여우_수인
+goat_furry,염소_수인
+monkey_furry,원숭이_순인
+ferret_furry,족제비_수인
+mouse_furry,쥐_수인
+rabbit_furry,토끼_수인
+panda_furry,팬더_수인
+tiger_furry,호랑이_수인
 burglar,강도
 gyaru,갸루
-construction_worker,건설 노동자
+construction_worker,건설_노동자
 miner,광부
-florist,꽃집 직원
+florist,꽃집_직원
 lumberjack,나무꾼
 librarian,사서
 croupier,상인
@@ -685,7 +685,7 @@ lifeguard,근위대
 sailor,선원
 firefighter,소방관
 spy,스파이
-astronaut,우주 비행사
+astronaut,우주_비행사
 chef,요리사
 conductor,지휘자
 bodyguard,친위대
@@ -693,29 +693,29 @@ bartender,바텐더
 waiter,웨이터
 waitress,웨이트리스
 butler,집사
-cashier,카운터 직원
+cashier,카운터_직원
 maid,메이드
-nuss_made,너스 메이드
-ladies_made,레이디스 메이드
-military_made,밀리터리 메이드
-victoria_maid,빅토리아 메이드
-cybermade,사이버 메이드
-steampunk_made,스팀펑크 메이드
-japanese-style_made,일본풍 메이드
-china-style_made,차이나 메이드
-classic_maid,클래식 메이드
-kitchen_made,키친 메이드
-faller_made,팔러 메이드
-french_made,프렌치 메이드
-house_made,하우스 메이드
+nuss_made,너스_메이드
+ladies_made,레이디스_메이드
+military_made,밀리터리_메이드
+victoria_maid,빅토리아_메이드
+cybermade,사이버_메이드
+steampunk_made,스팀펑크_메이드
+japanese-style_made,일본풍_메이드
+china-style_made,차이나_메이드
+classic_maid,클래식_메이드
+kitchen_made,키친_메이드
+faller_made,팔러_메이드
+french_made,프렌치_메이드
+house_made,하우스_메이드
 housekeeper,하우스키퍼
 scientist,과학자
 chemist,화학자
 engineer,엔지니어
 geisha,게이샤
 idol,아이돌
-actor,남성 배우
-actress,여성 배우
+actor,남성_배우
+actress,여성_배우
 musician,음악가
 painter,화가
 artist,예술가
@@ -723,23 +723,23 @@ athlete,운동선수
 footballer,축구선수
 baseball_player,야구선수
 volleyball_player,배구선수
-golfer,골프 선수
-tennis_player,테니스 선수
-cyclist,자전거 선수
+golfer,골프_선수
+tennis_player,테니스_선수
+cyclist,자전거_선수
 teacher,교사
-math_teacher,수학 교사
-science_teacher,과학 교사
-english_teacher,영어 교사
-health_teacher,보건 교사
+math_teacher,수학_교사
+science_teacher,과학_교사
+english_teacher,영어_교사
+health_teacher,보건_교사
 driver,운전사
 pilot,조종사
-train_attendant,기차 안내원
-train_conductor,기차 운전사
-flight_attendant,비행기 안내원
-trucker,트럭 운전사
+train_attendant,기차_안내원
+train_conductor,기차_운전사
+flight_attendant,비행기_안내원
+trucker,트럭_운전사
 doctor,의사
 nurse,간호사
-dentist,치과 의사
+dentist,치과_의사
 slave,노예
 farmer,농장주
 queen,여왕
@@ -763,202 +763,202 @@ whore,창녀
 call_girl,콜걸
 stripper,스트립퍼
 prostitution,매춘부
-porno_actor,포르노 배우
-fullmetal_alchemist,강철의 연금술사
-goblin_slayer,고블린 슬레이어
+porno_actor,포르노_배우
+fullmetal_alchemist,강철의_연금술사
+goblin_slayer,고블린_슬레이어
 ghost_in_the_shell,공각기동대
-kimetsu_no_yaiba,귀멸의 칼날
+kimetsu_no_yaiba,귀멸의_칼날
 naruto,나루토
-my_hero_academia,나의 히어로 아카데미아
-rakudai_kishi_no_cavalry,낙제기사의 영웅담
+my_hero_academia,나의_히어로_아카데미아
+rakudai_kishi_no_cavalry,낙제기사의_영웅담
 danganronpa,단간론파
-darling_in_the_franxx,달링 인 더 프랑키스
-tokyo_ghoul,도쿄 구울
+darling_in_the_franxx,달링_인_더_프랑키스
+tokyo_ghoul,도쿄_구울
 dragon_boll,드래곤볼
-log_horizon,로그 호라이즌
+log_horizon,로그_호라이즌
 magi:the_kingdom_of_magic,마기
-mahou_shoujo_lyrical_nanoha,마법소녀 리리컬 나노하
+mahou_shoujo_lyrical_nanoha,마법소녀_리리컬_나노하
 mirai_nikki,미래일기
 bakemonogatari,바케모노가타리
-tate_no_yuusha_no_nariagari,방패용사 성공담
+tate_no_yuusha_no_nariagari,방패용사_성공담
 beelzebub,벨제부브
-black_lagoon,블랙 라군
-black_bullet,블랙 불릿
-black_clover,블랙 클로버
-blue_archive,블루 아카이브
+black_lagoon,블랙_라군
+black_bullet,블랙_불릿
+black_clover,블랙_클로버
+blue_archive,블루_아카이브
 bleach,블리치
-shinmai_maou_no_testament,새여동생 마왕의 계약자
-sword_art_online,소드 아트 온라인
-soul_eater,소울 이터
-strike_the_blood,스트라이크 더 블러드
-spy_x_family,스파이 패밀리
+shinmai_maou_no_testament,새여동생_마왕의_계약자
+sword_art_online,소드_아트_온라인
+soul_eater,소울_이터
+strike_the_blood,스트라이크_더_블러드
+spy_x_family,스파이_패밀리
 ansatsu_kyoushitsu,암살교실
 evangelion,에반게리온
 overlord,오버로드
 one_punch_man,원펀맨
 one_piece,원피스
 youjo_senki,유녀전기
-yu_gi_oh,유희왕 시리즈
+yu_gi_oh,유희왕_시리즈
 gintama,은혼
 inuyasha,이누야샤
-is:_infinite_stratos,인피니트 스트라토스
-nanatsu_no_taizai,일곱 개의 대죄
-tensei_shitara_slime_datta_ken,전생했더니 슬라임이었던 건에 대하여
-zero_no_tsukaima,제로의 사역마
-jojo_no_kimyou_na_bouken,죠죠의 기묘한 모험
-shingeki_no_kyojin,진격의 거인
-tengen_toppa_gurren_lagann,천원돌파 그렌라간
-ao_no_exorcist,청의 엑소시스트
-code_geass,코드 기어스
-kill_la_kill,킬 라 킬
-trinity_seven,트리니티 세븐
+is:_infinite_stratos,인피니트_스트라토스
+nanatsu_no_taizai,일곱_개의_대죄
+tensei_shitara_slime_datta_ken,전생했더니_슬라임이었던_건에_대하여
+zero_no_tsukaima,제로의_사역마
+jojo_no_kimyou_na_bouken,죠죠의_기묘한_모험
+shingeki_no_kyojin,진격의_거인
+tengen_toppa_gurren_lagann,천원돌파_그렌라간
+ao_no_exorcist,청의_엑소시스트
+code_geass,코드_기어스
+kill_la_kill,킬_라_킬
+trinity_seven,트리니티_세븐
 fairy_tail,페어리테일
-pokemon,포켓몬 시리즈
+pokemon,포켓몬_시리즈
 dxd_highschool_dxd,하이스쿨
-highschool_of_the_dead,하이스쿨 오브 더 데드
-gakusen_toshi_asterisk,학전도시 아스터리스크
+highschool_of_the_dead,하이스쿨_오브_더_데드
+gakusen_toshi_asterisk,학전도시_아스터리스크
 hellsing,헬싱
-fine_art_parody={toaru_project},어떤 마술과학의 시리즈
-fine_art_parody={tensei_shitara_slime_datta_ken},전생했더니 슬라임이었던 건에
+fine_art_parody={toaru_project},어떤_마술과학의_시리즈
+fine_art_parody={tensei_shitara_slime_datta_ken},전생했더니_슬라임이었던_건에
 lust,러스트
-riza_hawkeye,리자 호크아이
-olivier_mira_armstrong,올리비에 밀라 암스트롱
-winry_rockbell,윈리 록벨
-izumi_curtis,이즈미 카터스
-sword_maiden,검의 처녀
-cow_girl(goblin_slayer),소치기 소녀
-high_elf_archer(goblin_slayer),엘프 궁수
+riza_hawkeye,리자_호크아이
+olivier_mira_armstrong,올리비에_밀라_암스트롱
+winry_rockbell,윈리_록벨
+izumi_curtis,이즈미_카터스
+sword_maiden,검의_처녀
+cow_girl(goblin_slayer),소치기_소녀
+high_elf_archer(goblin_slayer),엘프_궁수
 priestess(goblin_slayer),여신관
-guild_girl(goblin_slayer),접수원 아가씨
-motoko_kusanagi,쿠사나기 모토코
+guild_girl(goblin_slayer),접수원_아가씨
+motoko_kusanagi,쿠사나기_모토코
 daki,다키
 makio,마키오
 suma,츠마
-kanao_tsuyuri,츠유리 카나에
-nezuko_kamado,카마도 네지로
-shinobu_kocho,코쵸 시노부
+kanao_tsuyuri,츠유리_카나에
+nezuko_kamado,카마도_네지로
+shinobu_kocho,코쵸_시노부
 hinatsuru,히나츠루
-rin_nohara,노하라 린
-yugito_nii,니이 유기토
+rin_nohara,노하라_린
+yugito_nii,니이_유기토
 mabui,마부이
 matsuri,마츠이
-anko_mitarashi,미타라시 앙코
+anko_mitarashi,미타라시_앙코
 samui,사무이
 shizune,시즈네
 ayame,아마네
-ino_yamanaka,야마나카 이노
-kaguya_otsutsuki,오오츠츠키 카구야
-mito_uzumaki,우즈마키 미토
-karin_uzumaki,우즈마키 카린
-kushina_uzumaki,우즈마키 쿠시나
-mikoto_uchiha,우치하 미코토
-yuuhi_kurenai,유우히 쿠레나이
+ino_yamanaka,야마나카_이노
+kaguya_otsutsuki,오오츠츠키_카구야
+mito_uzumaki,우즈마키_미토
+karin_uzumaki,우즈마키_카린
+kushina_uzumaki,우즈마키_쿠시나
+mikoto_uchiha,우치하_미코토
+yuuhi_kurenai,유우히_쿠레나이
 tsunade,츠나데
 karui,카루이
 konan,코난
 kurotsuchi,쿠로츠치
 tayuya,타유야
-mei_terumi,테루미 메이
+mei_terumi,테루미_메이
 temari,테마리
 tenten,텐텐
 pakura,파쿠라
-sakura_haruno,하루노 사쿠라
+sakura_haruno,하루노_사쿠라
 fuu,후우
-hinata_hyuuga,휴우가 히나타
-hanabi_hyuuga,휴우카 히나비
-tatami_nakagame,나카가메 타타미
+hinata_hyuuga,휴우가_히나타
+hanabi_hyuuga,휴우카_히나비
+tatami_nakagame,나카가메_타타미
 lovelover,러브러버
-lady_nagant,레이디 나강
+lady_nagant,레이디_나강
 ragdoll,렉돌
 ryukyu,류쿠
 mandalay,만달레이
-melissa_shield,멜리사 실드
+melissa_shield,멜리사_실드
 midnight,미드나이트
 mirko,미르코
-mitsuki_bakugo,바쿠고 미츠키
+mitsuki_bakugo,바쿠고_미츠키
 burnin,버닝
-nana_shimura,시무라 나나
-tsuyu_asui,아스이 츠유
-mina_ashido,아시도 미나
-reiko_yanagi,야나기 레이코
-momo_yaoyorozu,야오요로즈 모모
-ochaco_uraraka,우라라카 오챠코
+nana_shimura,시무라_나나
+tsuyu_asui,아스이_츠유
+mina_ashido,아시도_미나
+reiko_yanagi,야나기_레이코
+momo_yaoyorozu,야오요로즈_모모
+ochaco_uraraka,우라라카_오챠코
 uwabami,우사바미
-camie_utsushimi,우츠시미 케미
-kyoka_jiro,지로 쿄카
-itsuka_kendo,켄도 이츠카
+camie_utsushimi,우츠시미_케미
+kyoka_jiro,지로_쿄카
+itsuka_kendo,켄도_이츠카
 chitose_kizuki,큐리어스
-himiko_toga,토가 히미코
-rei_todoroki,토도로키 레이
-fuyumi_todoroki,토도로키 후유미
-setsuna_tokage,토카게 세츠나
-pixie-bob,픽시 팝
-toru_hagakure,하가쿠레 토오루
-nejire_hado,하도 네지레
-mei_hatsume,하츠메 메이
-stella_vermillion,스텔라 버밀리온
-shizuku_kurogane,쿠로가네 시즈쿠
-ayase_ayatsuji,아야츠지 아야세
-touka_toudou,토도 토카
-chiaki_nanami,나나미 치아키
-sayaka_maizono,마이조노 사야카
-ibuki_mioda,미오다 이부키
-hiyoko_saionji,사이욘지 이요코
-celestia_ludenberg,셀레스티아 루덴베르크
-sonia_nevermind,소니아 네버마인드
-tsumugi_shirogane,시로가네 츠무기
-aoi_asahina,아사히나 아오이
-kaede_akamatsu,아카마츠 카에데
-junko_enoshima,에노시마 쥰코
-akane_owari,오와리 아카네
-angie_yonaga,요나가 안지
-himiko_yumeno,유메노 히미코
-miu_iruma,이루마 미우
-mukuro_ikusaba,이쿠사바 무쿠로
-tenko_chabashira,챠바시라 텐코
-mikan_tsumiki,츠미키 미캉
-mahiru_koizumi,코이즈미 마히루
-kyoko_kirigiri,키리기리 쿄코
-kirumi_tojo,토죠 쿠루미
-peko_pekoyama,페코야마 페코
-maki_harukawa,하라쿠와 마키
-toko_fukawa,후카와 토코
+himiko_toga,토가_히미코
+rei_todoroki,토도로키_레이
+fuyumi_todoroki,토도로키_후유미
+setsuna_tokage,토카게_세츠나
+pixie-bob,픽시_팝
+toru_hagakure,하가쿠레_토오루
+nejire_hado,하도_네지레
+mei_hatsume,하츠메_메이
+stella_vermillion,스텔라_버밀리온
+shizuku_kurogane,쿠로가네_시즈쿠
+ayase_ayatsuji,아야츠지_아야세
+touka_toudou,토도_토카
+chiaki_nanami,나나미_치아키
+sayaka_maizono,마이조노_사야카
+ibuki_mioda,미오다_이부키
+hiyoko_saionji,사이욘지_이요코
+celestia_ludenberg,셀레스티아_루덴베르크
+sonia_nevermind,소니아_네버마인드
+tsumugi_shirogane,시로가네_츠무기
+aoi_asahina,아사히나_아오이
+kaede_akamatsu,아카마츠_카에데
+junko_enoshima,에노시마_쥰코
+akane_owari,오와리_아카네
+angie_yonaga,요나가_안지
+himiko_yumeno,유메노_히미코
+miu_iruma,이루마_미우
+mukuro_ikusaba,이쿠사바_무쿠로
+tenko_chabashira,챠바시라_텐코
+mikan_tsumiki,츠미키_미캉
+mahiru_koizumi,코이즈미_마히루
+kyoko_kirigiri,키리기리_쿄코
+kirumi_tojo,토죠_쿠루미
+peko_pekoyama,페코야마_페코
+maki_harukawa,하라쿠와_마키
+toko_fukawa,후카와_토코
 ichigo,이치고
 zero_two,제로투
 kokoro,코코로
-daphne_lauros,다프네 라우로스
+daphne_lauros,다프네_라우로스
 demeter(dunmachi),데메테르
 revis,레비스
-lefiya_viridis,레피야 비리디스
+lefiya_viridis,레피야_비리디스
 loki(dunmachi),로키
-ryuu_lion,류 리온
-riveria_ljos_alf,리베리아 리요스 알브
-sanjouno_haruhime,산죠노 하루히메
-syr_flova,시르 플로버
-anya_fromel,아냐 프로멜
-alicia_forestlight,아라시아 포레스트라이트
-airmid_teasanare,아미드 테아사나레
-asfi_al_andromeda,아스피 알 안드로메다
-aisha_belka,아이샤 벨카
-ais_wallenstein,아이즈 발렌슈타인
-eina_tulle,에이나 튤
+ryuu_lion,류_리온
+riveria_ljos_alf,리베리아_리요스_알브
+sanjouno_haruhime,산죠노_하루히메
+syr_flova,시르_플로버
+anya_fromel,아냐_프로멜
+alicia_forestlight,아라시아_포레스트라이트
+airmid_teasanare,아미드_테아사나레
+asfi_al_andromeda,아스피_알_안드로메다
+aisha_belka,아이샤_벨카
+ais_wallenstein,아이즈_발렌슈타인
+eina_tulle,에이나_튤
 ishtar(dunmachi),이슈타르
-cassandra_ilion,카산드라 일리온
-tiona_hiryute,티오나 히류테
-tione_hiryute,티오네 히류테
+cassandra_ilion,카산드라_일리온
+tiona_hiryute,티오나_히류테
+tione_hiryute,티오네_히류테
 freya(dunmachi),프레이야
 hestia(dunmachi),헤스티아
 hephaestus(dunmachi),헤파이스토스
-ching-li_hsiao,샤오 진리
-saiko_yonebayashi,요네바야시 사이코
-eto_yoshimura,요시무라 에토
-hairu_ihei,우헤이 하이루
+ching-li_hsiao,샤오_진리
+saiko_yonebayashi,요네바야시_사이코
+eto_yoshimura,요시무라_에토
+hairu_ihei,우헤이_하이루
 itori,이토리
-rize_kamishiro,카미시로 리제
-touka_kirishima,키리시마 토우카
-roma_hoito,호이토 로마
-ryouko_fueguchi,후에구치 류코
-hinami_fueguchi,후에구치 히나미
+rize_kamishiro,카미시로_리제
+touka_kirishima,키리시마_토우카
+roma_hoito,호이토_로마
+ryouko_fueguchi,후에구치_류코
+hinami_fueguchi,후에구치_히나미
 maron,마론
 bulla,부라
 bulma,부르마
@@ -976,13 +976,13 @@ arba,아르바
 yamraiha,야무라이히
 hakuei_ren,연백련
 kougyoku_ren,연홍옥
-yuno_gasai,가사이 유노
-minene_uryuu,우류 미루네
-tsubaki_kasugano,카스가노 츠바키
+yuno_gasai,가사이_유노
+minene_uryuu,우류_미루네
+tsubaki_kasugano,카스가노_츠바키
 raphtalia,라프타리아
-malty_s_melromarc,마르티 메르로마르크
-melty_q_melromarc,메르티 메르로마르크
-aoi_kunieda,쿠니에다 아오이
+malty_s_melromarc,마르티_메르로마르크
+melty_q_melromarc,메르티_메르로마르크
+aoi_kunieda,쿠니에다_아오이
 hilda(beelzebub),힐다
 revy(black_lagoon),레비
 roberta(black_lagoon),로베르타
@@ -990,80 +990,80 @@ balalaika(black_lagoon),발라레이카
 shenhua(black_lagoon),쉔호아
 eda(black_lagoon),에다
 jane(black_lagoon),제인
-frederica_sawyer(black_lagoon),프레데리카 소여
-hänsel_and_gretel(black_lagoon),헨젤과 그레텔
+frederica_sawyer(black_lagoon),프레데리카_소여
+hänsel_and_gretel(black_lagoon),헨젤과_그레텔
 seitenshi,성천자
-enju_aihara,아이하라 엔쥬
-kisara_tendo,텐도 키사라
-tina_sprout,티나 스프라우트
-kohina_hiruko,히루코 코히나
-noelle_silva,노엘 실버
-mereoleona_vermillion,메레오레오나 버밀리온
-mimosa_vermillion,미모사 버밀리온
-charlotte_roselei,샬롯 로즈레이
-nelliel_tu_odelschwanck,네리엘 투 오델슈방크
-riruka_dokugamine,도쿠가미네 리루카
-lilynette_gingerbuck,리리넷 진저벅
-liltotto_lamperd,릴토토 램퍼드
-rangiku_matsumoto,마츠모토 란기쿠
-meninas_mcallon,미니냐 매컬론
-bambietta_basterbine,밤비에타 바스터바인
+enju_aihara,아이하라_엔쥬
+kisara_tendo,텐도_키사라
+tina_sprout,티나_스프라우트
+kohina_hiruko,히루코_코히나
+noelle_silva,노엘_실버
+mereoleona_vermillion,메레오레오나_버밀리온
+mimosa_vermillion,미모사_버밀리온
+charlotte_roselei,샬롯_로즈레이
+nelliel_tu_odelschwanck,네리엘_투_오델슈방크
+riruka_dokugamine,도쿠가미네_리루카
+lilynette_gingerbuck,리리넷_진저벅
+liltotto_lamperd,릴토토_램퍼드
+rangiku_matsumoto,마츠모토_란기쿠
+meninas_mcallon,미니냐_매컬론
+bambietta_basterbine,밤비에타_바스터바인
 suì-fēng,소이퐁
-kūkaku_shiba,시바 쿠우카쿠
-yoruichi_shihōin,시호인 요루이치
-lisa_yadōmaru,야도마루 리사
-ikumi_unagiya,우나기야 이쿠미
-retsu_unohana,우노하나 레츠
-orihime_inoue,이노우에 오히리메
-nanao_ise,이세 나아오
-giselle_gewelle,지젤 쥬엘
-candice_catnipp,캔디스 캐트닙
-isane_kotetsu,코테츠 이사네
-nemu_kurotsuchi,쿠로츠지 네무
-rukia_kuchiki,쿠치키 루키아
-tier_harribel,티아 할리벨
-kirio_hikifune,히키후네 키리오
-maria_naruse,나루세 마리아
-mio_naruse,나루세 미오
-yuki_nonaka,노나카 유키
-kurumi_nonaka,노나카 쿠루미
+kūkaku_shiba,시바_쿠우카쿠
+yoruichi_shihōin,시호인_요루이치
+lisa_yadōmaru,야도마루_리사
+ikumi_unagiya,우나기야_이쿠미
+retsu_unohana,우노하나_레츠
+orihime_inoue,이노우에_오히리메
+nanao_ise,이세_나아오
+giselle_gewelle,지젤_쥬엘
+candice_catnipp,캔디스_캐트닙
+isane_kotetsu,코테츠_이사네
+nemu_kurotsuchi,쿠로츠지_네무
+rukia_kuchiki,쿠치키_루키아
+tier_harribel,티아_할리벨
+kirio_hikifune,히키후네_키리오
+maria_naruse,나루세_마리아
+mio_naruse,나루세_미오
+yuki_nonaka,노나카_유키
+kurumi_nonaka,노나카_쿠루미
 zest,제스트
-chisato_hasegawa,하세가와 치사토
-shinozaki_rika,시노자키 리카
-asada_shino,아사다 시노
-ayano_keiko,아야노 케이코
-alice_zuberg,앨리스 신서시스 서티
-yuuki_asuna,유우키 아스나
-konno_yuuki,콘노 유우키
-kirigaya_suguha,키리가하 스구하
+chisato_hasegawa,하세가와_치사토
+shinozaki_rika,시노자키_리카
+asada_shino,아사다_시노
+ayano_keiko,아야노_케이코
+alice_zuberg,앨리스_신서시스_서티
+yuuki_asuna,유우키_아스나
+konno_yuuki,콘노_유우키
+kirigaya_suguha,키리가하_스구하
 kiriko,키리코
-tsubaki_nakatsukasa,나카츠카사 츠바키
-marie_mjolnir,마리에 묠니르
-maka_albarn,마카 알반
-medusa_gorgon,메두사 고르곤
+tsubaki_nakatsukasa,나카츠카사_츠바키
+marie_mjolnir,마리에_묠니르
+maka_albarn,마카_알반
+medusa_gorgon,메두사_고르곤
 blair,블레어
-arachne_gorgon,아라크네 고르곤
-elizabeth_thompson,엘리자베스 톰슨
-patricia_thompson,패트리시아 톰슨
-la_folia_rihavein,라 포리아 리하바인
-natsuki_minamiya,미나미야 나츠키
-avrora_florestina,아브로라 프로레스티나
+arachne_gorgon,아라크네_고르곤
+elizabeth_thompson,엘리자베스_톰슨
+patricia_thompson,패트리시아_톰슨
+la_folia_rihavein,라_포리아_리하바인
+natsuki_minamiya,미나미야_나츠키
+avrora_florestina,아브로라_프로레스티나
 astarte,아스타르테
-asagi_aiba,아이바 아사기
-nagisa_akatsuki,아카츠키 나기사
-reina_akatsuki,아카츠키 레이나
-kanon_kanase,카나세 카논
-kasugaya_shizuri_castiella,카스가야 시즈리 카스티엘라
-sayaka_kirasaka,키라사카 사야카
-kiriha_kisaki,키사키 키아하
-yuuma_tokoyogi,토코요기 유마
-polifonia_rihavein,포리포니아 리하바인
-yukina_himeragi,히메라기 유키나
-becky_blackbell,베키 블랙벨
-sylvia_sherwood,실비아 셔우드
-anya_forger,아냐 포저
-yor_forger,요르 포저
-fiona_frost,피오나 프로스트
+asagi_aiba,아이바_아사기
+nagisa_akatsuki,아카츠키_나기사
+reina_akatsuki,아카츠키_레이나
+kanon_kanase,카나세_카논
+kasugaya_shizuri_castiella,카스가야_시즈리_카스티엘라
+sayaka_kirasaka,키라사카_사야카
+kiriha_kisaki,키사키_키아하
+yuuma_tokoyogi,토코요기_유마
+polifonia_rihavein,포리포니아_리하바인
+yukina_himeragi,히메라기_유키나
+becky_blackbell,베키_블랙벨
+sylvia_sherwood,실비아_셔우드
+anya_forger,아냐_포저
+yor_forger,요르_포저
+fiona_frost,피오나_프로스트
 najenda,나젠다
 leone,레오네
 mine,마인
@@ -1072,373 +1072,373 @@ akame,아카메
 esdeath,에스데스
 chelsea,첼시
 kurome,쿠로메
-last_order,라스트 오더
-leivinia_birdway,레이비니아 버드웨이
+last_order,라스트_오더
+leivinia_birdway,레이비니아_버드웨이
 lucia,루치아
-mugino_shizuri,무기노 시즈리
-misaka_misuzu,미사카 미스즈
-misaka_mikoto,미사카 미코토
-sasha_kreutzev,사샤 크로이체프
-shokuhou_misaki,쇼쿠호 미사키
-sherry_cromwell,쉐리 크롬웰
-agnese_sanctis,아녜제 상크티스
+mugino_shizuri,무기노_시즈리
+misaka_misuzu,미사카_미스즈
+misaka_mikoto,미사카_미코토
+sasha_kreutzev,사샤_크로이체프
+shokuhou_misaki,쇼쿠호_미사키
+sherry_cromwell,쉐리_크롬웰
+agnese_sanctis,아녜제_상크티스
 angelene,안젤레네
 othinus,오티누스
-oriana_thomson,올리비아 톰슨
-orsola_aquinas,올소라 아퀴나스
+oriana_thomson,올리비아_톰슨
+orsola_aquinas,올소라_아퀴나스
 itsuwa,이츠와
 index_librorum_prohibitorum,인덱스
-kamijou_shiina,카미조 시이나
-kazakiri_hyouka,카자키리 호우카
-kanzaki_kaori,칸자키 카오리
-frenda_seivelun,프렌다 세이베른
-hokaze_junko,호카제 준코
-fukiyose_seiri,후키요세 세이리
-himegami_aisa,히메가미 아이사
-mari_makinami_illustrious,마키나미 마리 일러스트리어스
-asuka_langley_soryu,소류 아스카 그랑에이
-asuka_shikinami_langley,시키나미 아스카 그랑레이
-rei_ayanami,아야나미 레이
-ritsuko_akagi,아카기 리츠코
-misato_katsuragi,카츠라기 미사토
-renner_theiere_chardelon_ryle_vaiself,라나 티엘 샬드론 라일 바이셀프
-lupusregina_beta,루푸스레기나 베타
-mare_bello_fiore,마레 벨로 피오레
-shalltear_bloodfallen,샤르티아 블러드폴른
-solution_epsilon,솔루션 엡실론
-aura_bella_fiora,아우라 벨라 피오라
+kamijou_shiina,카미조_시이나
+kazakiri_hyouka,카자키리_호우카
+kanzaki_kaori,칸자키_카오리
+frenda_seivelun,프렌다_세이베른
+hokaze_junko,호카제_준코
+fukiyose_seiri,후키요세_세이리
+himegami_aisa,히메가미_아이사
+mari_makinami_illustrious,마키나미_마리_일러스트리어스
+asuka_langley_soryu,소류_아스카_그랑에이
+asuka_shikinami_langley,시키나미_아스카_그랑레이
+rei_ayanami,아야나미_레이
+ritsuko_akagi,아카기_리츠코
+misato_katsuragi,카츠라기_미사토
+renner_theiere_chardelon_ryle_vaiself,라나_티엘_샬드론_라일_바이셀프
+lupusregina_beta,루푸스레기나_베타
+mare_bello_fiore,마레_벨로_피오레
+shalltear_bloodfallen,샤르티아_블러드폴른
+solution_epsilon,솔루션_엡실론
+aura_bella_fiora,아우라_벨라_피오라
 albedo,알베도
-entoma_vasilissa_zeta,엔토마 바실리사 제타
-yuri_alpha,유리 알파
+entoma_vasilissa_zeta,엔토마_바실리사_제타
+yuri_alpha,유리_알파
 evileye,이블아이
 clementine,클레만티느
-s_monster_princess_do-s,괴인공주 도
-mosquito_girl,모스키토 걸
+s_monster_princess_do-s,괴인공주_도
+mosquito_girl,모스키토_걸
 psykos,사이코스
-captain_mizuki,캡틴 미즈키
+captain_mizuki,캡틴_미즈키
 tatsumaki,타츠마키
 fubuki,후부키
 nami(one_piece),나미
-nico_robin,니코 로빈
-nico_olvia,니코 올리바
+nico_robin,니코_로빈
+nico_olvia,니코_올리바
 rebecca(one_piece),레베카
 marguerite(one_piece),마가렛
-mozu_and_kiwi,모즈와 키위
+mozu_and_kiwi,모즈와_키위
 baccarat,바카라
 5_baby_5,베이비
-belo_betty,벨로 베티
+belo_betty,벨로_베티
 bell-mère,벨메일
-boa_hancock,보아 행콕
-black_maria,블랙 마리아
+boa_hancock,보아_행콕
+black_maria,블랙_마리아
 viola(one_piece),비올라
-charlotte_galette,샬롯 갈렛
-charlotte_smoothie,샬롯 스무디
-charlotte_pudding,샬롯 푸딩
+charlotte_galette,샬롯_갈렛
+charlotte_smoothie,샬롯_스무디
+charlotte_pudding,샬롯_푸딩
 ain(one_piece),아인
 alvida,알비다
 uta(one_piece),우타
-jewelry_bonney,쥬얼리 보니
+jewelry_bonney,쥬얼리_보니
 ginrummy,진라미
 carina,카리나
 kalifa,칼리파
-kozuki_toki,코즈키 토키
-kozuki_hiyori,코즈키 히요리
+kozuki_toki,코즈키_토키
+kozuki_hiyori,코즈키_히요리
 kuina,쿠이나
 perona,페로나
 hina(one_piece),히나
-mary_sue,메어리 수
-viktoriya_ivanovna_serebryakov,빅토리야 이바노프나 세레브랴코프
-tanya_von_degurechaff,타냐 데그레챠프
+mary_sue,메어리_수
+viktoriya_ivanovna_serebryakov,빅토리야_이바노프나_세레브랴코프
+tanya_von_degurechaff,타냐_데그레챠프
 rin(yu_gi_oh),린
-anzu_mazaki,미사카 안즈
-zuzu_boyle,미즈키 코토리
+anzu_mazaki,미사카_안즈
+zuzu_boyle,미즈키_코토리
 serena(yu_gi_oh),세레나
-akiza_izinski,이자요이 아키
-lulu_obsidian,쿠로사키 루리
-alexis_rhodes,텐죠인 아스카
-tori_meadows,히이라기 유즈
-sarutobi_ayame,사루토비 아야메
-yagyuu_kyuubei,야큐 큐베
-imai_nobume,이마이 노부메
+akiza_izinski,이자요이_아키
+lulu_obsidian,쿠로사키_루리
+alexis_rhodes,텐죠인_아스카
+tori_meadows,히이라기_유즈
+sarutobi_ayame,사루토비_아야메
+yagyuu_kyuubei,야큐_큐베
+imai_nobume,이마이_노부메
 tsukuyo,츠쿠요
 kagura,카구라
 kouka,쿄우카
 sango(inuyasha),산고
-sesshomaru's_mother(inuyasha),셋쇼마루의 어머니
+sesshomaru's_mother(inuyasha),셋쇼마루의_어머니
 kanna(inuyasha),칸나
 kikyo(inuyasha),키쿄우
-kagome_higurashi(inuyasha),히구라시 카고메
-laura_bodewig,라우라 보데비히
-charlotte_dunois,샤를로트 뒤노아
-cecilia_alcott,세실리아 올코트
-tabane_shinonono,시노노노 타바네
-houki_shinonono,시노노노 호우키
-kanzashi_sarashiki,시라시키 칸자시
-tatenashi_sarashiki,시라시키 타네나시
-maya_yamada,야마다 마야
-madoka_orimura,오리무라 마도카
-chifuyu_orimura,오리무라 치후유
-lingyin_huang,황 링인
+kagome_higurashi(inuyasha),히구라시_카고메
+laura_bodewig,라우라_보데비히
+charlotte_dunois,샤를로트_뒤노아
+cecilia_alcott,세실리아_올코트
+tabane_shinonono,시노노노_타바네
+houki_shinonono,시노노노_호우키
+kanzashi_sarashiki,시라시키_칸자시
+tatenashi_sarashiki,시라시키_타네나시
+maya_yamada,야마다_마야
+madoka_orimura,오리무라_마도카
+chifuyu_orimura,오리무라_치후유
+lingyin_huang,황_링인
 diane,다이앤
 merlin,멀린
-elizabeth_liones,엘리자베스 리오네스
-luminous_valentine,루미너스 발렌타인
-milim_nava,밀림 나바
-hinata_sakaguchi,사카구치 히나타
+elizabeth_liones,엘리자베스_리오네스
+luminous_valentine,루미너스_발렌타인
+milim_nava,밀림_나바
+hinata_sakaguchi,사카구치_히나타
 shuna,슈나
 shion,시온
-louise_de_la_vallière,루이즈 드 라 발리에르
+louise_de_la_vallière,루이즈_드_라_발리에르
 siesta,시에스타
-karin,카린느 드 라 발리에르
-cattleya_de_la_fontaine,카틀레아 드 라 폰티누
+karin,카린느_드_라_발리에르
+cattleya_de_la_fontaine,카틀레아_드_라_폰티누
 kirche,퀴르케
 tabitha,타바사
 tiffania,티파니아
 henrietta,헨리에타
-lisa_lisa,리사 리사
+lisa_lisa,리사_리사
 mariah,머라이어
 q_suzie_q,수지
-erina_pendleton,에리나 펜들턴
-jolyne_cujoh,쿠죠 죠린
-holly_joestar,홀리 죠스타
-mikasa_ackermann,미사카 알반
-sasha_braus,사샤 브라우스
-annie_leonhart,애니 레온한트
+erina_pendleton,에리나_펜들턴
+jolyne_cujoh,쿠죠_죠린
+holly_joestar,홀리_죠스타
+mikasa_ackermann,미사카_알반
+sasha_braus,사샤_브라우스
+annie_leonhart,애니_레온한트
 ymi,유미르
-pieck_finger,피크 핑거
-historia_reiss,히스토리아 레이스
-nia_teppelin,니아 텟페린
-darry_adai,데리 아다이
-leyte_jokin,레이트 호킨
-yoko_littner,요코 리트나
-kinon_bachika,키논 바치카
-kiyal_bachika,키얄 바치카
-kiyoh_bachika,키요 바치카
-shiemi_moriyama,모리야마 시에미
-yuri_egin,유리 에긴
-izumo_kamiki,이즈모 카마키
-shura_kirigakure,키리가쿠레 슈라
-nunnally_vi_britannia,나나리 비 브리타니아
-rakshata_chawla,락샤타 챠우라
-marianne_vi_britannia,마리안느 비 브리타니아
-milly_ashford,밀리 애쉬포드
-villetta_nu,비렛타 누
-euphemia_li_britannia,유페미아 리 브리타니아
-cornelia_li_britannia,코넬리아 리 브리타니아
-kallen_kōzuki,코우즈키 카렌
-ryūko_matoi,마토이 류코
-mako_mankanshoku,만칸쇼쿠 마코
-nonon_jakuzure,자쿠즈레 노논
-ragyō_kiryūin,키류인 라교
-satsuki_kiryūin,키류인 사츠키
-nui_harime,하리메 누이
-lieselotte_sherlock,리제로테 샬록
-lilith_asami,아사미 리리스
+pieck_finger,피크_핑거
+historia_reiss,히스토리아_레이스
+nia_teppelin,니아_텟페린
+darry_adai,데리_아다이
+leyte_jokin,레이트_호킨
+yoko_littner,요코_리트나
+kinon_bachika,키논_바치카
+kiyal_bachika,키얄_바치카
+kiyoh_bachika,키요_바치카
+shiemi_moriyama,모리야마_시에미
+yuri_egin,유리_에긴
+izumo_kamiki,이즈모_카마키
+shura_kirigakure,키리가쿠레_슈라
+nunnally_vi_britannia,나나리_비_브리타니아
+rakshata_chawla,락샤타_챠우라
+marianne_vi_britannia,마리안느_비_브리타니아
+milly_ashford,밀리_애쉬포드
+villetta_nu,비렛타_누
+euphemia_li_britannia,유페미아_리_브리타니아
+cornelia_li_britannia,코넬리아_리_브리타니아
+kallen_kōzuki,코우즈키_카렌
+ryūko_matoi,마토이_류코
+mako_mankanshoku,만칸쇼쿠_마코
+nonon_jakuzure,자쿠즈레_노논
+ragyō_kiryūin,키류인_라교
+satsuki_kiryūin,키류인_사츠키
+nui_harime,하리메_누이
+lieselotte_sherlock,리제로테_샬록
+lilith_asami,아사미_리리스
 astil_manuscript,아스틸
-mira_yamana,야마나 미라
-hijiri_kasuga,카스가 히지리
-levi_kazama,카자마 레비
-arin_kannazuki,칸나즈키 아린
-yui_kurata,쿠라타 유이
-akio_fudo,후도 아키오
-panty_anarchy,야나기 팬티
-stocking_anarchy,야나기 스타킹
-scanty_daemon,스캔티 데이먼
-kneesocks_daemon,니삭스 데이먼
-levy_mcgarden,레비 맥거딘
-lucy_heartfilia,루시 하트필리아
-lisanna_strauss,리사나 스트라우스
+mira_yamana,야마나_미라
+hijiri_kasuga,카스가_히지리
+levi_kazama,카자마_레비
+arin_kannazuki,칸나즈키_아린
+yui_kurata,쿠라타_유이
+akio_fudo,후도_아키오
+panty_anarchy,야나기_팬티
+stocking_anarchy,야나기_스타킹
+scanty_daemon,스캔티_데이먼
+kneesocks_daemon,니삭스_데이먼
+levy_mcgarden,레비_맥거딘
+lucy_heartfilia,루시_하트필리아
+lisanna_strauss,리사나_스트라우스
 meredy,메르디
-minerva_orland,미네브라 올랜드
-mirajane_strauss,미라젠 스트라우스
+minerva_orland,미네브라_올랜드
+mirajane_strauss,미라젠_스트라우스
 millianna,밀리아나
 virgo,바르고
-brandish_μ,브랜디쉬 뮤
-biska_mulan,비스카 무란
+brandish_μ,브랜디쉬_뮤
+biska_mulan,비스카_무란
 seilah,세이라
-sorano_agria,소라노 아그리아
+sorano_agria,소라노_아그리아
 aries,아리에스
-irene_belserion,아이린 베르세리온
+irene_belserion,아이린_베르세리온
 evergreen,에버그린
-erza_scarlet,엘자 스칼렛
-ultear_milkovich,울티아 밀코비치
-yukino_agria,유키노 아그리아
-jenny_realight,제니 레이라이트
-kagura_mikazuchi,카구라 미카즈치
-cana_alberona,카나 알베로나
-flare_corona,플레어 코로나
-gaspar_vladi,개스퍼 블라디
-ravel_phoenix,레이벨 피닉스
-rias_gremory,리아스 그레모리
-irina_shidou,시도우 이리나
-asia_argento,아시아 아르젠토
+erza_scarlet,엘자_스칼렛
+ultear_milkovich,울티아_밀코비치
+yukino_agria,유키노_아그리아
+jenny_realight,제니_레이라이트
+kagura_mikazuchi,카구라_미카즈치
+cana_alberona,카나_알베로나
+flare_corona,플레어_코로나
+gaspar_vladi,개스퍼_블라디
+ravel_phoenix,레이벨_피닉스
+rias_gremory,리아스_그레모리
+irina_shidou,시도우_이리나
+asia_argento,아시아_아르젠토
 ouroboros_dragon_ophis,오피스
-xenovia_kwaruta,제노비아 쿠아르타
+xenovia_kwaruta,제노비아_쿠아르타
 kuroka,쿠로카
-koneko_toujou,토죠 코네코
-akeno_himejima,히메지마 아케노
-shizuka_marikawa,마리카와 시즈카
-rika_minami,미나미 리카
-rei_miyamoto,미야모토 레이
-saeko_busujima,부스지마 사에코
-saya_takagi,타카기 사야
-sasamiya_saya,사사미야 사야
-sylvia_lyyneheym,실비아 류네하임
-julis_riessfeld,율리스 리스펠드
-claudia_enfield,클로디아 엔필드
-toudou_kirin,토도 카린
+koneko_toujou,토죠_코네코
+akeno_himejima,히메지마_아케노
+shizuka_marikawa,마리카와_시즈카
+rika_minami,미나미_리카
+rei_miyamoto,미야모토_레이
+saeko_busujima,부스지마_사에코
+saya_takagi,타카기_사야
+sasamiya_saya,사사미야_사야
+sylvia_lyyneheym,실비아_류네하임
+julis_riessfeld,율리스_리스펠드
+claudia_enfield,클로디아_엔필드
+toudou_kirin,토도_카린
 neferpitou,네페르피트
-machi_komacine,마치 코마치네
-biscuit_krueger,비스켓 크루거
-shizuku_murasaki,시즈크 무라사키
+machi_komacine,마치_코마치네
+biscuit_krueger,비스켓_크루거
+shizuku_murasaki,시즈크_무라사키
 pakunoda,파크노다
-rip_van_winkle,립 반 윙클
-seras_victoria,세라스 빅토리아
-wingates_hellsing,잉테그라 헬싱
-yumie_takagi,타카기 유미에
+rip_van_winkle,립_반_윙클
+seras_victoria,세라스_빅토리아
+wingates_hellsing,잉테그라_헬싱
+yumie_takagi,타카기_유미에
 cheek,뺨
 chin,턱
-sharp_face,날렵한 얼굴
-pointed_face,뾰족한 얼굴
-peanut_face,땅콩형 얼굴
-round_face,타원형 얼굴
-egg-shaped_face,계란형 얼굴
-triangular_face,삼각형 얼굴
-inverted_triangle_of_faces,역삼각형 얼굴
-square_face,사각형 얼굴
-diamond_face,마름모형 얼굴
-hexagonal_face,육각형 얼굴
-heart-shaped_face,하트형 얼굴
+sharp_face,날렵한_얼굴
+pointed_face,뾰족한_얼굴
+peanut_face,땅콩형_얼굴
+round_face,타원형_얼굴
+egg-shaped_face,계란형_얼굴
+triangular_face,삼각형_얼굴
+inverted_triangle_of_faces,역삼각형_얼굴
+square_face,사각형_얼굴
+diamond_face,마름모형_얼굴
+hexagonal_face,육각형_얼굴
+heart-shaped_face,하트형_얼굴
 blush,홍조
-crying,우는 얼굴
-crying_with_eyes_open,눈뜬 우는 얼굴
-rouge=(makeup),뺨(볼) 화장
+crying,우는_얼굴
+crying_with_eyes_open,눈뜬_우는_얼굴
+rouge=(makeup),뺨(볼)_화장
 bangs,앞머리
 upper_hair,윗머리
 side_hair,옆머리
 hindhead,뒷머리
-gray_hair,회색 머리카락
-white_hair,흰색 머리카락
-brown_hair,갈색 머리카락
-red_hair,빨강색 머리카락
-pink_hair,분홍색 머리카락
-orange_hair,주황색 머리카락
-yellow_hair,노란색 머리카락
-blonde_hair,황금색 머리카락
-light_green_hair,연두색 머리카락
-green_hair,초록색 머리카락
-sky_blue_hair,하늘색 머리카락
-blue_hair,파란색 머리카락
-purple_hair,보라색 머리카락
-black_hair,검은색 머리카락
-rainbow_hair,무지개색 머리카락
+gray_hair,회색_머리카락
+white_hair,흰색_머리카락
+brown_hair,갈색_머리카락
+red_hair,빨강색_머리카락
+pink_hair,분홍색_머리카락
+orange_hair,주황색_머리카락
+yellow_hair,노란색_머리카락
+blonde_hair,황금색_머리카락
+light_green_hair,연두색_머리카락
+green_hair,초록색_머리카락
+sky_blue_hair,하늘색_머리카락
+blue_hair,파란색_머리카락
+purple_hair,보라색_머리카락
+black_hair,검은색_머리카락
+rainbow_hair,무지개색_머리카락
 split-color_hair,분열
 multicolored_hair,여러색
 colored_inner_hair,내부착색
-medium_hair,중간 머리
-short_hair,짧은 머리카락
-very_short_hair,매우 짧은 머리카락
-absurdly_short_hair,엄청 짧은 머리카락
-long_hair,긴 머리카락
-very_long_hair,매우 긴 머리카락
-absurdly_long_hair,엄청 긴 머리카락
-curly_hair,곱슬한 머리카락
-bluntbangs,뭉툭한 머리카락
-pointy_hair,뾰족한 머리카락
-messy_hair,헝클어진 머리카락
-spiked_hair,날카로운 머리카락
-wavy_hair,구불대는 머리카락
-flipped_hair,뒤집힌 머리카락
-hair_over_one_eye,한쪽 눈을 가린 머리카락
-hair_over_eyes,양쪽 눈을 가린 머리카락
-hair_between_eyes,눈 사이에 머리카락
-blunt_bangs,일자 앞머리
-parted_bangs,양쪽으로 갈라진 앞머리
-swept_bangs,한쪽으로 치우진 앞머리
-braided_bangs,한쪽을 땋은 앞머리
-crossed_bangs,미간에서 교차한 앞머리
-asymmetrical_bangs,절반만 짧은 앞머리
+medium_hair,중간_머리
+short_hair,짧은_머리카락
+very_short_hair,매우_짧은_머리카락
+absurdly_short_hair,엄청_짧은_머리카락
+long_hair,긴_머리카락
+very_long_hair,매우_긴_머리카락
+absurdly_long_hair,엄청_긴_머리카락
+curly_hair,곱슬한_머리카락
+bluntbangs,뭉툭한_머리카락
+pointy_hair,뾰족한_머리카락
+messy_hair,헝클어진_머리카락
+spiked_hair,날카로운_머리카락
+wavy_hair,구불대는_머리카락
+flipped_hair,뒤집힌_머리카락
+hair_over_one_eye,한쪽_눈을_가린_머리카락
+hair_over_eyes,양쪽_눈을_가린_머리카락
+hair_between_eyes,눈_사이에_머리카락
+blunt_bangs,일자_앞머리
+parted_bangs,양쪽으로_갈라진_앞머리
+swept_bangs,한쪽으로_치우진_앞머리
+braided_bangs,한쪽을_땋은_앞머리
+crossed_bangs,미간에서_교차한_앞머리
+asymmetrical_bangs,절반만_짧은_앞머리
 pixie_cut,픽시컷
 undercut,언더컷
 cornrows,콘로우
 dreadlocks,드레드
 hime_cut,히메컷
 braid,브레이드
-front_braid,앞머리 브레이드
-side_braid,사이드 브레이드
-french_braid,프렌치 브레이드
-crown_braid,크라운 브레이드
-single_braid,싱글 브레이드
-multiple_braids,여러 브레이드
-twin_braids,트윈 브레이드
-tri_braids,트라이 브레이드
-quad_braids,퀴드 브레이드
+front_braid,앞머리_브레이드
+side_braid,사이드_브레이드
+french_braid,프렌치_브레이드
+crown_braid,크라운_브레이드
+single_braid,싱글_브레이드
+multiple_braids,여러_브레이드
+twin_braids,트윈_브레이드
+tri_braids,트라이_브레이드
+quad_braids,퀴드_브레이드
 hair_bun,롤빵
-braided_bun,묶은 롤빵
-single_hair_bun,싱글 롤빵
-double_bun,더블 롤빵
-triple_bun,트윈 롤빵
-cone_hair_bun,콘헤어 롤빵
-doughnut_hair_bun,도넛헤어 롤빵
-heart_hair_bun,하트헤어 롤빵
-one_side_up,원 사이드 업
-two_side_up,투 사이드 업
+braided_bun,묶은_롤빵
+single_hair_bun,싱글_롤빵
+double_bun,더블_롤빵
+triple_bun,트윈_롤빵
+cone_hair_bun,콘헤어_롤빵
+doughnut_hair_bun,도넛헤어_롤빵
+heart_hair_bun,하트헤어_롤빵
+one_side_up,원_사이드_업
+two_side_up,투_사이드_업
 ponytail,포니테일
-folded_ponytail,접힌 포니테일
-front_ponytail,앞머리 포니테일
-high_ponytail,높은 포니테일
-short_ponytail,낮은 포니테일
-side_ponytail,사이드 포니테일
-split_ponytail,스플릿 포니테일
+folded_ponytail,접힌_포니테일
+front_ponytail,앞머리_포니테일
+high_ponytail,높은_포니테일
+short_ponytail,낮은_포니테일
+side_ponytail,사이드_포니테일
+split_ponytail,스플릿_포니테일
 twintails,트윈테일
-low_twintails,낮은 트윈테일
-short_twintails,짧은 트윈테일
-uneven_twintails,험한 트윈테일
-tri_tails,트라티 테일
-quad_tails,퀴드 테일
+low_twintails,낮은_트윈테일
+short_twintails,짧은_트윈테일
+uneven_twintails,험한_트윈테일
+tri_tails,트라티_테일
+quad_tails,퀴드_테일
 quin_tails,퀸테일
-gray_hair_streak,회색 브리지
-white_hair_streak,흰색 브리지
-brown_hair_streak,갈색 브리지
-red_hair_streak,빨강색 브리지
-pink_hair_streak,분홍색 브리지
-orange_hair_streak,주황색 브리지
-yellow_hair_streak,노란색 브리지
-blonde_hair_streak,황금색 브리지
-light_green_hair_streak,연두색 브리지
-green_hair_streak,초록색 브리지
-sky_blue_hair_streak,하늘색 브리지
-blue_hair_streak,파란색 브리지
-purple_hair_streak,보라색 브리지
-black_hair_streak,검은색 브리지
-rainbow_hair_streak,무지개색 브리지
+gray_hair_streak,회색_브리지
+white_hair_streak,흰색_브리지
+brown_hair_streak,갈색_브리지
+red_hair_streak,빨강색_브리지
+pink_hair_streak,분홍색_브리지
+orange_hair_streak,주황색_브리지
+yellow_hair_streak,노란색_브리지
+blonde_hair_streak,황금색_브리지
+light_green_hair_streak,연두색_브리지
+green_hair_streak,초록색_브리지
+sky_blue_hair_streak,하늘색_브리지
+blue_hair_streak,파란색_브리지
+purple_hair_streak,보라색_브리지
+black_hair_streak,검은색_브리지
+rainbow_hair_streak,무지개색_브리지
 eyes,눈
 eyebrow,눈썹
 eyelashes,속눈썹
-short_eyes,눈이 작다
-long_eyes,눈이 크다
-short_eyebrow,눈썹이 짧다
-long_eyebrow,눈썹이 길다
-slender_eyebrow,눈썹이 가늘다
-heavy_eyebrow,눈썹이 두껍다
-short_eyelashes,속눈썹이 짧다
-long_eyelashes,속눈썹이 길다
-slender_eyelashes,속눈썹이 가늘다
-heavy_eyelashes,속눈썹이 두껍다
-gray_eyes,회색 눈
-white_eyes,흰색 눈
-brown_eyes,갈색 눈
-red_eyes,빨강색 눈
-pink_eyes,분홍색 눈
-orange_eyes,주황색 눈
-yellow_eyes,노란색 눈
-golden_eyes,황금색 눈
-light_green_eyes,연두색 눈
-green_eyes,초록색 눈
-sky_blue_eyes,하늘색 눈
-blue_eyes,파란색 눈
-purple_eyes,보라색 눈
-black_eyes,검은색 눈
+short_eyes,눈이_작다
+long_eyes,눈이_크다
+short_eyebrow,눈썹이_짧다
+long_eyebrow,눈썹이_길다
+slender_eyebrow,눈썹이_가늘다
+heavy_eyebrow,눈썹이_두껍다
+short_eyelashes,속눈썹이_짧다
+long_eyelashes,속눈썹이_길다
+slender_eyelashes,속눈썹이_가늘다
+heavy_eyelashes,속눈썹이_두껍다
+gray_eyes,회색_눈
+white_eyes,흰색_눈
+brown_eyes,갈색_눈
+red_eyes,빨강색_눈
+pink_eyes,분홍색_눈
+orange_eyes,주황색_눈
+yellow_eyes,노란색_눈
+golden_eyes,황금색_눈
+light_green_eyes,연두색_눈
+green_eyes,초록색_눈
+sky_blue_eyes,하늘색_눈
+blue_eyes,파란색_눈
+purple_eyes,보라색_눈
+black_eyes,검은색_눈
 odd_eye,다름
 multicolored_eye,다중
 heterochromia,이색
@@ -1450,362 +1450,362 @@ diamond-shaped_pupils,다이아몬드
 star-shaped_pupils,별
 flower-shaped_pupils,꽃
 tears,눈물
-crying_eyes,우는 눈
-mascars_tears,마스카라 눈물
-eyeshadow,눈꺼풀 화장
-eyeliner,눈꼬리 화장
-mascara,속눈썹 화장
-blanked_eyes,죽은 눈
-empty_eyes,강간당한 눈
-sconstricted_pupils,수축된 눈
-dilated_pupils,확장된 눈
-bloodshot_pupils,충혈된 눈
-flaming_pupils,발화된 눈
-glowing_pupils,발광한 눈
+crying_eyes,우는_눈
+mascars_tears,마스카라_눈물
+eyeshadow,눈꺼풀_화장
+eyeliner,눈꼬리_화장
+mascara,속눈썹_화장
+blanked_eyes,죽은_눈
+empty_eyes,강간당한_눈
+sconstricted_pupils,수축된_눈
+dilated_pupils,확장된_눈
+bloodshot_pupils,충혈된_눈
+flaming_pupils,발화된_눈
+glowing_pupils,발광한_눈
 mouth,입
 lips,입술
 tongue,혀
-small_mouth,입이 작다
-big_mouth,입이 크다
-short_tongue,혀가 짧다
-long_tongue,혀가 길다
-thick_lips,입술이 두껍다
-thin_lips,입술이 얇다
-stick_out_tongue,혀를 내밀다
-gray_lips,회색 입술
-white_lips,흰색 입술
-brown_lips,갈색 입술
-red_lips,빨강색 입술
-pink_lips,분홍색 입술
-orange_lips,주황색 입술
-yellow_lips,노란색 입술
-golden_lips,황금색 입술
-light_green_lips,연두색 입술
-green_lips,초록색 입술
-sky_blue_lips,하늘색 입술
-blue_lips,파란색 입술
-purple_lips,보라색 입술
-black_lips,검은색 입술
-gray_tongue,회색 혀
-white_tongue,흰색 혀
-brown_tongue,갈색 혀
-red_tongue,빨강색 혀
-pink_tongue,분홍색 혀
-orange_tongue,주황색 혀
-yellow_tongue,노란색 혀
-golden_tongue,황금색 혀
-light_green_tongue,연두색 혀
-green_tongue,초록색 혀
-sky_blue_tongue,하늘색 혀
-blue_tongue,파란색 혀
-purple_tongue,보라색 혀
-black_tongue,검은색 혀
+small_mouth,입이_작다
+big_mouth,입이_크다
+short_tongue,혀가_짧다
+long_tongue,혀가_길다
+thick_lips,입술이_두껍다
+thin_lips,입술이_얇다
+stick_out_tongue,혀를_내밀다
+gray_lips,회색_입술
+white_lips,흰색_입술
+brown_lips,갈색_입술
+red_lips,빨강색_입술
+pink_lips,분홍색_입술
+orange_lips,주황색_입술
+yellow_lips,노란색_입술
+golden_lips,황금색_입술
+light_green_lips,연두색_입술
+green_lips,초록색_입술
+sky_blue_lips,하늘색_입술
+blue_lips,파란색_입술
+purple_lips,보라색_입술
+black_lips,검은색_입술
+gray_tongue,회색_혀
+white_tongue,흰색_혀
+brown_tongue,갈색_혀
+red_tongue,빨강색_혀
+pink_tongue,분홍색_혀
+orange_tongue,주황색_혀
+yellow_tongue,노란색_혀
+golden_tongue,황금색_혀
+light_green_tongue,연두색_혀
+green_tongue,초록색_혀
+sky_blue_tongue,하늘색_혀
+blue_tongue,파란색_혀
+purple_tongue,보라색_혀
+black_tongue,검은색_혀
 ears,귀
 earlobes,귓볼
-short_ears,귀가 짧다
-long_ears,귀가 길다
-very_short_ears,귀가 매우 짧다
-very_long_ears,귀가 매우 길다
-slender_ears,귀가 가늘다
-heavy_ears,귀가 두껍다
-short_earlobes,귓불이 짧다
-long_earlobes,귓불이 길다
-pointy_ears,귀가 뾰족하다
-short_pointy_ears,귀가 짧고 뾰족하다
-long_pointy_ears,귀가 길고 뾰족하다
+short_ears,귀가_짧다
+long_ears,귀가_길다
+very_short_ears,귀가_매우_짧다
+very_long_ears,귀가_매우_길다
+slender_ears,귀가_가늘다
+heavy_ears,귀가_두껍다
+short_earlobes,귓불이_짧다
+long_earlobes,귓불이_길다
+pointy_ears,귀가_뾰족하다
+short_pointy_ears,귀가_짧고_뾰족하다
+long_pointy_ears,귀가_길고_뾰족하다
 animal_ears,동물귀
 fake_animal_ears,가짜
-dog_ears,강아지 귀
-cat_ears,고양이 귀
-bear_ears,곰 귀
-raccoon_ears,너구리 귀
-wolf_ears,늑대 귀
-squirrel_ears,다람쥐 귀
-pig_ears,돼지 귀
-horse_ears,말 귀
-bat_ears,박쥐 귀
-deer_ears,사슴 귀
-lion_ears,사자 귀
-cow_ears,소 귀
-sheep_ears,양 귀
-fox_ears,여우 귀
-goat_ears,염소 귀
-monkey_ears,원숭이 귀
-ferret_ears,족제비 귀
-mouse_ears,쥐 귀
-rabbit_ears,토끼 귀
-panda_ears,팬더 귀
-tiger_ears,호랑이 귀
-long_nose,코가 길다
-short_nose,코가 짧다
-slender_nose,코가 가늘다
-heavy_nose,코가 두껍다
-broad_nose,넓죽한 코
-high-end_nose,끝만 높은 코
+dog_ears,강아지_귀
+cat_ears,고양이_귀
+bear_ears,곰_귀
+raccoon_ears,너구리_귀
+wolf_ears,늑대_귀
+squirrel_ears,다람쥐_귀
+pig_ears,돼지_귀
+horse_ears,말_귀
+bat_ears,박쥐_귀
+deer_ears,사슴_귀
+lion_ears,사자_귀
+cow_ears,소_귀
+sheep_ears,양_귀
+fox_ears,여우_귀
+goat_ears,염소_귀
+monkey_ears,원숭이_귀
+ferret_ears,족제비_귀
+mouse_ears,쥐_귀
+rabbit_ears,토끼_귀
+panda_ears,팬더_귀
+tiger_ears,호랑이_귀
+long_nose,코가_길다
+short_nose,코가_짧다
+slender_nose,코가_가늘다
+heavy_nose,코가_두껍다
+broad_nose,넓죽한_코
+high-end_nose,끝만_높은_코
 aquiline_nose,매부리코
 wild_boogged_nose,들창코
 male,남성
 female,여성
-trans_man,트랜스 남성
-trans_woman,트랜스 여성
-young_boy,어린 남자
-young_girl,어린 여자
-young_man,젊은 남자
-young_woman,젊은 여자
-middle-aged_man,나이 든 남자
-middle-aged_woman,나이 든 여자
-old_man,늙은 남자
-old_woman,늙은 여자
+trans_man,트랜스_남성
+trans_woman,트랜스_여성
+young_boy,어린_남자
+young_girl,어린_여자
+young_man,젊은_남자
+young_woman,젊은_여자
+middle-aged_man,나이_든_남자
+middle-aged_woman,나이_든_여자
+old_man,늙은_남자
+old_woman,늙은_여자
 shota,쇼타
 loli,로리
 milf,밀프
 giant,크다
 small,작다
-giantess,엄청 크다
-smalless,매우 작다
-miniboy,작은 남자
-minigirl,작은 여자
-mature_male,성숙한 여자
-muscular,근육 있는 남자
-muscular_female,근육 있는 여자
-skinny,마른 몸매
-slender,날씬한 몸
-glamorous,화려한 몸
-chubby,뚱뚱한 몸
-busty,통통한 몸
-curvy,살짝 통통한 몸매
-wet,물에 젖은 몸
-pretty_wet_body,물에 흠뻑 젖은 몸
-sweat,땀을 흘리는 몸
-oiled,오일에 젖은 몸
-grey_skin,회색 피부
-white_skin,흰색 피부
-red_skin,빨간색 피부
-pink_skin,분홍색 피부
-orange_skin,주황색 피부
-yellow_skin,노란색 피부
-green_skin,초록색 피부
-blue_skin,파란색 피부
-purple_skin,보라색 피부
-black_skin,검은색 피부
+giantess,엄청_크다
+smalless,매우_작다
+miniboy,작은_남자
+minigirl,작은_여자
+mature_male,성숙한_여자
+muscular,근육_있는_남자
+muscular_female,근육_있는_여자
+skinny,마른_몸매
+slender,날씬한_몸
+glamorous,화려한_몸
+chubby,뚱뚱한_몸
+busty,통통한_몸
+curvy,살짝_통통한_몸매
+wet,물에_젖은_몸
+pretty_wet_body,물에_흠뻑_젖은_몸
+sweat,땀을_흘리는_몸
+oiled,오일에_젖은_몸
+grey_skin,회색_피부
+white_skin,흰색_피부
+red_skin,빨간색_피부
+pink_skin,분홍색_피부
+orange_skin,주황색_피부
+yellow_skin,노란색_피부
+green_skin,초록색_피부
+blue_skin,파란색_피부
+purple_skin,보라색_피부
+black_skin,검은색_피부
 stomach,배
 navel,배꼽
 abs,복근
 lower_abdomen,아랫배
 waist,허리
-thin_stomach,배가 얇다
-slender_stomach,배가 가늘다
-heavy_stomach,배가 두껍다
-chubby_stomach,배가 통통하다
-skinny_abs,복근이 가늘다
-thick_abs,복근이 두껍다
-chubby_abs,복근이 통통하다
-thin_waist,허리가 얇다
-slender_waist,허리가 가늘다
-thick_waist,허리가 두껍다
-chubby_waist,허리가 통통하다
+thin_stomach,배가_얇다
+slender_stomach,배가_가늘다
+heavy_stomach,배가_두껍다
+chubby_stomach,배가_통통하다
+skinny_abs,복근이_가늘다
+thick_abs,복근이_두껍다
+chubby_abs,복근이_통통하다
+thin_waist,허리가_얇다
+slender_waist,허리가_가늘다
+thick_waist,허리가_두껍다
+chubby_waist,허리가_통통하다
 breasts,가슴
 areolae,유륜
 nipples,젖꼭지
-flat_chest,가슴이 평평하다
-small_breasts,가슴이 작다
-medium_breasts,가슴이 평범하다
-large_breasts,가슴이 크다
-huge_breasts,가슴이 매우 크다
-gigantic_breasts,가슴이 엄청 크다
-light_areolae,유류이 작다
-large_areolae,유륜이 크다
-no_nipples,젖꼭지가 없다
-long_nipples,젖꼭지가 길다
-small_nipples,젖꼭지가 작다
-sagging_breasts,가슴이 처쳤다
-veiny_breasts,가슴이 풍선같다
-pointy_breasts,가슴이 뾰족하다
-asymmetrical_breasts,가슴이 비대칭이다
-dark_areolae,유륜이 어둡다
-areola_slip,유륜이 가린다
-inverted_nipples,함몰 유두
-dark_nipples,젖꼭지가 어둡다
+flat_chest,가슴이_평평하다
+small_breasts,가슴이_작다
+medium_breasts,가슴이_평범하다
+large_breasts,가슴이_크다
+huge_breasts,가슴이_매우_크다
+gigantic_breasts,가슴이_엄청_크다
+light_areolae,유류이_작다
+large_areolae,유륜이_크다
+no_nipples,젖꼭지가_없다
+long_nipples,젖꼭지가_길다
+small_nipples,젖꼭지가_작다
+sagging_breasts,가슴이_처쳤다
+veiny_breasts,가슴이_풍선같다
+pointy_breasts,가슴이_뾰족하다
+asymmetrical_breasts,가슴이_비대칭이다
+dark_areolae,유륜이_어둡다
+areola_slip,유륜이_가린다
+inverted_nipples,함몰_유두
+dark_nipples,젖꼭지가_어둡다
 ass,엉덩이
 anal,항문
-flat_ass,엉덩이가 평평하다
-huge_ass,엉덩이가 거대하다
-spread_ass,엉덩이가 아담하다
+flat_ass,엉덩이가_평평하다
+huge_ass,엉덩이가_거대하다
+spread_ass,엉덩이가_아담하다
 arm,팔
 forearm,팔뚝
 armpit,겨드랑이
-short_arm,팔이 짧다
-long_arm,팔이 길다
-slender_arm,팔이 가늘다
-heavy_arm,팔이 두껍다
-thin_forearm,팔뚝이 얇다
-slender_forearm,팔뚝이 가늘다
-chubby_forearm,팔뚝이 통통하다
-round_elbow,팔꿈치가 둥글다
-blunt_elbow,팔꿈치가 뭉툭하다
-pointed_elbow,팔꿈치가 뾰족하다
+short_arm,팔이_짧다
+long_arm,팔이_길다
+slender_arm,팔이_가늘다
+heavy_arm,팔이_두껍다
+thin_forearm,팔뚝이_얇다
+slender_forearm,팔뚝이_가늘다
+chubby_forearm,팔뚝이_통통하다
+round_elbow,팔꿈치가_둥글다
+blunt_elbow,팔꿈치가_뭉툭하다
+pointed_elbow,팔꿈치가_뾰족하다
 hand,손
 wrist,손목
 nail,손톱
 fingers,손가락
-short_hand,손이 짧다
-long_hand,손이 길다
-slender_hand,손이 가늘다
-heavy_hand,손이 두껍다
-thin_wrist,손목이 얇다
-slender_wrist,손목이 가늘다
-thick_wrist,손목이 두껍다
-short_fingers,손가락이 짧다
-long_fingers,손가락이 길다
-short_nail,손톱이 짧다
-long_nail,손톱이 길다
-gray_nail,회색 손톱
-white_nail,흰색 손톱
-brown_nail,갈색 손톱
-red_nail,빨강색 손톱
-pink_nail,분홍색 손톱
-orange_nail,주황색 손톱
-yellow_nail,노란색 손톱
-golden_nail,황금색 손톱
-light_green_nail,연두색 손톱
-green_nail,초록색 손톱
-sky_blue_nail,하늘색 손톱
-blue_nail,파란색 손톱
-purple_nail,보라색 손톱
-black_nail,검은색 손톱
+short_hand,손이_짧다
+long_hand,손이_길다
+slender_hand,손이_가늘다
+heavy_hand,손이_두껍다
+thin_wrist,손목이_얇다
+slender_wrist,손목이_가늘다
+thick_wrist,손목이_두껍다
+short_fingers,손가락이_짧다
+long_fingers,손가락이_길다
+short_nail,손톱이_짧다
+long_nail,손톱이_길다
+gray_nail,회색_손톱
+white_nail,흰색_손톱
+brown_nail,갈색_손톱
+red_nail,빨강색_손톱
+pink_nail,분홍색_손톱
+orange_nail,주황색_손톱
+yellow_nail,노란색_손톱
+golden_nail,황금색_손톱
+light_green_nail,연두색_손톱
+green_nail,초록색_손톱
+sky_blue_nail,하늘색_손톱
+blue_nail,파란색_손톱
+purple_nail,보라색_손톱
+black_nail,검은색_손톱
 knee,무릎
 thighs,허벅지
 calf,종아리
-short_leg,다리가 짧다
-long_leg,다리가 길다
-slender_leg,다리가 가늘다
-thick_leg,다리가 두껍다
-thin_thighs,허벅지가 얇다
-slender_thighs,허벅지가 가늘다
-thick_thigh,허벅지가 두껍다
-chubby_thighs,허벅지가 통통하다
-thin_calf,종아리가 얇다
-slender_calf,종아리가 가늘다
-thick_calf,종아리가 두껍다
-chubby_calf,종아리가 통통하다
+short_leg,다리가_짧다
+long_leg,다리가_길다
+slender_leg,다리가_가늘다
+thick_leg,다리가_두껍다
+thin_thighs,허벅지가_얇다
+slender_thighs,허벅지가_가늘다
+thick_thigh,허벅지가_두껍다
+chubby_thighs,허벅지가_통통하다
+thin_calf,종아리가_얇다
+slender_calf,종아리가_가늘다
+thick_calf,종아리가_두껍다
+chubby_calf,종아리가_통통하다
 foot,발
 ankle,발목
 toenail,발톱
 toe,발가락
-short_foot,발이 짧다
-long_foot,발이 길다
-slender_foot,발이 가늘다
-thick_foot,발이 두껍다
-thin_ankle,발목이 얇다
-slender_ankle,발목이 가늘다
-thick_ankle,발목이 두껍다
-short_toenail,발톱이 짧다
-long_toenail,발톱이 길다
-short_toe,발가락이 짧다
-long_toe,발가락이 길다
-gray_toenail,회색 발톱
-white_toenail,흰색 발톱
-brown_toenail,갈색 발톱
-red_toenail,빨강색 발톱
-pink_toenail,분홍색 발톱
-orange_toenail,주황색 발톱
-yellow_toenail,노란색 발톱
-golden_toenail,황금색 발톱
-light_green_toenail,연두색 발톱
-green_toenail,초록색 발톱
-sky_blue_toenail,하늘색 발톱
-blue_toenail,파란색 발톱
-purple_toenail,보라색 발톱
-black_toenail,검은색 발톱
-head_wings,머리 날개
-hair_wings,머리카락 날개
-leg_wings,다리 날개
-low_wings,등 근처의 날개
-ankle_wings,발목 날개
-mini_wings,작은 날개
-large_wings,큰 날개
-single_wing,한쪽 날개
-multiplewings,여러 날개
-gray_wings,회색 날개
-white_wings,흰색 날개
-brown_wings,갈색 날개
-red_wings,빨강색 날개
-pink_wings,분홍색 날개
-orange_wings,주황색 날개
-yellow_wings,노란색 날개
-golden_wings,황금색 날개
-light_green_wings,연두색 날개
-green_wings,초록색 날개
-sky_blue_wings,하늘색 날개
-blue_wings,파란색 날개
-purple_wings,보라색 날개
-black_wings,검은색 날개
-fake_wings,가짜 날개
-metal_wings,금속 날개
-mechanical_wings,기계 날개
-plant_wings,식물 날개
-light_hawk_wings,얇은 천 날개
-artificial_wings,인공 날개
-feathered_wings,깃털 날개
-insect_wings,곤충 날개
-moth_wings,나방 날개
-butterfly_wings,나비 날개
-ladybug_wings,무당벌레 날개
-bat_wings,박쥐 날개
-angel_wings,천사 날개
-demon_wings,악마 날개
-fairy_wings,요정 날개
-dragon_wings,용의 날개
-fiery_wings,불꽃 날개
-liquid_wings,액체 날개
-ice_wings,얼음 날개
-energy_wings,에너지 날개
-heart_wings,하트 모양 날개
-short_tail,꼬리가 짧다
-long_tail,꼬리가 길다
-slender_tail,꼬리가 가늘다
-thick_tail,꼬리가 두껍다
-dog_tail,강아지 꼬리
-gorilla_tail,고릴라 꼬리
-cat_tail,고양이 꼬리
-bear_tail,곰 꼬리
-wolf_tail,늑대 꼬리
-squirrel_tail,다람쥐 꼬리
-pig_tail,돼지 꼬리
-horse_tail,말 꼬리
-deer_tail,사슴 꼬리
-lion_tail,사자 꼬리
-cow_tail,소 꼬리
-sheep_tail,양 꼬리
-fox_tail,여우 꼬리
-monkey_tail,원숭이 꼬리
-ermine_tail,족제비 꼬리
-mouse_tail,쥐 꼬리
-rabbit_tail,토끼 꼬리
-leopard_tail,표범 꼬리
-tiger_tail,호랑이 꼬리
-naked_tabard,알몸 가슴천막
-naked_robe,알몸 가운
-naked_ribbon,알몸 리본
-naked_cape,알몸 망토
-naked_suspenders,알몸 멜빵
-naked_bandage,알몸 붕대
-naked_shirt,알몸 셔츠
-underwear_only,알몸 속옷
-naked_scarf,알몸 스카프
-naked_sheet,알몸 이불
-naked_overalls,알몸 작업복
-naked_jacket,알몸 재킷
-naked_chocolate,알몸 초콜릿
-naked_coat,알몸 코트
-naked_towel,알몸 타올
-naked_hoodie,알몸 후드
-naked_capelet,알몸 후드 망토
-naked_apron,알몸 에이프런
+short_foot,발이_짧다
+long_foot,발이_길다
+slender_foot,발이_가늘다
+thick_foot,발이_두껍다
+thin_ankle,발목이_얇다
+slender_ankle,발목이_가늘다
+thick_ankle,발목이_두껍다
+short_toenail,발톱이_짧다
+long_toenail,발톱이_길다
+short_toe,발가락이_짧다
+long_toe,발가락이_길다
+gray_toenail,회색_발톱
+white_toenail,흰색_발톱
+brown_toenail,갈색_발톱
+red_toenail,빨강색_발톱
+pink_toenail,분홍색_발톱
+orange_toenail,주황색_발톱
+yellow_toenail,노란색_발톱
+golden_toenail,황금색_발톱
+light_green_toenail,연두색_발톱
+green_toenail,초록색_발톱
+sky_blue_toenail,하늘색_발톱
+blue_toenail,파란색_발톱
+purple_toenail,보라색_발톱
+black_toenail,검은색_발톱
+head_wings,머리_날개
+hair_wings,머리카락_날개
+leg_wings,다리_날개
+low_wings,등_근처의_날개
+ankle_wings,발목_날개
+mini_wings,작은_날개
+large_wings,큰_날개
+single_wing,한쪽_날개
+multiplewings,여러_날개
+gray_wings,회색_날개
+white_wings,흰색_날개
+brown_wings,갈색_날개
+red_wings,빨강색_날개
+pink_wings,분홍색_날개
+orange_wings,주황색_날개
+yellow_wings,노란색_날개
+golden_wings,황금색_날개
+light_green_wings,연두색_날개
+green_wings,초록색_날개
+sky_blue_wings,하늘색_날개
+blue_wings,파란색_날개
+purple_wings,보라색_날개
+black_wings,검은색_날개
+fake_wings,가짜_날개
+metal_wings,금속_날개
+mechanical_wings,기계_날개
+plant_wings,식물_날개
+light_hawk_wings,얇은_천_날개
+artificial_wings,인공_날개
+feathered_wings,깃털_날개
+insect_wings,곤충_날개
+moth_wings,나방_날개
+butterfly_wings,나비_날개
+ladybug_wings,무당벌레_날개
+bat_wings,박쥐_날개
+angel_wings,천사_날개
+demon_wings,악마_날개
+fairy_wings,요정_날개
+dragon_wings,용의_날개
+fiery_wings,불꽃_날개
+liquid_wings,액체_날개
+ice_wings,얼음_날개
+energy_wings,에너지_날개
+heart_wings,하트_모양_날개
+short_tail,꼬리가_짧다
+long_tail,꼬리가_길다
+slender_tail,꼬리가_가늘다
+thick_tail,꼬리가_두껍다
+dog_tail,강아지_꼬리
+gorilla_tail,고릴라_꼬리
+cat_tail,고양이_꼬리
+bear_tail,곰_꼬리
+wolf_tail,늑대_꼬리
+squirrel_tail,다람쥐_꼬리
+pig_tail,돼지_꼬리
+horse_tail,말_꼬리
+deer_tail,사슴_꼬리
+lion_tail,사자_꼬리
+cow_tail,소_꼬리
+sheep_tail,양_꼬리
+fox_tail,여우_꼬리
+monkey_tail,원숭이_꼬리
+ermine_tail,족제비_꼬리
+mouse_tail,쥐_꼬리
+rabbit_tail,토끼_꼬리
+leopard_tail,표범_꼬리
+tiger_tail,호랑이_꼬리
+naked_tabard,알몸_가슴천막
+naked_robe,알몸_가운
+naked_ribbon,알몸_리본
+naked_cape,알몸_망토
+naked_suspenders,알몸_멜빵
+naked_bandage,알몸_붕대
+naked_shirt,알몸_셔츠
+underwear_only,알몸_속옷
+naked_scarf,알몸_스카프
+naked_sheet,알몸_이불
+naked_overalls,알몸_작업복
+naked_jacket,알몸_재킷
+naked_chocolate,알몸_초콜릿
+naked_coat,알몸_코트
+naked_towel,알몸_타올
+naked_hoodie,알몸_후드
+naked_capelet,알몸_후드_망토
+naked_apron,알몸_에이프런
 gakuran,가쿠란
 school_uniform,교복
 military_uniform,군복
-meiji_schoolgirl_uniform,메이지 여학생 교복
+meiji_schoolgirl_uniform,메이지_여학생_교복
 tutu,발레복
 hazmat_suit,방호복
 band_uniform,밴드복
@@ -1814,22 +1814,22 @@ hev_suit,보호복
 cassock,사제복
 sailor_(naval_uniform),선원복
 serafuku_(sailor_uniform),세일러복
-loincloth,원시 의복
+loincloth,원시_의복
 overalls,작업복
 pajamas,잠옷
 cheerleader,치어리더
 suit,정장
 business_suit,신사복
-pant_suit,정장 바지
-skirt_suit,정장 치마
+pant_suit,정장_바지
+skirt_suit,정장_치마
 tuxedo,턱시도
-bikesuit,자전거 슈트
-racing_suit,레이싱 슈트
-pilot_suit,파일럿 슈트
-plugsuit,플러그 슈트
+bikesuit,자전거_슈트
+racing_suit,레이싱_슈트
+pilot_suit,파일럿_슈트
+plugsuit,플러그_슈트
 bodysuit,바디슈트
 jumpsuit,점프슈트
-short_jumpsuit,짧은 점프 슈트
+short_jumpsuit,짧은_점프_슈트
 sweatpants,운동복
 gym_uniform,체육복
 football_uniform,축구복
@@ -1840,1490 +1840,1490 @@ golf_uniform,골프복
 running_uniform,육상복
 tennis_uniform,테니스복
 leotard,레오타드
-strapless_leotard,끈 없는 레오타드
-santa_dress,산타 드레스
-santa_costume,산타 복장
+strapless_leotard,끈_없는_레오타드
+santa_dress,산타_드레스
+santa_costume,산타_복장
 cowboy_western,카우보이
-dog_costume,강아지 코스튬
-gorilla_costume,고릴라 코스튬
-cat_costume,고양이 코스튬
-bear_costume,곰 코스튬
-raccoon_costume,너구리 코스튬
-wolf_costume,늑대 코스튬
-squirrel_costume,다람쥐 코스튬
-pig_costume,돼지 코스튬
-horse_costume,말 코스튬
-bat_costume,박쥐 코스튬
-deer_costume,사슴 코스튬
-lion_costume,사자 코스튬
-cow_costume,소 코스튬
-sheep_costume,양 코스튬
-fox_costume,여우 코스튬
-goat_costume,염소 코스튬
-monkey_costume,원숭이 코스튬
-ferret_costume,족제비 코스튬
-mouse_costume,쥐 코스튬
-rabbit_costume,토끼 코스튬
-panda_costume,팬더 코스튬
-tiger_costume,호랑이 코스튬
-nuss_made_costume,너스 메이드복
-ladies_made_costume,레이디스 메이드복
-military_made_costume,밀리터리 메이드복
-victoria_maid_costume,빅토리아 메이드복
-cybermade_costume,사이버 메이드복
-steampunk_made_costume,스팀펑크 메이드복
-japanese-style_made_costume,일본풍 메이드복
-china-style_made_costume,차이나 메이드복
-classic_maid_costume,클래식 메이드복
-kitchen_made_costume,키친 메이드복
-faller_made_costume,팔러 메이드복
-french_made_costume,프렌치 메이드복
-house_made_costume,하우스 메이드복
+dog_costume,강아지_코스튬
+gorilla_costume,고릴라_코스튬
+cat_costume,고양이_코스튬
+bear_costume,곰_코스튬
+raccoon_costume,너구리_코스튬
+wolf_costume,늑대_코스튬
+squirrel_costume,다람쥐_코스튬
+pig_costume,돼지_코스튬
+horse_costume,말_코스튬
+bat_costume,박쥐_코스튬
+deer_costume,사슴_코스튬
+lion_costume,사자_코스튬
+cow_costume,소_코스튬
+sheep_costume,양_코스튬
+fox_costume,여우_코스튬
+goat_costume,염소_코스튬
+monkey_costume,원숭이_코스튬
+ferret_costume,족제비_코스튬
+mouse_costume,쥐_코스튬
+rabbit_costume,토끼_코스튬
+panda_costume,팬더_코스튬
+tiger_costume,호랑이_코스튬
+nuss_made_costume,너스_메이드복
+ladies_made_costume,레이디스_메이드복
+military_made_costume,밀리터리_메이드복
+victoria_maid_costume,빅토리아_메이드복
+cybermade_costume,사이버_메이드복
+steampunk_made_costume,스팀펑크_메이드복
+japanese-style_made_costume,일본풍_메이드복
+china-style_made_costume,차이나_메이드복
+classic_maid_costume,클래식_메이드복
+kitchen_made_costume,키친_메이드복
+faller_made_costume,팔러_메이드복
+french_made_costume,프렌치_메이드복
+house_made_costume,하우스_메이드복
 gown,가운
 negligee,네글리제
-wedding_dress,웨딩 드레스
-tennis_dress,테니스 드레스
-evening_gown,이브닝 드레스
-nightgown,잠옷 드레스
-funeral_dress,장례식 드레스
-cocktail_dress,칵테일 드레스
-coat_dress,코트 드레스
-frilled_dress,프릴 드레스
-latex_dress,라텍스 드레스
-collared_dress,칼라 드레스
-fur-trimmed_dress,모피 장식 드레스
-lace-trimmed_dress,레이스 장식 드레스
-ribbon-trimmed_dress,리본 장식 드레스
-layered_dress,천이 여러 겹인 드레스
-sundress,산책용 드레스
-taut_dress,팽팽한 드레스
-trapeze_dress,밑단이 넓은 드레스
-see-through_dress,비쳐 보이는 드레스
-flowing_dress,흐르는 듯한 드레스
-long_dress,긴 드레스
-highleg_dress,매우 긴 드레스
-high-low_skirt,매우 짧은 드레스
-short_dress,짧은 드레스
-strapless_dress,끈 없는 드레스
-tube_dress,끈 없이 밀착한 드레스
-backless_dress,등이 노출된 드레스
-halter_dress,목과 연결된 드레스
-pencil_dress,몸에 꼭 맞는 드레스
-sleeveless_dress,소매 없는 드레스
-hobble_dress,발목까지 내려오는 드레스
-plunging_neckline,배까지 길게v자로 갈라진 
-pleated_dress,세로로 천이 접힌 드레스
-off-shoulder_dress,어깨가 보이는드레스
-half-dress,절반으로 나뉜 드레스
-impossible_dress,피부가 꽉 조이는 드레스
-side_slit,허벅지가 갈라진 드레스
+wedding_dress,웨딩_드레스
+tennis_dress,테니스_드레스
+evening_gown,이브닝_드레스
+nightgown,잠옷_드레스
+funeral_dress,장례식_드레스
+cocktail_dress,칵테일_드레스
+coat_dress,코트_드레스
+frilled_dress,프릴_드레스
+latex_dress,라텍스_드레스
+collared_dress,칼라_드레스
+fur-trimmed_dress,모피_장식_드레스
+lace-trimmed_dress,레이스_장식_드레스
+ribbon-trimmed_dress,리본_장식_드레스
+layered_dress,천이_여러_겹인_드레스
+sundress,산책용_드레스
+taut_dress,팽팽한_드레스
+trapeze_dress,밑단이_넓은_드레스
+see-through_dress,비쳐_보이는_드레스
+flowing_dress,흐르는_듯한_드레스
+long_dress,긴_드레스
+highleg_dress,매우_긴_드레스
+high-low_skirt,매우_짧은_드레스
+short_dress,짧은_드레스
+strapless_dress,끈_없는_드레스
+tube_dress,끈_없이_밀착한_드레스
+backless_dress,등이_노출된_드레스
+halter_dress,목과_연결된_드레스
+pencil_dress,몸에_꼭_맞는_드레스
+sleeveless_dress,소매_없는_드레스
+hobble_dress,발목까지_내려오는_드레스
+plunging_neckline,배까지_길게v자로_갈라진_
+pleated_dress,세로로_천이_접힌_드레스
+off-shoulder_dress,어깨가_보이는드레스
+half-dress,절반으로_나뉜_드레스
+impossible_dress,피부가_꽉_조이는_드레스
+side_slit,허벅지가_갈라진_드레스
 bikini,비키니
 slingshot_swimsuit,슬링샷
-rash_guard_(swim_shirt),레쉬 가드
-bikini_skirt,비키니 스커트
-sports_bikini,스포츠 비키니
-old-fashioned_swimsuit,옛날 수영복
-school_swimsuit,학생용 수영복
-competition_swimsuit,선수용 수영복
-one-piece_swimsuit,원피스 수영복
-dress_swimsuit,드레스 수영복
-casual_one-piece_swimsuit,캐주얼 원피스 수영복
-lowleg_bikini,살짝 짧은 비키니
-micro_bikini,매우 짧은 비키니
-tankini,짧은 상의와 연결된 비키니
-thong_bikini,끈이 많은 비키니
-side-tie_bikini_bottom,끈으로 묶인 비키니
-string_bikini,끈으로 가슴만 연결한 비키니
-o-ring_bikini,고리가 달린 비키니
-o-ring_top,고리가 위쪽과 연결한 비키니
-o-ring_bottom,고리가 아래쪽과 연결한 비키니
+rash_guard_(swim_shirt),레쉬_가드
+bikini_skirt,비키니_스커트
+sports_bikini,스포츠_비키니
+old-fashioned_swimsuit,옛날_수영복
+school_swimsuit,학생용_수영복
+competition_swimsuit,선수용_수영복
+one-piece_swimsuit,원피스_수영복
+dress_swimsuit,드레스_수영복
+casual_one-piece_swimsuit,캐주얼_원피스_수영복
+lowleg_bikini,살짝_짧은_비키니
+micro_bikini,매우_짧은_비키니
+tankini,짧은_상의와_연결된_비키니
+thong_bikini,끈이_많은_비키니
+side-tie_bikini_bottom,끈으로_묶인_비키니
+string_bikini,끈으로_가슴만_연결한_비키니
+o-ring_bikini,고리가_달린_비키니
+o-ring_top,고리가_위쪽과_연결한_비키니
+o-ring_bottom,고리가_아래쪽과_연결한_비키니
 tangzhuang,탕좡
 changpao,치파오
-china_dress,차이나 드레스
+china_dress,차이나_드레스
 dirndl,디른들
-vietnamese_dress,베트남 드레스
+vietnamese_dress,베트남_드레스
 fundoshi,훈도시
 yamakasa,야마카사
 hakama,하카마
-hakama_pants,하카마 바지
-hakama_skirt,하카마 치마
-hakama_short_skirt,하카마 짧은 치마
+hakama_pants,하카마_바지
+hakama_skirt,하카마_치마
+hakama_short_skirt,하카마_짧은_치마
 kimono,기모노
 furisode,후리소데
 yukata,유카타
 uchikake=(wedding_kimono),우치카케
-short_kimono,짧은 기모노
-kimono_skirt,기모노 스커트
-layered_kimono,몇 겹 겹친 기모노
+short_kimono,짧은_기모노
+kimono_skirt,기모노_스커트
+layered_kimono,몇_겹_겹친_기모노
 haori,하오리
-happi,반소매 하오리
-chanchanko,긴 하오리
+happi,반소매_하오리
+chanchanko,긴_하오리
 dotera,도테라
 hanten,한텐
-nontraditional_miko,개조한 무녀복
+nontraditional_miko,개조한_무녀복
 sarashi,사라시
-midriff_sarashi,복부 사라시
-chest_sarashi,가슴 사라시
-budget_sarashi,몸통 사라시
-undone_sarashi,풀린 사라시
-tasuki,기모노 끈
+midriff_sarashi,복부_사라시
+chest_sarashi,가슴_사라시
+budget_sarashi,몸통_사라시
+undone_sarashi,풀린_사라시
+tasuki,기모노_끈
 shirtf,셔츠
 t-shirt,티셔츠
-frilled_shirt,프릴 셔츠
-collared_shirt,칼라 셔츠
-dress_shirt,드레스 셔츠
-striped_shirt,줄무늬 셔츠
-sleeveless_shirt,민소매 셔츠
-compression_shirt,밀착한 셔츠
-off-shoulder_shirt,오픈숄더 셔츠
+frilled_shirt,프릴_셔츠
+collared_shirt,칼라_셔츠
+dress_shirt,드레스_셔츠
+striped_shirt,줄무늬_셔츠
+sleeveless_shirt,민소매_셔츠
+compression_shirt,밀착한_셔츠
+off-shoulder_shirt,오픈숄더_셔츠
 tank_top,탱크탑
 tube_top,튜브탑
 crop_top,배꼽티
 blouse,블라우스
-underbust,가슴 아래가 노출된 옷
+underbust,가슴_아래가_노출된_옷
 halterneck,홀터넥
 sweater,스웨터
 pullover,풀오버
 turtleneck,터틀넥
-sweater_vest,스웨터 조끼
-sweater_dress,스웨터 드레스
-ribbed_sweater,선 그인 스웨터
-aran_sweater,털 있는 스웨터
-sleeveless_turtleneck,민소매 터틀넥
+sweater_vest,스웨터_조끼
+sweater_dress,스웨터_드레스
+ribbed_sweater,선_그인_스웨터
+aran_sweater,털_있는_스웨터
+sleeveless_turtleneck,민소매_터틀넥
 jacket,재킷
 blazer,블레이저
-cropped_jacket,크롭 재킷
-letterman_jacket,레터맨 재킷
-safari_jacket,사파리 재킷
-suit_jacket,정장 재킷
+cropped_jacket,크롭_재킷
+letterman_jacket,레터맨_재킷
+safari_jacket,사파리_재킷
+suit_jacket,정장_재킷
 coat,코트
 overcoat,외투
 raincoat,우비
 tailcoat,연미복
-duffel_coat,더플 코트
+duffel_coat,더플_코트
 long_coat,롱코트
 peacoat,피코트
-trench_coat,트레치 코트
-fur_coat,모피 코트
-fur-trimmed_coat,모피 장식 코트
+trench_coat,트레치_코트
+fur_coat,모피_코트
+fur-trimmed_coat,모피_장식_코트
 hoodie,후드
-cropped_hoodie,배꼽 보이는 후드
-polka_dot_hoodie,폴카 무늬
-print_hoodie,인쇄한 후드
-sleeveless_hoodie,민소매 후드
-striped_hoodie,줄무늬 후드
+cropped_hoodie,배꼽_보이는_후드
+polka_dot_hoodie,폴카_무늬
+print_hoodie,인쇄한_후드
+sleeveless_hoodie,민소매_후드
+striped_hoodie,줄무늬_후드
 robe,로브
-bathrobe,목욕 가운
+bathrobe,목욕_가운
 apron,앞치마
-waistcoat,양복 조끼
-shoulder_cape,어깨 망토
-cape,어깨를 덮는 망토
-capelet,어깨만 덮는 작은 망토
-open_robe,열린 로브
+waistcoat,양복_조끼
+shoulder_cape,어깨_망토
+cape,어깨를_덮는_망토
+capelet,어깨만_덮는_작은_망토
+open_robe,열린_로브
 vest,조끼
 cardigan,카디건
-cardigan_vest,카디건 조끼
+cardigan_vest,카디건_조끼
 jeans,청바지
 cutoff_jeans,청반바지
-chaps,카우보이 바지
-tight_pants,몸에 꽉 끼는 바지
-bell-bottoms,무릎 아래가 넓은 바지
-capri_pants,발목 위까지 오는 바지
-lowleg_pants,엉덩이와 허벅지에 꽉 끼는 바지
-pants_rolled_up,발목과 무릎 사이가 접힌 바지
+chaps,카우보이_바지
+tight_pants,몸에_꽉_끼는_바지
+bell-bottoms,무릎_아래가_넓은_바지
+capri_pants,발목_위까지_오는_바지
+lowleg_pants,엉덩이와_허벅지에_꽉_끼는_바지
+pants_rolled_up,발목과_무릎_사이가_접힌_바지
 shorts,반바지
-denim_shorts,데님 반바지
-bike_shorts,자전거 반바지
-gym_shorts,체육복 반바지
+denim_shorts,데님_반바지
+bike_shorts,자전거_반바지
+gym_shorts,체육복_반바지
 buruma,부루마
 bloomers,블루머
-dolphin_shorts,돌핀 팬츠
-short_shorts,짧은 반바지
-lowleg_shorts,살짝 짧은 반바지
-micro_shorts,매우 짧은 반바지
-shorts_under_skirt,치마 아래 반바지
-long_skirt,긴 치마
-miniskirt,짧은 치마
-lowleg_skirt,살짝 짧은 치마
-micro_skirt,매우 짦은 치마
-high-waist_skirt,매우 넓은 치마
-wrap_skirt,랩 스커트
-layered_skirt,레이어드 스커트
-mermaid_skirt,머메이드 스커트
-overall_skirt,멜빵 치마
-suspender_skirt,멜빵이 잡는 치마
-skirt_pants,치마 바지
-tight_skirt,타이트 스커트
-tulip_skirt,튤립 스커트
-pannier_skirt,파니에 스커트
-flared_skirt,플레어 스커트
-pleated_skirt,플리츠 스커트
-pinapo_dress,피나포 드레스
-bandeau,가슴 가리개
+dolphin_shorts,돌핀_팬츠
+short_shorts,짧은_반바지
+lowleg_shorts,살짝_짧은_반바지
+micro_shorts,매우_짧은_반바지
+shorts_under_skirt,치마_아래_반바지
+long_skirt,긴_치마
+miniskirt,짧은_치마
+lowleg_skirt,살짝_짧은_치마
+micro_skirt,매우_짦은_치마
+high-waist_skirt,매우_넓은_치마
+wrap_skirt,랩_스커트
+layered_skirt,레이어드_스커트
+mermaid_skirt,머메이드_스커트
+overall_skirt,멜빵_치마
+suspender_skirt,멜빵이_잡는_치마
+skirt_pants,치마_바지
+tight_skirt,타이트_스커트
+tulip_skirt,튤립_스커트
+pannier_skirt,파니에_스커트
+flared_skirt,플레어_스커트
+pleated_skirt,플리츠_스커트
+pinapo_dress,피나포_드레스
+bandeau,가슴_가리개
 bustier,뷔스티에
 camisole,캐미솔
 corset,코르셋
-bra_strap,브래지어 끈
-adhesive_bra,접착 브래지어
-beltbra,벨트 브래지어
-frilled_bra,프릴 브래지어
-bow_bra,리본 브래지어
-sports_bra,스포츠 브래지어
-training_bra,트레이닝 브래지어
-cupless_bra,노출된 브래지어
-shelf_bra,노출된 브래이저
-strapless_bra,끈이 없는 브래지어
-front-tie_bra,끈이 묶인 브래지어
-front-hook_bra,끈이 풀린 브래지어
-thong,T 팬티
-bow_panties,삼각형 팬티
-side-tie_panties,끈(양쪽) 팬티
-string_panties,끈 팬티
-crotchless_panties,가랑이가 노출된 팬티
-crotch_seam,가랑이가 보이는 팬티
-strapless_bottom,가랑이만 노출된 팬티
-backless_panties,엉덩이만 노출된 팬티
-frilled_panties,팬티가 주름 있다
-loose_panties,팬티가 느슨하다
-micro_panties,팬티가 매우 작다
-lowleg_panties,팬티가 매우 짧다
-highleg_panties,팬티가 짧고 길다
-sizes_of_panties,팬티가 매우 크다
+bra_strap,브래지어_끈
+adhesive_bra,접착_브래지어
+beltbra,벨트_브래지어
+frilled_bra,프릴_브래지어
+bow_bra,리본_브래지어
+sports_bra,스포츠_브래지어
+training_bra,트레이닝_브래지어
+cupless_bra,노출된_브래지어
+shelf_bra,노출된_브래이저
+strapless_bra,끈이_없는_브래지어
+front-tie_bra,끈이_묶인_브래지어
+front-hook_bra,끈이_풀린_브래지어
+thong,T_팬티
+bow_panties,삼각형_팬티
+side-tie_panties,끈(양쪽)_팬티
+string_panties,끈_팬티
+crotchless_panties,가랑이가_노출된_팬티
+crotch_seam,가랑이가_보이는_팬티
+strapless_bottom,가랑이만_노출된_팬티
+backless_panties,엉덩이만_노출된_팬티
+frilled_panties,팬티가_주름_있다
+loose_panties,팬티가_느슨하다
+micro_panties,팬티가_매우_작다
+lowleg_panties,팬티가_매우_짧다
+highleg_panties,팬티가_짧고_길다
+sizes_of_panties,팬티가_매우_크다
 socks,양말
 tabi,버선
-ankle_socks,발목 양말
-bobby_socks,바비 양말
-loose_socks,헐랑한 양말
-toe_socks,발가략 양말
-tube_socks,튜브 양말
+ankle_socks,발목_양말
+bobby_socks,바비_양말
+loose_socks,헐랑한_양말
+toe_socks,발가략_양말
+tube_socks,튜브_양말
 stocking,스타킹
 leggings,레깅스
 high_legs,하이레그
-detached_leggings,분리된 레깅스
-pantyhose,팬티 스타킹
-kneehighs,니 삭스
-over-kneehighs,오버 니 삭스
-thighhighs,하이 식스
-thigh_high_socks,사이 하이 삭스
-thigh_strap,허벅지 끈
+detached_leggings,분리된_레깅스
+pantyhose,팬티_스타킹
+kneehighs,니_삭스
+over-kneehighs,오버_니_삭스
+thighhighs,하이_식스
+thigh_high_socks,사이_하이_삭스
+thigh_strap,허벅지_끈
 garter_belt,가터벨트
-garter_straps,가터 스트랩
-legwear_garter,레그웨어 가터
-shiny_legwear,반짝이는 양말
-armored_legwear,보호하는 양말
-lace-up_legwear,위로 올리는 양말
-see-through_legwear,비쳐 보이는 양말
-toeless_legwear,발가락만 보이는 양말
-bridal_legwear,발가락이 보이는 양말
-seamed_legwear,선이 있는 양말
-front-seamed_legwear,앞에 선 있는 양말
-back-seamed_legwear,뒤에 선 있는 양말
-side-seamed_legwear,옆에 선 있는 양말
-stirrup_legwear,등자가 달린 양말
-spiked_legwear,스파이크 달린 양말
-zipper_legwear,지퍼 달린 양말
-studded_legwear,징이 박힌 양말
-lace-trimmed_legwear,레이스 장식 달린 양말
-ribbon-trimmed_legwear,리본 장식 다린 쟝암ㄹ
-ribbon_legwear,리본이 달린 양말
-fur-trimmed_legwear,모피 장식 달린 양말
-o-ring_legwear,원형 고리 장식
-legwear_bell,종 장식이 달린 양말
+garter_straps,가터_스트랩
+legwear_garter,레그웨어_가터
+shiny_legwear,반짝이는_양말
+armored_legwear,보호하는_양말
+lace-up_legwear,위로_올리는_양말
+see-through_legwear,비쳐_보이는_양말
+toeless_legwear,발가락만_보이는_양말
+bridal_legwear,발가락이_보이는_양말
+seamed_legwear,선이_있는_양말
+front-seamed_legwear,앞에_선_있는_양말
+back-seamed_legwear,뒤에_선_있는_양말
+side-seamed_legwear,옆에_선_있는_양말
+stirrup_legwear,등자가_달린_양말
+spiked_legwear,스파이크_달린_양말
+zipper_legwear,지퍼_달린_양말
+studded_legwear,징이_박힌_양말
+lace-trimmed_legwear,레이스_장식_달린_양말
+ribbon-trimmed_legwear,리본_장식_다린_쟝암ㄹ
+ribbon_legwear,리본이_달린_양말
+fur-trimmed_legwear,모피_장식_달린_양말
+o-ring_legwear,원형_고리_장식
+legwear_bell,종_장식이_달린_양말
 sneakers,운동화
 high_tops,하이탑
-loafers,교복 신발
-pumps,정장 신발
-flats,중국 신발
-mary_janes,영국 신발
-uwabaki,학교 실내화
-pointy_footwear,뾰족한 신발
-kiltie_loafers,끈 달린 교복 신발
-footwear_ribbon,리본 달린 신발
-cross-laced_footwear,끈이 달린 신발
-platform_footwear,두꺼운 굽 있는 신발
-toeless_footwear,발가락이 보이는 신발
-winged_footwear,발꿈치에 날개 달린 신발
+loafers,교복_신발
+pumps,정장_신발
+flats,중국_신발
+mary_janes,영국_신발
+uwabaki,학교_실내화
+pointy_footwear,뾰족한_신발
+kiltie_loafers,끈_달린_교복_신발
+footwear_ribbon,리본_달린_신발
+cross-laced_footwear,끈이_달린_신발
+platform_footwear,두꺼운_굽_있는_신발
+toeless_footwear,발가락이_보이는_신발
+winged_footwear,발꿈치에_날개_달린_신발
 high_heels,하이힐
 wedge_heels,웨지힐
 boots,부츠
-knee_boots,무릎 부츠
-ankle_boots,발목 부츠
-lace-up_boots,발목 위 부츠
-thigh_boots,허벅지 부츠
-armored_boots,보호 부츠
-high_heel_boots,하이힐 부츠
-rubber_boots,고무 장화
-cowboy_boots,카우보이 부츠
+knee_boots,무릎_부츠
+ankle_boots,발목_부츠
+lace-up_boots,발목_위_부츠
+thigh_boots,허벅지_부츠
+armored_boots,보호_부츠
+high_heel_boots,하이힐_부츠
+rubber_boots,고무_장화
+cowboy_boots,카우보이_부츠
 sandals,샌들
-clog_sandals,나막신 샌들
-gladiator_sandals,검투사 샌들
-cross-laced_sandals,끈이 얽힌 샌들
-flip-flops,발목이 고정되지 않는 샌들
+clog_sandals,나막신_샌들
+gladiator_sandals,검투사_샌들
+cross-laced_sandals,끈이_얽힌_샌들
+flip-flops,발목이_고정되지_않는_샌들
 hairband,머리띠
-headdress,머리 장식
-hair_ribbon,머리 리본
-forehead_protector,이마 보호대
+headdress,머리_장식
+hair_ribbon,머리_리본
+forehead_protector,이마_보호대
 sweatband,땀띠
-bow_hairband,양갈래 머리띠
-frilled_hairband,프릴 머리띠
-lace_hairband,레이스 머리띠
-lace-trimmed_hairband,레이스 장식 머리띠
-lolita_hairband,로리라 머리띠
-spiked_hairband,스파이크 머리티
-striped_hairband,줄무늬 머리띠
-two-tone_hairband,투 톤 머리띠
-winged_hairband,날개 달린
-maid_headdress,메이드 머리 장식
+bow_hairband,양갈래_머리띠
+frilled_hairband,프릴_머리띠
+lace_hairband,레이스_머리띠
+lace-trimmed_hairband,레이스_장식_머리띠
+lolita_hairband,로리라_머리띠
+spiked_hairband,스파이크_머리티
+striped_hairband,줄무늬_머리띠
+two-tone_hairband,투_톤_머리띠
+winged_hairband,날개_달린
+maid_headdress,메이드_머리_장식
 beret,베레모
-sombrero,멕시코 모자
+sombrero,멕시코_모자
 beanie,비니
-fur_hat,모피 모자
-nightcap,수면 모자
-party_hat,파티 모자
-nurse_cap,간호사 모자
-jester_cap,광대 모자
-kepi,군사 모자
-shako_cap,군용 모자
-tate_eboshi,귀족 모자
-witch_hat,마녀 모자
-mini_witch_hat,작은 마녀 모자
-wizard_hat,마법사 모자
-top_hat,마술사 모자
-mini_top_hat,작은 마술사 모자
+fur_hat,모피_모자
+nightcap,수면_모자
+party_hat,파티_모자
+nurse_cap,간호사_모자
+jester_cap,광대_모자
+kepi,군사_모자
+shako_cap,군용_모자
+tate_eboshi,귀족_모자
+witch_hat,마녀_모자
+mini_witch_hat,작은_마녀_모자
+wizard_hat,마법사_모자
+top_hat,마술사_모자
+mini_top_hat,작은_마술사_모자
 santa_hat,산타
-mini_santa_hat,미니 산타
+mini_santa_hat,미니_산타
 straw_hat,밀짚모자
-aviator_cap,비행사 모자
-mitre,사제 모자
-sailor_hat,선원 모자
-baseball_cap,야구 모자
-female_service_cap,여성 유니폼 모자
-chef_hat,요리사 모자
-toque_blanche,빵 요리사 모자
-flat_top_chef_hat,접힌 요리사 모자
-tsunokakushi,일본 결혼식 모자
-mortarboard_collage_graduation_hat,졸업 모자
-cowboy_hat,카우보이 모자
-deerstalker,탐정 모자
-pith_helmet,탐험가 모자
-tokin_hat,텐구 모자
-dixie_cup_hat,해군 모자
-bicorne,해적 모자
-cloche_hat,동그란 모자
-visor_cap,바이저 캡
-peaked_cap,뾰족한 모자
-tricorne,삼각뿔 모자
-garrison_cap,삼각형 모자
-fez_hat,원통형 모자
-bowler_hat,챙이 작은 모자
-sun_hat,챙이 긴 모자
-boater_hat,챙이 넓고 납작한 모자
-bucket_hat,폭이 넓고 길쭉한 모짜
-flat_cap,한쪽으로 기울인 모자
-mob_cap,머리카락을 덮는 모자
-winged_helmet,날개 달린 헬맷
-diving_helmet,다이빙 헬맷
-pickelhaube,독일군 헬맷
+aviator_cap,비행사_모자
+mitre,사제_모자
+sailor_hat,선원_모자
+baseball_cap,야구_모자
+female_service_cap,여성_유니폼_모자
+chef_hat,요리사_모자
+toque_blanche,빵_요리사_모자
+flat_top_chef_hat,접힌_요리사_모자
+tsunokakushi,일본_결혼식_모자
+mortarboard_collage_graduation_hat,졸업_모자
+cowboy_hat,카우보이_모자
+deerstalker,탐정_모자
+pith_helmet,탐험가_모자
+tokin_hat,텐구_모자
+dixie_cup_hat,해군_모자
+bicorne,해적_모자
+cloche_hat,동그란_모자
+visor_cap,바이저_캡
+peaked_cap,뾰족한_모자
+tricorne,삼각뿔_모자
+garrison_cap,삼각형_모자
+fez_hat,원통형_모자
+bowler_hat,챙이_작은_모자
+sun_hat,챙이_긴_모자
+boater_hat,챙이_넓고_납작한_모자
+bucket_hat,폭이_넓고_길쭉한_모짜
+flat_cap,한쪽으로_기울인_모자
+mob_cap,머리카락을_덮는_모자
+winged_helmet,날개_달린_헬맷
+diving_helmet,다이빙_헬맷
+pickelhaube,독일군_헬맷
 american_football_helmet,미식축구
-horned_helmet,뿔 달린 헬맷
-baseball_helmet,야구 헬맷
-motorcycle_helmet,오토바이 헬멧
-bicycle_helmet,자전거 헬맷
+horned_helmet,뿔_달린_헬맷
+baseball_helmet,야구_헬맷
+motorcycle_helmet,오토바이_헬멧
+bicycle_helmet,자전거_헬맷
 veil,베일
 bonnet,보닛
 circlet,서클릿
 crowns,왕관
-mini_crown,작은 왕관
-diadem,천 왕관
+mini_crown,작은_왕관
+diadem,천_왕관
 tiara,티아라
 hijab,히잡
 goggles,고글
 monocle,단안경
-opera_glasses,오페라 안경
-diving_mask,다이빙 안경
-safety_glasses,보호 안결
-flight_goggles,비행 고글
-aviator_sunglasses,비행가 안경
-shooting_glasses,사격 안경
-ski_goggles,스키 고글
-coke-bottle_glasses,연구원 안경
-round_eyewear,둥근 모양 안경
-rectangular_eyewear,직사각형 안경
-heart-shaped_eyewear,하트 모양 안경
-star-shaped_eyewear,별 모양 안경
-teardrop-framed_glasses,눈물 모양 안경
-funny_glasses,재밌는 안결
-triangular_eyewear,반투명한 안경
-opaque_glasses,불투명한 안경
-lorgnette,손으로 잡는 안경
-pince-nez,콧대에 지지하는 안경
-eyewear_strap,안경끈 달린 안경
-rimless_eyewear,안경테가 없는 안경
-over-rim_eyewear,안경테가 두꺼운 안경
-under-rim_eyewear,안경테가 위쪽만 있는 안경
-semi-rimless_eyewear,안경테가 하단만 있는 안경
-clown_mask,광대 가면
-ninja_mask,닌자 가면
-domino_mask,도미노 가면
+opera_glasses,오페라_안경
+diving_mask,다이빙_안경
+safety_glasses,보호_안결
+flight_goggles,비행_고글
+aviator_sunglasses,비행가_안경
+shooting_glasses,사격_안경
+ski_goggles,스키_고글
+coke-bottle_glasses,연구원_안경
+round_eyewear,둥근_모양_안경
+rectangular_eyewear,직사각형_안경
+heart-shaped_eyewear,하트_모양_안경
+star-shaped_eyewear,별_모양_안경
+teardrop-framed_glasses,눈물_모양_안경
+funny_glasses,재밌는_안결
+triangular_eyewear,반투명한_안경
+opaque_glasses,불투명한_안경
+lorgnette,손으로_잡는_안경
+pince-nez,콧대에_지지하는_안경
+eyewear_strap,안경끈_달린_안경
+rimless_eyewear,안경테가_없는_안경
+over-rim_eyewear,안경테가_두꺼운_안경
+under-rim_eyewear,안경테가_위쪽만_있는_안경
+semi-rimless_eyewear,안경테가_하단만_있는_안경
+clown_mask,광대_가면
+ninja_mask,닌자_가면
+domino_mask,도미노_가면
 wrestling_mask,레슬링
-luchador_mask,루차도르 가면
+luchador_mask,루차도르_가면
 eye_mask,안대
-plague_doctor_mask,역병의사 가면
-oni_mask,오니 마스크
-carnival_mask,축제 가면
-character_mask,캐릭터 가면
-hockey_mask,하키 가면
-skull_mask,해골 마스크
-hyottoko_mask,효토코 가면
+plague_doctor_mask,역병의사_가면
+oni_mask,오니_마스크
+carnival_mask,축제_가면
+character_mask,캐릭터_가면
+hockey_mask,하키_가면
+skull_mask,해골_마스크
+hyottoko_mask,효토코_가면
 gas_mask,방독면
-oxygen_mask,산소 마스크
-sleep_mask,수면 마스크
-surgical_mask,수술 마스크
-welding_mask,용접 마스크
-broken_mask,깨진 가면
-half_mask,반쪽 가면
-mouth_mask,입 가면
-mouth_veil,입 베일
-tongue_piercing,혀 피어싱
-nose_piercing,코 피어싱
-ear_piercing,귀 피어싱
-collarbone_piercing,배꼽 피어싱
-single_earring,귀걸이 한 개
-multiple_earrings,귀걸이 여러 개
-industrial_piercing,위쪽 귀 두 개 피어싱
-eyebrow_piercing,눈썹 피어싱
-anti-eyebrow_piercing,눈썹 아래 피어싱
-eyelid_piercing,눈꺼풀 피어싱
-magatama_earrings,곡옥 귀걸이
-tassel_earrings,술이 달린 귀걸이
-shell_earrings,쉘 귀걸이
-yin_yang_earrings,음양사 귀걸이
-bell_earrings,종 귀걸이
-crescent_earrings,초승달 귀걸이
-pom_pom_earrings,털 장식 귀걸이
-skull_earrings,해골 귀걸이
-flower_earrings,꽃 귀걸이
-crystal_earrings,수정 귀걸이
-snowflake_earrings,눈송이 귀걸이
-strawberry_earrings,딸기 귀걸이
-star_earrings,별 귀걸이
-spade_earrings,스페이드 귀걸이
-cross_earrings,십자가 귀걸이
-pill_earrings,알약 귀걸이
-heart_earrings,하트 귀걸이
-planet_earrings,행성 귀걸이
+oxygen_mask,산소_마스크
+sleep_mask,수면_마스크
+surgical_mask,수술_마스크
+welding_mask,용접_마스크
+broken_mask,깨진_가면
+half_mask,반쪽_가면
+mouth_mask,입_가면
+mouth_veil,입_베일
+tongue_piercing,혀_피어싱
+nose_piercing,코_피어싱
+ear_piercing,귀_피어싱
+collarbone_piercing,배꼽_피어싱
+single_earring,귀걸이_한_개
+multiple_earrings,귀걸이_여러_개
+industrial_piercing,위쪽_귀_두_개_피어싱
+eyebrow_piercing,눈썹_피어싱
+anti-eyebrow_piercing,눈썹_아래_피어싱
+eyelid_piercing,눈꺼풀_피어싱
+magatama_earrings,곡옥_귀걸이
+tassel_earrings,술이_달린_귀걸이
+shell_earrings,쉘_귀걸이
+yin_yang_earrings,음양사_귀걸이
+bell_earrings,종_귀걸이
+crescent_earrings,초승달_귀걸이
+pom_pom_earrings,털_장식_귀걸이
+skull_earrings,해골_귀걸이
+flower_earrings,꽃_귀걸이
+crystal_earrings,수정_귀걸이
+snowflake_earrings,눈송이_귀걸이
+strawberry_earrings,딸기_귀걸이
+star_earrings,별_귀걸이
+spade_earrings,스페이드_귀걸이
+cross_earrings,십자가_귀걸이
+pill_earrings,알약_귀걸이
+heart_earrings,하트_귀걸이
+planet_earrings,행성_귀걸이
 scarf,스카프
 cravate,크라밧
 jabot,자벳
-ascot_tie,애스콧 타이
-bowtie,나비 넥타이
-stock_tie,스톡 타이
-bolo_tie,볼로 타이
-neck_ribbon,리본 타이
-cross_tie,끈 타이
+ascot_tie,애스콧_타이
+bowtie,나비_넥타이
+stock_tie,스톡_타이
+bolo_tie,볼로_타이
+neck_ribbon,리본_타이
+cross_tie,끈_타이
 choker,쵸커
-ribbon_choker,리본 쵸커
-bell_choker,종 쵸커
+ribbon_choker,리본_쵸커
+bell_choker,종_쵸커
 necklace,목걸이
 locket,로켓
 amulet,팬던트
 pentacle,팬타클
-flower_necklace,꽃 목걸이
-pendant,진주 목걸이
-chain_necklace,체인 목걸이
-magatama,마가타마(일본 옥 목걸이)
+flower_necklace,꽃_목걸이
+pendant,진주_목걸이
+chain_necklace,체인_목걸이
+magatama,마가타마(일본_옥_목걸이)
 neckerchief,목도리
 lanyard,사원증
 stole,스톨
 headphones_around_neck,헤드폰
-rubber_gloves,고무 장갑
-leather_gloves,가죽 장갑
-plastic_gloves,비닐 장갑
-latex_gloves,라텍스 장갑
-martial_arts_gloves,격투기 장갑
-goalkeeper_gloves,골키퍼 장갑
-golf_gloves,골프 장갑
-boxing_club,권투 클러브
-billiard_gloves,당구 장갑
-climbing_gloves,등산용 장갑
-racing_gloves,레이싱 글러브
-ice_gloves,빙상용 장갑
-ski_gloves,스키 장갑
-baseball_glove,야구 장갑
-motorcycle_gloves,오토바이 장갑
-health_glove,헬스 글러브
-opera_glove,오페라 글러브
-ceremonial_cotton_gloves,의례용 면장갑
-safety_gloves,안전 장갑
-tactical_gloves,전술 장갑
-combat_gloves,전투용 장갑
-heat-dissipating_gloves,방열 장갑
-gas-proof_gloves,방검 장갑
-cold_gloves,방한 장갑
-wing_ears,날개 달린 귀
-wing_ribbon,날개 리본
-winged_hat,날개 달린 모자
-winged_bag,날개 달린 가방
-tail_ring,꼬리 고리
-tail_bow,꼬리 리본
-tail_ornament,꼬리 장식품
-tail_bell,꼬리 종
-tail_piercing,꼬리 피어싱
-crawling,네 발로 걷다
-all_fours,네 발로 서다
-top-down_bottom-up,네 발로 서서 엉덩이를 들다
-prostration,네 발을 들고 복종하다
-walking,두 발로 걷다
-running,두 발로 달리다
-jumping,두 발로 점프하다
+rubber_gloves,고무_장갑
+leather_gloves,가죽_장갑
+plastic_gloves,비닐_장갑
+latex_gloves,라텍스_장갑
+martial_arts_gloves,격투기_장갑
+goalkeeper_gloves,골키퍼_장갑
+golf_gloves,골프_장갑
+boxing_club,권투_클러브
+billiard_gloves,당구_장갑
+climbing_gloves,등산용_장갑
+racing_gloves,레이싱_글러브
+ice_gloves,빙상용_장갑
+ski_gloves,스키_장갑
+baseball_glove,야구_장갑
+motorcycle_gloves,오토바이_장갑
+health_glove,헬스_글러브
+opera_glove,오페라_글러브
+ceremonial_cotton_gloves,의례용_면장갑
+safety_gloves,안전_장갑
+tactical_gloves,전술_장갑
+combat_gloves,전투용_장갑
+heat-dissipating_gloves,방열_장갑
+gas-proof_gloves,방검_장갑
+cold_gloves,방한_장갑
+wing_ears,날개_달린_귀
+wing_ribbon,날개_리본
+winged_hat,날개_달린_모자
+winged_bag,날개_달린_가방
+tail_ring,꼬리_고리
+tail_bow,꼬리_리본
+tail_ornament,꼬리_장식품
+tail_bell,꼬리_종
+tail_piercing,꼬리_피어싱
+crawling,네_발로_걷다
+all_fours,네_발로_서다
+top-down_bottom-up,네_발로_서서_엉덩이를_들다
+prostration,네_발을_들고_복종하다
+walking,두_발로_걷다
+running,두_발로_달리다
+jumping,두_발로_점프하다
 handstand,물구나무서다
-battoujutsu_stance,발도 자세를 잡는다
+battoujutsu_stance,발도_자세를_잡는다
 upside-down,상하반전
-balancing,서서 균형을 잡다
-wallwalking,손으로 벽을 타다
-superhero_landing,슈퍼 히어로 랜딩
+balancing,서서_균형을_잡다
+wallwalking,손으로_벽을_타다
+superhero_landing,슈퍼_히어로_랜딩
 stretching,스트레칭
-fighting_stance,싸울 자세를 잡는다
-standing,양쪽 다리로 서다
-faceplant,얼굴로 떨어지다
-contrapposto,엉덩이를 내밀다
-full_scorpion,전갈 자세를 잡는다
-standing_on_one_leg,한쪽 다리로 서다
+fighting_stance,싸울_자세를_잡는다
+standing,양쪽_다리로_서다
+faceplant,얼굴로_떨어지다
+contrapposto,엉덩이를_내밀다
+full_scorpion,전갈_자세를_잡는다
+standing_on_one_leg,한쪽_다리로_서다
 sitting,앉다
-butterfly_sitting,나비처럼 앉다
-seiza,일본식으로 앉다
-sitting_on_lap,무릎 위에 앉다
-sitting_on_person,사람 위에 앉다
-squatting,쪼그려 앉다
-wariza,양쪽으로 앉다
-yokozuwari,한쪽으로 앉다
+butterfly_sitting,나비처럼_앉다
+seiza,일본식으로_앉다
+sitting_on_lap,무릎_위에_앉다
+sitting_on_person,사람_위에_앉다
+squatting,쪼그려_앉다
+wariza,양쪽으로_앉다
+yokozuwari,한쪽으로_앉다
 lying,눕다
-crossed_legs,누워서 다리를 꼬다
-fetal_position,누워서 웅크리다
-on_back,뒤로 눕다
-on_side,옆으로 눕다
-on_stomach,엎드려 눕다
+crossed_legs,누워서_다리를_꼬다
+fetal_position,누워서_웅크리다
+on_back,뒤로_눕다
+on_side,옆으로_눕다
+on_stomach,엎드려_눕다
 reclining,기대다
-leaning,몸을 기대다
-leaning_forward,몸을 앞으로 기대다
-leaning_back,몸을 뒤로 기대다
-leaning_on_person,몸을 사람에게 기대다
-leaning_on_object,몸을 물건에 기대다
-against_wall,몸을 벽에 기대다
-against_tree,몸을 나무에 기대다
-against_glass,몸을 펜스에 기대다
-leaning_against_car,몸을 차량에 기대다
-leaning_against_motorcycle,몸을 오토바이에 기대다
-leaning_against_vehicle,몸을 옆으로 기대다
+leaning,몸을_기대다
+leaning_forward,몸을_앞으로_기대다
+leaning_back,몸을_뒤로_기대다
+leaning_on_person,몸을_사람에게_기대다
+leaning_on_object,몸을_물건에_기대다
+against_wall,몸을_벽에_기대다
+against_tree,몸을_나무에_기대다
+against_glass,몸을_펜스에_기대다
+leaning_against_car,몸을_차량에_기대다
+leaning_against_motorcycle,몸을_오토바이에_기대다
+leaning_against_vehicle,몸을_옆으로_기대다
 hug,껴안다
-tail_hug,꼬리로 껴안다
-wing_hug,날개로 껴안다
-hugging_own_legs,다리를 껴안다
-hug_from_behind,뒤에서 껴안다
-object_hug,물건을 껴안다
-arm_hug,팔로 껴안다
-waist_hug,허리를 껴안다
-hugging_doable_by_one_or_more_characters,1명 이상을 껴안다
-2posture_of_at_least_two_characters,2명 이상을 껴안다
-2hugging_doable_by_two_or_more_characters,2명 이상을 포옹하다
-torso_inclination,등을 기울이다
-slouching,등이 구부정하다
-twisted_torso,등을 뒤틀다
-arched_back,등이 휘었다
-bent_over,등을 구부렸다
-carried_breast_rest,가슴을 들다
-carrying_under_arm,겨드랑이에 끼고 들다
-princess_carry,공주님 안기
+tail_hug,꼬리로_껴안다
+wing_hug,날개로_껴안다
+hugging_own_legs,다리를_껴안다
+hug_from_behind,뒤에서_껴안다
+object_hug,물건을_껴안다
+arm_hug,팔로_껴안다
+waist_hug,허리를_껴안다
+hugging_doable_by_one_or_more_characters,1명_이상을_껴안다
+2posture_of_at_least_two_characters,2명_이상을_껴안다
+2hugging_doable_by_two_or_more_characters,2명_이상을_포옹하다
+torso_inclination,등을_기울이다
+slouching,등이_구부정하다
+twisted_torso,등을_뒤틀다
+arched_back,등이_휘었다
+bent_over,등을_구부렸다
+carried_breast_rest,가슴을_들다
+carrying_under_arm,겨드랑이에_끼고_들다
+princess_carry,공주님_안기
 carrying,들쳐매다
-piggyback,등에 엎고 나르다
-carrying_someone,사람을 들쳐매다
-fireman's_carry,소방관처럼 들다
-baby_carry,아기를 안다
-child_carry,아이를 들다
-carrying_over_shoulder,어깨 위로 들쳐매다
-standing_on_shoulder,어깨 위에 서다
-sitting_on_shoulder,어깨 위에 앉다
-shoulder_carry,어깨로 부축하다
-frogtie,개구리처럼 묶다
-bound_legs,다리를 묶다
-separated_legs,다리를 묶어 떨어뜨리다
-bound_torso,몸을 묶다
-bound_knees,무릎을 묶다
-bound_feet,발을 묶다
-suspension,사람을 묶어 매달았다
-strappado,사람을 묶어 장식한다
-bound_wrists,손목을 묶다
-separated_wrists,손목을 묶어 떨어뜨리다
-crucifixion,온몸이 묶이다
-bound_calves,종아리를 묶다
-hogtie,팔과 다리를 뒤로 묶다
-box_tie,팔을 뒤로 묶다
-bound_arms,팔을 묶다
-separated_arms,팔을 묶어 떨어뜨리다
-bound_thighs,허벅지를 묶다
-straddling,사람을 올리다
-thigh_straddling,사람을 허벅지에 올리다
-upright_straddle,사람을 마주보며 올리다
-eyecontact,눈을 맞추다
-leglock,다리를 잡는다
-back-to-back,등을 맞대다
-cheek-to-cheek,뺨을 맞대다
-holding_hands,손을 잡는다
-head+stogether,머리를 맞대다
-forehead-to-forehead,이마를 맞대다
-light_face,가벼운 표정
-touched_face,감동한 표정
-happy_face,기쁜 표정
-surprised_face,놀란 표정
-easygoing_face,느긋한 표정
-giddy_face,들뜬 표정
-shameful_face,부끄러운 표정
-envious_face,부러운 표정
-gentle_face,상냥한 표정
-sacred_face,신성한 표정
-smiling_face,웃는 표정
-benevolent_face,자비로운 표정
-pretentious_face,잘난척한 표정
-joyful_face,즐거운 표정
+piggyback,등에_엎고_나르다
+carrying_someone,사람을_들쳐매다
+fireman's_carry,소방관처럼_들다
+baby_carry,아기를_안다
+child_carry,아이를_들다
+carrying_over_shoulder,어깨_위로_들쳐매다
+standing_on_shoulder,어깨_위에_서다
+sitting_on_shoulder,어깨_위에_앉다
+shoulder_carry,어깨로_부축하다
+frogtie,개구리처럼_묶다
+bound_legs,다리를_묶다
+separated_legs,다리를_묶어_떨어뜨리다
+bound_torso,몸을_묶다
+bound_knees,무릎을_묶다
+bound_feet,발을_묶다
+suspension,사람을_묶어_매달았다
+strappado,사람을_묶어_장식한다
+bound_wrists,손목을_묶다
+separated_wrists,손목을_묶어_떨어뜨리다
+crucifixion,온몸이_묶이다
+bound_calves,종아리를_묶다
+hogtie,팔과_다리를_뒤로_묶다
+box_tie,팔을_뒤로_묶다
+bound_arms,팔을_묶다
+separated_arms,팔을_묶어_떨어뜨리다
+bound_thighs,허벅지를_묶다
+straddling,사람을_올리다
+thigh_straddling,사람을_허벅지에_올리다
+upright_straddle,사람을_마주보며_올리다
+eyecontact,눈을_맞추다
+leglock,다리를_잡는다
+back-to-back,등을_맞대다
+cheek-to-cheek,뺨을_맞대다
+holding_hands,손을_잡는다
+head+stogether,머리를_맞대다
+forehead-to-forehead,이마를_맞대다
+light_face,가벼운_표정
+touched_face,감동한_표정
+happy_face,기쁜_표정
+surprised_face,놀란_표정
+easygoing_face,느긋한_표정
+giddy_face,들뜬_표정
+shameful_face,부끄러운_표정
+envious_face,부러운_표정
+gentle_face,상냥한_표정
+sacred_face,신성한_표정
+smiling_face,웃는_표정
+benevolent_face,자비로운_표정
+pretentious_face,잘난척한_표정
+joyful_face,즐거운_표정
 frightened_face,질겁한표정
-bright_face,해맑은 표정
-desired_face,희망한 표정
-earnest_face,간절한 표정
-worried_face,걱정한 표정
-scornful_face,경멸한 표정
-distressed_face,괴로운 표정
-determined_face,단호한 표정
-embarrassed_face,당황한 표정
-scary_face,무서운 표정
-expression_face,무표정한 표정
-crazy_face,미친 표정
-outraged_face,분노한 표정
-unstable_face,불안한 표정
-unfortunate_face,불행한 표정
-turnred_face,붉히는 표정
-scoffing_face,비웃는 표정
-miserable_face,비참한 표정
-evil_face,사악한 표정
-idea_face,생각한 표정
-upset_face,속상한 표정
-sad_face,슬픈 표정
-disappointed_face,실망한 표정
-serious_face,심각한 표정
-gloomy_face,암울한 표정
-sorrowful_face,애달픈 표정
-suppressed_face,억눌린 표정
-unfair_face,억울한 표정
-withdistaste_face,억지 부리는 표정
-arrogant_face,오만한 표정
-lonely_face,외로운 표정
-crying_face,우는 표정
-tearful_face,울먹이는 표정
-suspicious_face,의심한 표정
-despair_face,절망한 표정
-sleepy_face,졸린 표정
-frustrated_face,좌절한 표정
-boring_face,지루한 표정
-irritating_face,짜증난 표정
-pale_face,창백한 표정
-nervous_face,초조한 표정
-tired_face,피곤한 표정
-angry_face,화난 표정
-pathetic_face,한심한 표정
-lamented_face,한탄한 표정
-confused_face,혼란한 표정
-charmed_face,매혹한 표정
-seduced_face,유혹한 표정
-drunk_face,취한 표정
-ecstasy_face,황홀한 표정
-aroused_face,흥분한 표정
-lipstick,입술을 화장하다
-lipgloss,입술을 광택나게 화장하다
-lip_balm,입술을 부드럽게 화장하다
+bright_face,해맑은_표정
+desired_face,희망한_표정
+earnest_face,간절한_표정
+worried_face,걱정한_표정
+scornful_face,경멸한_표정
+distressed_face,괴로운_표정
+determined_face,단호한_표정
+embarrassed_face,당황한_표정
+scary_face,무서운_표정
+expression_face,무표정한_표정
+crazy_face,미친_표정
+outraged_face,분노한_표정
+unstable_face,불안한_표정
+unfortunate_face,불행한_표정
+turnred_face,붉히는_표정
+scoffing_face,비웃는_표정
+miserable_face,비참한_표정
+evil_face,사악한_표정
+idea_face,생각한_표정
+upset_face,속상한_표정
+sad_face,슬픈_표정
+disappointed_face,실망한_표정
+serious_face,심각한_표정
+gloomy_face,암울한_표정
+sorrowful_face,애달픈_표정
+suppressed_face,억눌린_표정
+unfair_face,억울한_표정
+withdistaste_face,억지_부리는_표정
+arrogant_face,오만한_표정
+lonely_face,외로운_표정
+crying_face,우는_표정
+tearful_face,울먹이는_표정
+suspicious_face,의심한_표정
+despair_face,절망한_표정
+sleepy_face,졸린_표정
+frustrated_face,좌절한_표정
+boring_face,지루한_표정
+irritating_face,짜증난_표정
+pale_face,창백한_표정
+nervous_face,초조한_표정
+tired_face,피곤한_표정
+angry_face,화난_표정
+pathetic_face,한심한_표정
+lamented_face,한탄한_표정
+confused_face,혼란한_표정
+charmed_face,매혹한_표정
+seduced_face,유혹한_표정
+drunk_face,취한_표정
+ecstasy_face,황홀한_표정
+aroused_face,흥분한_표정
+lipstick,입술을_화장하다
+lipgloss,입술을_광택나게_화장하다
+lip_balm,입술을_부드럽게_화장하다
 body_writing,몸에낙서하다
-face_paint,얼굴에 낙서하다
-paint_splatteron_face,얼굴에 페인트가 튀다
-drawing_on_another's_face,다른 사람 얼굴에 낙서하다
-hair_twirling,머리를 돌리다
-hair_tucking,머리를 묶다
-brushing_hair,머리를 빗다
-hairdressing,머리를 이발하다
-arm_around_neck,목에 한쪽 팔을 감다
-arms_around_neck,목에 양쪽 팔을 감다
-hand_on_own_neck,내 목에 손을 대다
-hand_on_another's_neck,남의 목에 손을 대다
-neck_biting,목을 물어 뜯다
-necking,목을 빨다
-kissing_neck,목에 키스하다
-glaring,눈을 가늘게 뜰다
-squinting,눈으로 곁눈질하다
-half-closed_eyes,눈을 반쯤 가다
-shading_eyes,눈 위를 손으로 가리다
-sobbing,눈물을 흘리며 흐느끼다
+face_paint,얼굴에_낙서하다
+paint_splatteron_face,얼굴에_페인트가_튀다
+drawing_on_another's_face,다른_사람_얼굴에_낙서하다
+hair_twirling,머리를_돌리다
+hair_tucking,머리를_묶다
+brushing_hair,머리를_빗다
+hairdressing,머리를_이발하다
+arm_around_neck,목에_한쪽_팔을_감다
+arms_around_neck,목에_양쪽_팔을_감다
+hand_on_own_neck,내_목에_손을_대다
+hand_on_another's_neck,남의_목에_손을_대다
+neck_biting,목을_물어_뜯다
+necking,목을_빨다
+kissing_neck,목에_키스하다
+glaring,눈을_가늘게_뜰다
+squinting,눈으로_곁눈질하다
+half-closed_eyes,눈을_반쯤_가다
+shading_eyes,눈_위를_손으로_가리다
+sobbing,눈물을_흘리며_흐느끼다
 peeking,엿보다
-peephole,구멍을 엿보다
-peeking_out,숨어서 엿보다
-peeking_through_fingers,손가락 사이로 엿보다
-closed_mouth,입을 다물다
-licking_lips,입술을 핥다
-pursed_lips,입술을 내밀다
-open_mouth,입을 벌리다
-spread_lips,입술을 벌리다
-puckered_lips,입술을 오므리다
-parted_lips,입술이 갈라지다
+peephole,구멍을_엿보다
+peeking_out,숨어서_엿보다
+peeking_through_fingers,손가락_사이로_엿보다
+closed_mouth,입을_다물다
+licking_lips,입술을_핥다
+pursed_lips,입술을_내밀다
+open_mouth,입을_벌리다
+spread_lips,입술을_벌리다
+puckered_lips,입술을_오므리다
+parted_lips,입술이_갈라지다
 breathing,숨쉬다
-heavy_breathing_(panting),거칠게 숨쉬다
+heavy_breathing_(panting),거칠게_숨쉬다
 coughing,기침한다
-bubble_blowing,거품을 풀다
-drooling,침을 흘리다
+bubble_blowing,거품을_풀다
+drooling,침을_흘리다
 eating,먹다
 chewing,씹다
 swallowing,삼키다
 tasting,시식하다
-blood_sucking,피를 빨다
-sucking_tail,꼬리를 빨다
-popsicle_in_mouth,아이스크림을 빨다
-breast_sucking,입으로 가슴을 빨다
-breast_sucking_through_clothes,입으로 옷 위의 가슴을 빨다
-mutual_breast_sucking,입으로 서로 가슴을 빨다
-sucking_both_nipples,입으로 양쪽 젖꽂지를 빨다
-sucking_on_multiple_breasts,입으로 가슴을 혼자서 다 빨다
-double_breast_sucking,입으로 가슴을 양쪽에서 빨다
-testicle_sucking,입으로 고환을 빨다
-finger_sucking,입으로 손가락을 빨다
-toe_sucking,입으로 발가락을 빨다
-biting,이빨로 깨물다
-ear_biting,이빨로 귀를 깨물다
-cheek_biting,이빨로 뺨을 깨물다
-head_biting,이빨로 머리를 깨물다
-hand_biting,이빨로 손을 깨물다
-nail_biting,이빨로 손톱을 깨물다
-finger_biting,이빨로 손가락을 깨물다
-thumb_biting,이빨로 엄지를 깨물다
-glove_biting,이빨로 장갑을 깨물다
-lip_biting,이빨로 입술을 깨물다
-biting_tongue,이빨로 혀를 깨물다
-tail_biting,이빨로 꼬리를 깨물다
-breast_biting,이빨로 가슴을 깨물다
-penis_biting,이빨로 자지를 깨물다
-foreskin_biting,이빨로 포피를 깨물다
-ass_biting,이빨로 엉덩이를 깨물다
-tongue_grab,혀를 잡다
-licking_stomach,혀로 핥아먹다
-licking,혀로 핥다
-licking_ear,혀로 귀를 핥다
-licking_neck,혀로 목을 핥다
-licking_cheek,혀로 뺨을 핥다
-licking_face,혀로 얼굴을 핥다
-licking_hand,혀로 손을 핥다
-licking_foot,혀로 발을 핥다
-licking_arm,혀로 팔을 핥다
-licking_leg,혀로 다리를 할다
-licking_finger,혀로 손가락을 핥다
-licking_toe,혀로 발가락을 핥다
-licking_collarbone,혀로 쇄골을 핥다
-licking_breast,혀로 가슴을 핥다
-licking_nipple,혀로 젖꼭지를 핥다
-licking_armpit,혀로 겨드랑이를 핥다
-licking_belly,혀로 배를 핥다
-licking_navel,혀로 배꼽을 핥다
-licking_thigh,혀로 허벅지를 핥다
-licking_ass,혀로 엉덩이를 핥다
-licking_penis,혀로 자지를 핥다
-licking_testicle,혀로 고환을 핥다
-covering_ears,귀를 덮다
-ear_grab,귀를 잡다
-ear_pull,귀를 당긴다
-ear_wiggle,귀를 흔든다
-hand_on_ear,귀를 만진다
-holding_ears,귀를 잡는다
-smelling,냄새를 맡다
-smelling_clothes,옷의 냄새를 맡다
-smelling_underwear,속옷의 냄새를 맡다
-smelling_pantyhose,팬티스타킹의 냄새를 맡다
-breast_suppress,가슴을 가린다
-breast_awe,가슴을 경외한다
-breast_press,가슴을 누른다
-breast_pull,가슴을 당긴다
-groping,가슴을 더듬다
-breast_lift,가슴을 들어 올리다
-breast_slap,가슴을 따귀로 때리다
-breast_punch,가슴을 때리다
-hanging_breasts,가슴을 매달다
-weighing_breasts,가슴을 무거워한다
-floating_breasts,가슴을 물에 띄우다
-perky_breasts,가슴을 바짝 세우다
-convenient_breasts,가슴을 받침대처럼 쓴다
-breasts_apart,가슴을 벌리다
-inconvenient_breasts,가슴을 불편해한다
-breast_conscious,가슴을 의식한다
-breast_envy,가슴을 질투한다
-breast_reduction,가슴을 축소한다
-unaligned_breasts,가슴을 출렁인다
-bust_measuring,가슴을 측정한다
-bouncing_breasts,가슴을 튕기다
-flying_button,가슴을 팽창한다
-breast_expansion,가슴을 확장한다
-strap_between_breasts,가슴 사이에 끈을 끼우다
-neckwear_between_breasts,가슴 사이에 목장식을 끼우다
-head_between_breasts,가슴 사이에 머리를 끼우다
-person_between_breasts,가슴 사이에 사람을 끼우다
-clothes_between_breasts,가슴 사이에 옷을 끼우다
-food_between_breasts,가슴 사이에 음식을 끼우다
-card_between_breasts,가슴 사이에 카드를 키우다
-arm_between_breasts,가슴 사이에 팔을 끼우다
-breastfeeding,가슴을 수유하다
-breast_grab,가슴을 잡다
-guided_breast_grab,가슴을 쥐게 하다
-breast_hold,가슴을 쥐다
-breast_squeeze,가슴을 짜내다
-breast_poke,가슴을 찌르다
-self_breast_sucking,내 가슴을 빨다
-covered_nipples,젖꼭지를 덮다
-nipple_press,젖꼭지를 누른다
-nipple_pull,젖꼭지를 당기다
-nipple_flick,젖꼭지를 만진다
-nipple_rub,젖꼭지를 문지르다
-puffy_nipples,젖꼭지를 부풀리다
-nipple_tweak,젖꼭지를 비틀다
-nipple_slip,젖꼭지를 옷 밖으로 빼내다
-nipple_push,젖꼭지를 찌르다
-ass_grab,엉덩이를 잡다
-covering_ass,엉덩이를 덮다
-ass_shake,엉덩이를 흔들다
-ass_expansion,엉덩이가 커지다
-covering_anus,항문을 덮다
-anal_fingering,항문을 만지다
-anal_fisting,항문을 찌르다
-spread_anus,항문을 펼치다
-arm_up,팔을 위로 들다
-arm_behind_back,팔 한쪽을 뒤로 들다
-arms_behind_back,팔 양쪽을 뒤로 들다
-arm_behind_head,팔을 머리 위로 들다
-heart_arms,팔로 하트를 그리다
-struggling,팔로 강제로 잡는다
-arm_grab,강제로 팔을 뒤로 잡는다
-leg_grab,강제로 다리를 잡는다
-tied_up,강제로 끈으로 묶는다
-holding_another's_wrist,강제로 손목을 잡다
-choke_hold,강제로 목을 조르다
-triangle_choke,강제로 다리로 목을 조르다
-rear_naked_choke,강제로 등 뒤에서 목을 조르다
-air_quotes,손으로 강조한다
-salute,손으로 경례한다
-noogie,손으로 누르다
-cupping_hands,손으로 담는다
-hat_tip,손으로 모자를잡다
-steepled_fingers,손으로 세우다
-pinky_swear,손으로 약속하다
-facepalm,손으로 얼굴을 덮다
-palm-fist_greeting,손으로 인사하다
-fist_bump,손으로 주먹을 부딪힌다
-fig_sign,손으로 주먹쥐다
-palm-fist_tap,손으로 탭하다
-high_five,손으로 하이파이브
-own_hands_together,손을 겹치다
-whole_closed_hand,손을 닫다
-interlocked_fingers,손을 맞물리다
-carry_me,손을 뻗다
-fidgeting,손을 안절부절하다
-own_hands_clasped,손을 얽는다
-shushing,손을 올려 침묵시킨다
-clenched_hands,손을 움켜쥔다
-clenched_hand,손을 쥐다
-waving,손을 흔들다
-hand_mouth,손을 입에 올리다
-hand_on_own_head,손을 내 머리에 올리다
-hand_on_another's_head,손을 남의 머리에 올리다
-hand_on_own_face,손을 내 얼굴에 올리다
-hand_on_another's_face,손을 남의 얼굴에 올리다
-hand_on_own_chin,손을 내 턱에 올리다
-hand_on_another's_chin,손을 남의 턱에 올리다
-hand_on_own_forehead,손을 이마에 올리다
-hand_on_own_cheek,손을 내 뺨에 올리다
-hand_on_another's_cheek,손을 남의 뺨에 올리다
-hand_on_own_shoulder,손을 내 어깨에 올리다
-hand_on_another's_shoulder,손을 남의 어깨에 올리다
-hand_on_another's_hand,손을 남의 손에 올리다
-hands_on_feet,손을 발에 올리다
-hand_on_own_knee,손을 무릎(한쪽)에 올리다
-hands_on_own_knees,손을 무릎(양쪽)에 올리다
-hand_on_own_chest,손을 내 가슴에 올리다
-hand_on_another's_chest,손을 남의 가슴에 올리다
-hand_between_legs,손을 다리에 올리다
-hands_on_hips,손을 엉덩이에 올리다
-hand_on_own_ass,손을 엉덩이(양쪽)에 올리다
-hands_on_ass,손을 엉덩이(한쪽)에 올리다
-hand_on_headwear,손을 모자에 올리다
-adjusting_eyewear,손을 안경에 올리다
-hand_in_pocket,손을 주머니 한쪽에 넣다
-hands_in_pockets,손을 주머니 양쪽에 넣다
-fist_in_hand,손에 주먹을 넣다
-tickling,손으로 간지럽히다
-tickle_torture,손으로 간지럽혀 고문하다
-dual_wielding,양손에 무기를 들다
-triple_wielding,양손에 세 개를 휘두르다
-quadruple_wielding,양손에 네 개를 휘두르다
-lifting,손으로 들어올리다
-lifted_by_self,손으로 자기 옷을 들다
-lifted_by_another,손으로 다른 사람의 옷을 들다
-leg_lift,손으로 다리를 들어올리다
-lifting_person,손으로 사람을 들어올리다
-lifting_covers,손으로 이불을 들어올리다
-covering,손으로 숨기다
-covering_eyes,손으로 눈을 숨기다
-covering_mouth,손으로 입을 가리다
-overing_face,손으로 얼굴을 숨기다
-nude_cover,손으로 알몸을 숨기다
-covering_breasts,손으로 가슴을 숨기다
-covering_nipple,손으로 젖꼭지를 숨기다
-covering_crotch,손으로 가랑이를 숨기다
+blood_sucking,피를_빨다
+sucking_tail,꼬리를_빨다
+popsicle_in_mouth,아이스크림을_빨다
+breast_sucking,입으로_가슴을_빨다
+breast_sucking_through_clothes,입으로_옷_위의_가슴을_빨다
+mutual_breast_sucking,입으로_서로_가슴을_빨다
+sucking_both_nipples,입으로_양쪽_젖꽂지를_빨다
+sucking_on_multiple_breasts,입으로_가슴을_혼자서_다_빨다
+double_breast_sucking,입으로_가슴을_양쪽에서_빨다
+testicle_sucking,입으로_고환을_빨다
+finger_sucking,입으로_손가락을_빨다
+toe_sucking,입으로_발가락을_빨다
+biting,이빨로_깨물다
+ear_biting,이빨로_귀를_깨물다
+cheek_biting,이빨로_뺨을_깨물다
+head_biting,이빨로_머리를_깨물다
+hand_biting,이빨로_손을_깨물다
+nail_biting,이빨로_손톱을_깨물다
+finger_biting,이빨로_손가락을_깨물다
+thumb_biting,이빨로_엄지를_깨물다
+glove_biting,이빨로_장갑을_깨물다
+lip_biting,이빨로_입술을_깨물다
+biting_tongue,이빨로_혀를_깨물다
+tail_biting,이빨로_꼬리를_깨물다
+breast_biting,이빨로_가슴을_깨물다
+penis_biting,이빨로_자지를_깨물다
+foreskin_biting,이빨로_포피를_깨물다
+ass_biting,이빨로_엉덩이를_깨물다
+tongue_grab,혀를_잡다
+licking_stomach,혀로_핥아먹다
+licking,혀로_핥다
+licking_ear,혀로_귀를_핥다
+licking_neck,혀로_목을_핥다
+licking_cheek,혀로_뺨을_핥다
+licking_face,혀로_얼굴을_핥다
+licking_hand,혀로_손을_핥다
+licking_foot,혀로_발을_핥다
+licking_arm,혀로_팔을_핥다
+licking_leg,혀로_다리를_할다
+licking_finger,혀로_손가락을_핥다
+licking_toe,혀로_발가락을_핥다
+licking_collarbone,혀로_쇄골을_핥다
+licking_breast,혀로_가슴을_핥다
+licking_nipple,혀로_젖꼭지를_핥다
+licking_armpit,혀로_겨드랑이를_핥다
+licking_belly,혀로_배를_핥다
+licking_navel,혀로_배꼽을_핥다
+licking_thigh,혀로_허벅지를_핥다
+licking_ass,혀로_엉덩이를_핥다
+licking_penis,혀로_자지를_핥다
+licking_testicle,혀로_고환을_핥다
+covering_ears,귀를_덮다
+ear_grab,귀를_잡다
+ear_pull,귀를_당긴다
+ear_wiggle,귀를_흔든다
+hand_on_ear,귀를_만진다
+holding_ears,귀를_잡는다
+smelling,냄새를_맡다
+smelling_clothes,옷의_냄새를_맡다
+smelling_underwear,속옷의_냄새를_맡다
+smelling_pantyhose,팬티스타킹의_냄새를_맡다
+breast_suppress,가슴을_가린다
+breast_awe,가슴을_경외한다
+breast_press,가슴을_누른다
+breast_pull,가슴을_당긴다
+groping,가슴을_더듬다
+breast_lift,가슴을_들어_올리다
+breast_slap,가슴을_따귀로_때리다
+breast_punch,가슴을_때리다
+hanging_breasts,가슴을_매달다
+weighing_breasts,가슴을_무거워한다
+floating_breasts,가슴을_물에_띄우다
+perky_breasts,가슴을_바짝_세우다
+convenient_breasts,가슴을_받침대처럼_쓴다
+breasts_apart,가슴을_벌리다
+inconvenient_breasts,가슴을_불편해한다
+breast_conscious,가슴을_의식한다
+breast_envy,가슴을_질투한다
+breast_reduction,가슴을_축소한다
+unaligned_breasts,가슴을_출렁인다
+bust_measuring,가슴을_측정한다
+bouncing_breasts,가슴을_튕기다
+flying_button,가슴을_팽창한다
+breast_expansion,가슴을_확장한다
+strap_between_breasts,가슴_사이에_끈을_끼우다
+neckwear_between_breasts,가슴_사이에_목장식을_끼우다
+head_between_breasts,가슴_사이에_머리를_끼우다
+person_between_breasts,가슴_사이에_사람을_끼우다
+clothes_between_breasts,가슴_사이에_옷을_끼우다
+food_between_breasts,가슴_사이에_음식을_끼우다
+card_between_breasts,가슴_사이에_카드를_키우다
+arm_between_breasts,가슴_사이에_팔을_끼우다
+breastfeeding,가슴을_수유하다
+breast_grab,가슴을_잡다
+guided_breast_grab,가슴을_쥐게_하다
+breast_hold,가슴을_쥐다
+breast_squeeze,가슴을_짜내다
+breast_poke,가슴을_찌르다
+self_breast_sucking,내_가슴을_빨다
+covered_nipples,젖꼭지를_덮다
+nipple_press,젖꼭지를_누른다
+nipple_pull,젖꼭지를_당기다
+nipple_flick,젖꼭지를_만진다
+nipple_rub,젖꼭지를_문지르다
+puffy_nipples,젖꼭지를_부풀리다
+nipple_tweak,젖꼭지를_비틀다
+nipple_slip,젖꼭지를_옷_밖으로_빼내다
+nipple_push,젖꼭지를_찌르다
+ass_grab,엉덩이를_잡다
+covering_ass,엉덩이를_덮다
+ass_shake,엉덩이를_흔들다
+ass_expansion,엉덩이가_커지다
+covering_anus,항문을_덮다
+anal_fingering,항문을_만지다
+anal_fisting,항문을_찌르다
+spread_anus,항문을_펼치다
+arm_up,팔을_위로_들다
+arm_behind_back,팔_한쪽을_뒤로_들다
+arms_behind_back,팔_양쪽을_뒤로_들다
+arm_behind_head,팔을_머리_위로_들다
+heart_arms,팔로_하트를_그리다
+struggling,팔로_강제로_잡는다
+arm_grab,강제로_팔을_뒤로_잡는다
+leg_grab,강제로_다리를_잡는다
+tied_up,강제로_끈으로_묶는다
+holding_another's_wrist,강제로_손목을_잡다
+choke_hold,강제로_목을_조르다
+triangle_choke,강제로_다리로_목을_조르다
+rear_naked_choke,강제로_등_뒤에서_목을_조르다
+air_quotes,손으로_강조한다
+salute,손으로_경례한다
+noogie,손으로_누르다
+cupping_hands,손으로_담는다
+hat_tip,손으로_모자를잡다
+steepled_fingers,손으로_세우다
+pinky_swear,손으로_약속하다
+facepalm,손으로_얼굴을_덮다
+palm-fist_greeting,손으로_인사하다
+fist_bump,손으로_주먹을_부딪힌다
+fig_sign,손으로_주먹쥐다
+palm-fist_tap,손으로_탭하다
+high_five,손으로_하이파이브
+own_hands_together,손을_겹치다
+whole_closed_hand,손을_닫다
+interlocked_fingers,손을_맞물리다
+carry_me,손을_뻗다
+fidgeting,손을_안절부절하다
+own_hands_clasped,손을_얽는다
+shushing,손을_올려_침묵시킨다
+clenched_hands,손을_움켜쥔다
+clenched_hand,손을_쥐다
+waving,손을_흔들다
+hand_mouth,손을_입에_올리다
+hand_on_own_head,손을_내_머리에_올리다
+hand_on_another's_head,손을_남의_머리에_올리다
+hand_on_own_face,손을_내_얼굴에_올리다
+hand_on_another's_face,손을_남의_얼굴에_올리다
+hand_on_own_chin,손을_내_턱에_올리다
+hand_on_another's_chin,손을_남의_턱에_올리다
+hand_on_own_forehead,손을_이마에_올리다
+hand_on_own_cheek,손을_내_뺨에_올리다
+hand_on_another's_cheek,손을_남의_뺨에_올리다
+hand_on_own_shoulder,손을_내_어깨에_올리다
+hand_on_another's_shoulder,손을_남의_어깨에_올리다
+hand_on_another's_hand,손을_남의_손에_올리다
+hands_on_feet,손을_발에_올리다
+hand_on_own_knee,손을_무릎(한쪽)에_올리다
+hands_on_own_knees,손을_무릎(양쪽)에_올리다
+hand_on_own_chest,손을_내_가슴에_올리다
+hand_on_another's_chest,손을_남의_가슴에_올리다
+hand_between_legs,손을_다리에_올리다
+hands_on_hips,손을_엉덩이에_올리다
+hand_on_own_ass,손을_엉덩이(양쪽)에_올리다
+hands_on_ass,손을_엉덩이(한쪽)에_올리다
+hand_on_headwear,손을_모자에_올리다
+adjusting_eyewear,손을_안경에_올리다
+hand_in_pocket,손을_주머니_한쪽에_넣다
+hands_in_pockets,손을_주머니_양쪽에_넣다
+fist_in_hand,손에_주먹을_넣다
+tickling,손으로_간지럽히다
+tickle_torture,손으로_간지럽혀_고문하다
+dual_wielding,양손에_무기를_들다
+triple_wielding,양손에_세_개를_휘두르다
+quadruple_wielding,양손에_네_개를_휘두르다
+lifting,손으로_들어올리다
+lifted_by_self,손으로_자기_옷을_들다
+lifted_by_another,손으로_다른_사람의_옷을_들다
+leg_lift,손으로_다리를_들어올리다
+lifting_person,손으로_사람을_들어올리다
+lifting_covers,손으로_이불을_들어올리다
+covering,손으로_숨기다
+covering_eyes,손으로_눈을_숨기다
+covering_mouth,손으로_입을_가리다
+overing_face,손으로_얼굴을_숨기다
+nude_cover,손으로_알몸을_숨기다
+covering_breasts,손으로_가슴을_숨기다
+covering_nipple,손으로_젖꼭지를_숨기다
+covering_crotch,손으로_가랑이를_숨기다
 beckoning,손짓하다
-come_at_me_bro,손짓하며 도발하다
-come_hither,손짓하며 유혹하다
-outstretched_hand,아래를 향해 손짓하다
-reaching_out,화면 밖을 향해 손짓하다
-grabbing,손으로 잡다
-grabbing_another's_ass,손으로 남의 엉덩를 잡다
-torso_grab,손으로 몸통을 잡다
-squeezing,손으로 강하게 짜내다
-squeezing_testicles,손으로 고환을 짜내다
-measuring,손으로 측정하다
-penis_measuring,손으로 자지를 측정하다
-waist_measuring,손으로 허리를 측정하다
-fainting,손으로 부채질하다
-falling,손으로 부채질하며 말하다
-fanning_face,손으로 부채질해 얼굴을 식히다
-fanning_crotch,손으로 부채질해 가랑이를 식히다
-one_open_finger,손가락 하나를
-pinky_out,새끼 손가락
-middle_finger,가운데 손가락
-index_finger_raised(formerly_fgsfds),검지 손가락 올리다
-thumbs_up,엄지 손가락을 들다
-thumbs_down,엄지 손가락을 내리다
-two_open_fingers,손가락 두개를
-shaka_sign,엄지와 새끼
+come_at_me_bro,손짓하며_도발하다
+come_hither,손짓하며_유혹하다
+outstretched_hand,아래를_향해_손짓하다
+reaching_out,화면_밖을_향해_손짓하다
+grabbing,손으로_잡다
+grabbing_another's_ass,손으로_남의_엉덩를_잡다
+torso_grab,손으로_몸통을_잡다
+squeezing,손으로_강하게_짜내다
+squeezing_testicles,손으로_고환을_짜내다
+measuring,손으로_측정하다
+penis_measuring,손으로_자지를_측정하다
+waist_measuring,손으로_허리를_측정하다
+fainting,손으로_부채질하다
+falling,손으로_부채질하며_말하다
+fanning_face,손으로_부채질해_얼굴을_식히다
+fanning_crotch,손으로_부채질해_가랑이를_식히다
+one_open_finger,손가락_하나를
+pinky_out,새끼_손가락
+middle_finger,가운데_손가락
+index_finger_raised(formerly_fgsfds),검지_손가락_올리다
+thumbs_up,엄지_손가락을_들다
+thumbs_down,엄지_손가락을_내리다
+two_open_fingers,손가락_두개를
+shaka_sign,엄지와_새끼
 v_v_sign,사인
 v_inward_v,안쪽사인
 v_v_over_eye,눈에사인
 v_v_over_mouth,입에사인
 two-finger_salute,두손가락경례
-fox_shadow_puppet,여우 그림자
-finger_gun,손가락 총
-finger_heart,손가락 하트
-three_open_fingers,손가락 세개를
+fox_shadow_puppet,여우_그림자
+finger_gun,손가락_총
+finger_heart,손가락_하트
+three_open_fingers,손가락_세개를
 middle_w,검지
 money_gesture,돈사인
-vulcan_salute,검지와 중지
-akanbe,손가락으로 눈을 당긴다
-straight-arm_salute,손가락으로 똑바로 경례한다
-slit_throat(gesture),손가락으로 목을 긋다
-finger_counting,손가락으로 숫자를 세다
-open_hand,손가락으로 열다
-ohikaenasutte,손가락으로 인사하다
-crossed_fingers,손가락을 교차한다
-spread_fingers,손가락을 벌리다
-reaching,손가락을 뻗다
-pinching,손가락으로 꼬집다
-belly_grab,손가락으로 배를 꼬집다
-cheek_pinching,손가락으로 뺨을 꼬집다
-pointing,손가락으로 가리키다
-pointing_at_viewer,손가락으로 뷰어를 가리키다
-pointing_down,손가락으로 아래를 가리키다
-pointing_forward,손가락으로 앞을 가리키다
-saturday_night_fever,손가락으로 높이 가리키다
-fingering,손가락을 보지에 넣다
-fingering_from_behind,손가락을 뒤에서 보지를 넣다
-implied_fingering,손가락을 숨겨서 보지에 넣다
-fingering_through_clothes,손가락을 옷 위로 보지에 넣다
-fingering_through_panties,손가락을 팬티 위로 보지에 넣다
-spread_legs,다리를 벌리다
-watson_cross,다리를 서서 꼬다
-figure_four_sitting,다리를 앉아서 껴안다
-one_knee,무릎 한쪽을 꿇다
-kneeling,무릎 양쪽을 꿇다
-knees_together_feet_apart,무릎을 모으고 발을 벌리다
-knees_apart_feet_together,무릎을 벌리고 발을 발리다
-leg_up,다리 한쪽을 위로 올리다
-egs_up,다리 양쪽을 위로 올리다
-knees_to_chest,다리를 가슴 위로 올리다
-legs_over_head,다리를 머리 위로 올리다
-outstretched_leg,다리를 길게 뻗다
-pigeon_pose,다리를 뒤로 뻗다
-split,다리를 서서 뻗다
-kicking,다리로 차다
-crotch_kick,다리로 가랑이를 차다
-drop_kick,다리를 모아서 차다
-flying_kick,다리로 날아서 차다
-axe_kick,다리를 1자로 차다
-crossed_ankles,발목을 겹치다
-pigeon-toed,발가락이 위를 향하다
-plantar_flexion,발바닥이 아래로 향하다
-dorsiflexion,발을 위쪽으로 구부리다
-tiptoes,발가락을 들고 균형잡다
-tiptoe_kiss,발가락을 들고 키스한다
-stomping,발로 강제로 밟다
-stepping,무릎을 꿇리고 머리를 밟다
-foot_on_head,앉아서 머리를 밟다
-crotch_stomping,강제로 가랑이를 밟다
-"towel,_open",수건을 벗다
-towel_slip,수건이 미끄러지다
-clothes_grab,옷을 잡아당기다
-untying,옷의 끈을 풀다
-open_clothes,옷의 단추가 풀렸다
-unbuttoned,옷의 단추를 풀다
-wringing_clothes,옷의 몰을 짜다
-adjusting_clothes,옷의 선을 고치다
-unzipping,옷의 지퍼를 내리다
-unzipped,옷의 지퍼를 풀다
-revealing_clothes,옷이 노출되다
-untied,옷이 묶이지 않았다
-see-through,옷이 비쳐 보인다
-clothes_down,옷을 벗다
-unfastened,옷이 풀렸다
-bottomless,옷을 상체만 입는다
-clothing_aside,옷의 옆을 노출하다
-arm_cutout,옷의 팔이 노출되다
-shoulder_cutout,옷의 어깨를 노출하다
-armpit_cutout,옷의 겨드랑이를 노출되다
-midriff,옷의 배를 노출하다
-navel_cutout,옷의 배꼽를 노출하다
-zettai_ryouiki,옷위 허벅지 사이를 노출하다
-backless_outfit,옷의 등을 살짝 노출되다
-bare_back,옷의 등을 많이 노출하다
-sideless_outfit,옷의 옆구리를 노출하다
-cross-laced_clothes,옷의 옆구리를
-hip_vent,옷의 엉덩이를 노출하다
-ass_cutout,옷의 엉덩이만 노출하다
-open_hoodie,옷을 벗지 않고 내린다
-low-cut_armhole,옷의 노출이 심하고 짧다
-high-waist_sideboob,옷이 노출이 심하고 길다
-"kimono,_open",기모노를 벗다
-kimono_pull,기모노를 내려 노출하다
-kimono_lift,기모노를 올려 노출하다
-yukata_lift,유카타를 올려 노출하다
-dress_tug,드레스 내려 가랑이를 덮다
-dress_pull,드레스를 들어 노출하다
-dress_aside,드레스를 옆으로 젖혀 노출하다
-leotard_pull,레오타드를 들어 노출했다
-leotard_aside,레오타드를 옆으로 들어 노출하다
-swimsuit_cover-up,수영복 위에 옷을 입다
-swimsuit_under_clothes,수영복을 옷 아래로 입다
-bikini_pull,비키니를 당겨서 노출하다
-"bikini,_open",비키니를 벗어서 노출하다
-bikini_aside,비키니를 옆으로 넘겨서 노출하다
-swimsuit_pull,수영복을 당겨서 노출하다
-swimsuit_aside,수영복을 옆으로 당겨서 노출하다
-torn_swimsuit,수영복을 찢다
-bikini_lift,비키니를 올리다
-bikini_bottom_only,비키니를 아래만 입다
-bikini_top_only,비키니를 위쪽만 입다
-impossible_swimsuit,수영복을 밀착하다
-adjusting_swimsuit,수영복을 조정하다
-collar_grab,옷 칼라를 잡다
-necktie_grab,옷의 넥타이를 잡다
-collar_tug,옷의 칼라를 당기다
-bare_arms,옷의 팔을 노출하다
-sleeveless,옷의 소매를 노출하다
-sleeves_rolled_up,옷의 소매를 올리다
-armpits,옷의 겨드랑이를 노출하다
-sleeves_pushed_up,옷을 위쪽으로 말아서 노출하다
-strap_lift,옷의 끈을 당기다
-strap_pull,옷의 어깨끈을 내리다
-strap_slip,옷의 어깨끈을 당기다
-no_shirt,옷를 입지 입지 않았다
-shirt_lift,옷을 들어 가슴을 노출하다
-center_opening,옷의 상의
-open_collar,옷의 단추를 풀었다
-open_shirt,옷의 단추만 풀었다
-downblouse,옷을 살짝 들어 가슴을 노출하다
-shirt_pull,옷을 아래로 내려 가슴을 노출하다
-shirt_tug,옷을 아래로 잡아당기다
-shirt_slip,옷을 옆으로 내려 노출하다
-shirt_aside,옷을 옆으로 넘겨서 노출하다
-breasts_out,옷을 당겨 가슴을 노출하다
-one_breast_out,옷을 당겨 한쪽 가슴을 노출하다
-breastless_clothes,옷의 가슴을 가리지 않는다
-breast_slip,옷 밖으로 가슴을 노출하다
-backboob,옷 뒤로 상의 뒷면을 노출한다
-topless,옷을 하의만 입는다
-cleavage,옷의 가슴골을 노출하다
-underboob_cutout,옷의 행동 중앙을 노출하다
-underboob,옷의 밑가슴를 노출하다
-sideboob,옷의 옆가슴을 노출하다
-robe_slip,가운을 당기다
-hood_down,후드를 내렸다
-open_jacket,재킷를 벗어 노출하다
-open_coat,코트를 벗어 노출하다
-cape_lift,망토를 올려 노출하다
-sweater_lift,스웨터를 올려 노출하다
-pajamas_pull,잠옷을 내려 노출하다
-open_pants,바지를 열어 노출하다
-pants_pull,바지를 살짝 내려 노출하다
-crotch_cutout,바지의 가랑이를 노출하다
-downpants,바지의 사이를 노출하다
-pantyshot,바지의 사이로 팬티를 노출하다
-butt_crack,바지의 사이로 엉덩이 균열을 노출하다
-shorts_pull,반바지를 벗어 노출하다
-shorts_aside,반바지를 옆으로 젖히다
-"shorts,_open",반자리를 벗어 가랑이를 노출하다
-buruma_pull,브루마를 당기다
-buruma_aside,브루마를 옆으로 당기다
-hakama_pull,하카마를 아래로 내리다
-skirt_grab,치마를 잡아당기다
-apron_grab,앞치마를 잡아당기다
-upskirt,치마를 올려 엿보다
-skirt_lift,치마를 위로 올려서 노출하다
-skirt_tug,치마를 아래로 잡아당기다
-skirt_pull,치마를 아래로 당겨서 노출하다
-extended_upskirt,치마를 안에서 엿보다
-open_skirt,치마의 지파를 풀어 노출하다
-skirt_around_one_leg,치마를 한쪽 다리 위로 내렸다
-skirt_around_ankles,치마의 노출하다
-bra_on_head,브래지어를 머리 위에 올리다
-bra_on_ass,브래지어를 엉덩이 위에 올리다
-"bra,_open",브래지어를 벗다
-no_bra,브래지어 없이 상의만 입는다
-bra_lift,브래지어를 위로 올리다
-bra_pull,브래지를 올려 유두를 보인다
-holding_bra,브래지어를 들다
-bra_removed,브래지어를 제거한다
-adjusting_bra,브래지어를 조정하다
-torn_bra,브래지어를 찢다
-open_bra,브래지어를 풀다
-panties_on_breasts,팬티를 가슴 위에 올리다
-panties_on_head,팬티를 머리 위에 올리다
-panty_pull,팬티를 허벅지 위에 올리다
-panties_in_mouth,팬티를 입 안에 넣다
-panties_around_ankles,팬티를 발목 주위로 내리다
-panties_on_penis,팬티가 자지를 감싸다
-penis_in_panties,팬티가 자지에 걸리다
-adjusting_panties,팬티를 조정하다
-hand_in_panties,팬티를 손대다
-holding_panties,팬티를 들다
-"panties,_no",팬티를 입지 않다
-clitoris_slip,팬티를 내려 노출하다
-panty_lift,팬티를 위로 올려서 노출하다
-pussy_peek,팬티를 내려 보지를 노출하다
-panties_aside,팬티를 옆으로 넘겨 노출하다
-pantyhose_pull,팬티 스타킹을 내렸다
-no_legwear,양말이 없다
-wet_legwear,양말이 젖다
-torn_legwear,양말이 찢어졌다
-taut_legwear,양말이 팽팽하다
-mismatched_legwear,양말이 일치하지 않다
-holding_legwear,양말을 들다
-pulling_off_legwear,양말을 벗다
-putting_on_legwear,양말을 입다
-removing_legwear,양말을 제거하다
-adjusting_legwear,양말을 조정하다
-hat_on_chest,모자를 가슴 위에 올리다
-hat_over_one_eye,모자를 한쪽 눈 위에 올리다
-hat_over_eyes,모자를 양쪽 눈 위에 올리다
-holding_hat,모자를 들다
-hat_removed,모자를 벗다
-torn_hat,모자를 찢다
-hat_basket,모자에 담다
-hat_loss,모자가 날아가다
-adjusting_headwear,모자를 조정하다
-backwards_hat,모자를 뒤로 돌리다
-sideways_hat,모자를 옆으로 돌리다
-putting_on_headwear,모자를 쓰다
-tilted_headwear,모자를 기울이다
-eyewear_in_mouth,안경을 입 안에 물다
-eyewear_on_head,안경을 머리 위에 올리다
-eyewear_on_headwear,안경을 모자 위에 올리다
-crooked_eyewear,안경을 삐뚫었다
-eyewear_removed,안경을 제거한다
-eyewear_hang,안경을 벗어 장식하다
-holding_eyewear,안경 들다
-looking_for_glasses,안경을 찾다
-eyewear_switch,다른 안경을 끼다
-eyewear_view,안경 안으로 보다
-hand_on_eyewear,안경에 손을 대다
-removing_eyewear,안경을 제거하다
-mask_on_head,마스크를 머리 위에 올리다
-mask_over_one_eye,마스크를 한쪽 눈 위에 올리다
-holding_mask,마스크를 들다
-mask_removed,마스크를 벗다
-removing_mask,마스크를 살짝 벗다
-mask_lift,마스크를 올리다
-mask_pull,마스크를 당기다
-mask_around_neck,목에 마스크
-adjusting_earrings,귀걸이 조정하다
-cuddling,누구를 껴안다
-earcleaning,누구의 귀를 청소하다
-touching,누군가 감동하다
-dying,누군가 곧 죽다
-vomiting,누군가 구토하다
-whispering,누군가 귓가에 속삭이다
-praying,누군가 기도하다
-diaperchanging,누군가 기저귀를 갈다
-gardening,누군가 꽃에 물을 주다
-dreaming,누군가 꿈꾸다
-flapping,누군가 날개를 펄럭이다
-landing,누군가 내려오다
-singing,누군가 노래하다
-knocking,누군가 노크하다
-playing,누군가 놀다
-blinking,누군가 눈을 깜빡이다
-trolling,누구를 도발하다
-hugfrombehind,누구를 뒤에서 껴안다
-imitating,누구를 따라하다
-hitting,누구를 때리다
-smoking,누군가 담배를 피다
-waiting,누군가 대기하다
-fleeing,누군가 도망치다
-climbing,누군가 등반하다
-digging,누군가 땅을 파다
-rappelling,누군가 로프를 타고 내려온다
-blocking,누구를 말리다
-catching,누구를 매달다
-mindreading,누구의 마음을 읽다
-sittingonlap,누구의 무릎을 껴안다
-scarftying,누군가 매다 목도리를 매다
-tying,누군가 매다 장식을 매다
-resisting,누군가 매우 저항하다
-bathing,누군가 목욕하다
-soap,누군가 목욕하며 비누를 쓰다
-shampoo,누군가 목욕하며 거품을 쓰다
-mixedbathing,누군가 목욕을 같이 한다
-sharedbathing,누군가 목욕을 함께 한다
-clothedbath,누군가 옷을 입고 목욕하다
-strangling,누군가 목을 조르다
-trembling,누군가 몸을 떨다
-drying,누군가 몸을 말리다
-cowering,누군가 몸을 웅크리다
-bowing,누군가 무릎꿇고 인사하다
-kneeing,누군가 무릎을 꿇다
-textmessaging,누군가 문자 메시지를 보내다
-diving=(differentfromdive),누군가 물 속에 다이빙하다
-wading,누군가 물을 넘어가다
-decantering,누군가 물을 높게 잔에 붓다
-squirtingliquid,누군가 물을 분출하다
-watering,누군가 물을 뿌리다
-pouring,누군가 물을 잔에 붓다
-splashing,누군가 물이 몸에 튀다
-slipping,누군가 미끄러지다
-bumping,누구와 실수로 부딪힌다
-apologizing,누군가 사과하다
-stacking,누군가 사람을 쌓다
-eavesdropping,누군가 소리를 엿듣다
-screaming,누군가 소리를 크게 낸다
-shouting,누군가 소리를 크게 외치다
-drinking,누군가 술을 마시다
-giggling,누군가 숨죽여 웃다
-sliding,누군가 슬라이딩하다
-moaning,누군가 신음하다
-fighting,누군가 싸우다
-duel,누군가 결투하다
-pillow_fight,누군가 베개로 싸운다
-snowball_fight,누군가 눈으로 싸운다
-comforting,누구를 위로하다
-roaring,누구를 위협하다
-flirting,누구를 유혹하다
-cheering,누구를 응원하다
-flailing,누군가 어리광을 부리다
-sulking,누군가 얼굴을 찡그리다
-spanking,누군가 엉덩이를 때리다
-forceddressing,누군가 옷을 강제로 입히다
-dressing,누군가 옷을 입다
-wringing,누군가 옷을 짜내다
-driving,누군가 운전하다
-laughing,누군가 웃다
-baking,누군가 음식(빵)을 만들다
-chocolatemaking,누군가 음식(초콜렛)을 만들다
-roasting,누군가 음식을 데우다
-cooking,누군가 음식을 요리하다
-stirring,누군가 음식을 휘젓다
-sunbathing,누군가 일광욕하다
-working,누군가 일하고 있다
-chasing,누구를 쫓다
-sneezing,누군가 재채기하다
-pouncing,누군가 강하게 점프하다
-hopping,누군가 약하게 점프하다
-searching,누군가 주위를 둘러본다
-zipping,누군가 지퍼를 위로 당기다
-concentrating,누군가 집중하다
-whipping,누구를 채찍찔하다
-launching,누군가 착륙 준비하다
-reading,누군가 책을 읽다
-firing,누군가 총을 쏘다
-muzzleflash,누군가 총을 쏘자 빛나다
-reloading,누군가 총을 재장전하다
-dancing,누군가 춤추다
-poledancing,누군가 춤추며 봉을 타다
-spitting,누군가 침을 뱉다
-nosepicking,누군가 코를 파다
-strokingownchin,누군가 턱을 쓰다듬다
-elbowing,누구를 팔꿈치로 때리다
-penspinning,누군가 펜을 회전하다
-whistling,누군가 휘파람을 불다
-resting,누군가 휴식하다
-sweeping,누군가 흙먼지를 쓸다
-peeing,누군가를 쓰다듬다
-feeding,누군가에게 음식을 권하다
-sinking,무엇이 가라앉다
-floating,무엇이 공중에 떠 있다
-flying,무엇이 공중을 날다
-teaching,무엇을 가르치다
-opening,무엇을 개봉하다
-skipping,무엇을 건너뛰다
-repairing,무엇을 고치다
-studying,무엇을 공부하다
-polishing,무엇을 광택내다
-begging,무엇을 구걸하다
-rolling,무엇을 굴리며 이동하다
-sketching,무엇을 그리다
-dragging,무엇을 끌고 가다
-melting,무엇을 녹이다
-crushing,무엇을 눌러서 터뜨리다
-pulling,무엇을 당기다
-pitching,무엇을 던지다
-holding,무엇을 들다
-punching,무엇을 때리다
-rapidpunches,무엇을 때리다 빠르게
-dropping,무엇을 떨어뜨리다
-cupping,무엇을 모아 담다
-pointing_weapon,무엇을 무기로 조준하다
-hatching,무엇이 부화하다
-glowing,무엇이 빛난다
-unsheathing,무엇을 벗기다
-protecting,무엇을 보호하다
-sucking,무엇을 빨다
-shopping,무엇을 사다
-imagining,무엇을 상상하다
-scratching,무엇을 상처 입힌다
-thinking,무엇을 생각하다
-giving,무엇을 선물하다
-dishwashing,무엇을 설거지하다
-summoning,무엇을 소환하다
-hiding,무엇을 숨기다
-patting,무엇을 쓰다듬다
-bouncing,무엇이 요동친다
-spinning,무엇이 회전하다
-staring,무엇을 응시하다
-cutting,무엇을 자르다
-juggling,무엇을 저글링하다
-shaving,무엇을 제모하다
-aiming,무엇을 조준하다
-poking,무엇을 찌르다
-ripping,무엇을 찢다
-cleaning,무엇을 청소하다
-at_gunpoint,무엇을 총구로 조준하다
-healing,무엇을 치유하다
-riding,무엇을 타다
-tapping,무엇을 테이프로 감다
-breaking,무엇을 파괴하다
-pushing,무엇을 한쪽으로 밀다
-dodging,무엇을 회피하다
-slashing,무엇을 휘둘러 베다
-whisking,무엇을 휘젓다
-shaking,무엇을 흔들다
-spilling,무엇을 흘리다
+vulcan_salute,검지와_중지
+akanbe,손가락으로_눈을_당긴다
+straight-arm_salute,손가락으로_똑바로_경례한다
+slit_throat(gesture),손가락으로_목을_긋다
+finger_counting,손가락으로_숫자를_세다
+open_hand,손가락으로_열다
+ohikaenasutte,손가락으로_인사하다
+crossed_fingers,손가락을_교차한다
+spread_fingers,손가락을_벌리다
+reaching,손가락을_뻗다
+pinching,손가락으로_꼬집다
+belly_grab,손가락으로_배를_꼬집다
+cheek_pinching,손가락으로_뺨을_꼬집다
+pointing,손가락으로_가리키다
+pointing_at_viewer,손가락으로_뷰어를_가리키다
+pointing_down,손가락으로_아래를_가리키다
+pointing_forward,손가락으로_앞을_가리키다
+saturday_night_fever,손가락으로_높이_가리키다
+fingering,손가락을_보지에_넣다
+fingering_from_behind,손가락을_뒤에서_보지를_넣다
+implied_fingering,손가락을_숨겨서_보지에_넣다
+fingering_through_clothes,손가락을_옷_위로_보지에_넣다
+fingering_through_panties,손가락을_팬티_위로_보지에_넣다
+spread_legs,다리를_벌리다
+watson_cross,다리를_서서_꼬다
+figure_four_sitting,다리를_앉아서_껴안다
+one_knee,무릎_한쪽을_꿇다
+kneeling,무릎_양쪽을_꿇다
+knees_together_feet_apart,무릎을_모으고_발을_벌리다
+knees_apart_feet_together,무릎을_벌리고_발을_발리다
+leg_up,다리_한쪽을_위로_올리다
+egs_up,다리_양쪽을_위로_올리다
+knees_to_chest,다리를_가슴_위로_올리다
+legs_over_head,다리를_머리_위로_올리다
+outstretched_leg,다리를_길게_뻗다
+pigeon_pose,다리를_뒤로_뻗다
+split,다리를_서서_뻗다
+kicking,다리로_차다
+crotch_kick,다리로_가랑이를_차다
+drop_kick,다리를_모아서_차다
+flying_kick,다리로_날아서_차다
+axe_kick,다리를_1자로_차다
+crossed_ankles,발목을_겹치다
+pigeon-toed,발가락이_위를_향하다
+plantar_flexion,발바닥이_아래로_향하다
+dorsiflexion,발을_위쪽으로_구부리다
+tiptoes,발가락을_들고_균형잡다
+tiptoe_kiss,발가락을_들고_키스한다
+stomping,발로_강제로_밟다
+stepping,무릎을_꿇리고_머리를_밟다
+foot_on_head,앉아서_머리를_밟다
+crotch_stomping,강제로_가랑이를_밟다
+"towel,_open",수건을_벗다
+towel_slip,수건이_미끄러지다
+clothes_grab,옷을_잡아당기다
+untying,옷의_끈을_풀다
+open_clothes,옷의_단추가_풀렸다
+unbuttoned,옷의_단추를_풀다
+wringing_clothes,옷의_몰을_짜다
+adjusting_clothes,옷의_선을_고치다
+unzipping,옷의_지퍼를_내리다
+unzipped,옷의_지퍼를_풀다
+revealing_clothes,옷이_노출되다
+untied,옷이_묶이지_않았다
+see-through,옷이_비쳐_보인다
+clothes_down,옷을_벗다
+unfastened,옷이_풀렸다
+bottomless,옷을_상체만_입는다
+clothing_aside,옷의_옆을_노출하다
+arm_cutout,옷의_팔이_노출되다
+shoulder_cutout,옷의_어깨를_노출하다
+armpit_cutout,옷의_겨드랑이를_노출되다
+midriff,옷의_배를_노출하다
+navel_cutout,옷의_배꼽를_노출하다
+zettai_ryouiki,옷위_허벅지_사이를_노출하다
+backless_outfit,옷의_등을_살짝_노출되다
+bare_back,옷의_등을_많이_노출하다
+sideless_outfit,옷의_옆구리를_노출하다
+cross-laced_clothes,옷의_옆구리를
+hip_vent,옷의_엉덩이를_노출하다
+ass_cutout,옷의_엉덩이만_노출하다
+open_hoodie,옷을_벗지_않고_내린다
+low-cut_armhole,옷의_노출이_심하고_짧다
+high-waist_sideboob,옷이_노출이_심하고_길다
+"kimono,_open",기모노를_벗다
+kimono_pull,기모노를_내려_노출하다
+kimono_lift,기모노를_올려_노출하다
+yukata_lift,유카타를_올려_노출하다
+dress_tug,드레스_내려_가랑이를_덮다
+dress_pull,드레스를_들어_노출하다
+dress_aside,드레스를_옆으로_젖혀_노출하다
+leotard_pull,레오타드를_들어_노출했다
+leotard_aside,레오타드를_옆으로_들어_노출하다
+swimsuit_cover-up,수영복_위에_옷을_입다
+swimsuit_under_clothes,수영복을_옷_아래로_입다
+bikini_pull,비키니를_당겨서_노출하다
+"bikini,_open",비키니를_벗어서_노출하다
+bikini_aside,비키니를_옆으로_넘겨서_노출하다
+swimsuit_pull,수영복을_당겨서_노출하다
+swimsuit_aside,수영복을_옆으로_당겨서_노출하다
+torn_swimsuit,수영복을_찢다
+bikini_lift,비키니를_올리다
+bikini_bottom_only,비키니를_아래만_입다
+bikini_top_only,비키니를_위쪽만_입다
+impossible_swimsuit,수영복을_밀착하다
+adjusting_swimsuit,수영복을_조정하다
+collar_grab,옷_칼라를_잡다
+necktie_grab,옷의_넥타이를_잡다
+collar_tug,옷의_칼라를_당기다
+bare_arms,옷의_팔을_노출하다
+sleeveless,옷의_소매를_노출하다
+sleeves_rolled_up,옷의_소매를_올리다
+armpits,옷의_겨드랑이를_노출하다
+sleeves_pushed_up,옷을_위쪽으로_말아서_노출하다
+strap_lift,옷의_끈을_당기다
+strap_pull,옷의_어깨끈을_내리다
+strap_slip,옷의_어깨끈을_당기다
+no_shirt,옷를_입지_입지_않았다
+shirt_lift,옷을_들어_가슴을_노출하다
+center_opening,옷의_상의
+open_collar,옷의_단추를_풀었다
+open_shirt,옷의_단추만_풀었다
+downblouse,옷을_살짝_들어_가슴을_노출하다
+shirt_pull,옷을_아래로_내려_가슴을_노출하다
+shirt_tug,옷을_아래로_잡아당기다
+shirt_slip,옷을_옆으로_내려_노출하다
+shirt_aside,옷을_옆으로_넘겨서_노출하다
+breasts_out,옷을_당겨_가슴을_노출하다
+one_breast_out,옷을_당겨_한쪽_가슴을_노출하다
+breastless_clothes,옷의_가슴을_가리지_않는다
+breast_slip,옷_밖으로_가슴을_노출하다
+backboob,옷_뒤로_상의_뒷면을_노출한다
+topless,옷을_하의만_입는다
+cleavage,옷의_가슴골을_노출하다
+underboob_cutout,옷의_행동_중앙을_노출하다
+underboob,옷의_밑가슴를_노출하다
+sideboob,옷의_옆가슴을_노출하다
+robe_slip,가운을_당기다
+hood_down,후드를_내렸다
+open_jacket,재킷를_벗어_노출하다
+open_coat,코트를_벗어_노출하다
+cape_lift,망토를_올려_노출하다
+sweater_lift,스웨터를_올려_노출하다
+pajamas_pull,잠옷을_내려_노출하다
+open_pants,바지를_열어_노출하다
+pants_pull,바지를_살짝_내려_노출하다
+crotch_cutout,바지의_가랑이를_노출하다
+downpants,바지의_사이를_노출하다
+pantyshot,바지의_사이로_팬티를_노출하다
+butt_crack,바지의_사이로_엉덩이_균열을_노출하다
+shorts_pull,반바지를_벗어_노출하다
+shorts_aside,반바지를_옆으로_젖히다
+"shorts,_open",반자리를_벗어_가랑이를_노출하다
+buruma_pull,브루마를_당기다
+buruma_aside,브루마를_옆으로_당기다
+hakama_pull,하카마를_아래로_내리다
+skirt_grab,치마를_잡아당기다
+apron_grab,앞치마를_잡아당기다
+upskirt,치마를_올려_엿보다
+skirt_lift,치마를_위로_올려서_노출하다
+skirt_tug,치마를_아래로_잡아당기다
+skirt_pull,치마를_아래로_당겨서_노출하다
+extended_upskirt,치마를_안에서_엿보다
+open_skirt,치마의_지파를_풀어_노출하다
+skirt_around_one_leg,치마를_한쪽_다리_위로_내렸다
+skirt_around_ankles,치마의_노출하다
+bra_on_head,브래지어를_머리_위에_올리다
+bra_on_ass,브래지어를_엉덩이_위에_올리다
+"bra,_open",브래지어를_벗다
+no_bra,브래지어_없이_상의만_입는다
+bra_lift,브래지어를_위로_올리다
+bra_pull,브래지를_올려_유두를_보인다
+holding_bra,브래지어를_들다
+bra_removed,브래지어를_제거한다
+adjusting_bra,브래지어를_조정하다
+torn_bra,브래지어를_찢다
+open_bra,브래지어를_풀다
+panties_on_breasts,팬티를_가슴_위에_올리다
+panties_on_head,팬티를_머리_위에_올리다
+panty_pull,팬티를_허벅지_위에_올리다
+panties_in_mouth,팬티를_입_안에_넣다
+panties_around_ankles,팬티를_발목_주위로_내리다
+panties_on_penis,팬티가_자지를_감싸다
+penis_in_panties,팬티가_자지에_걸리다
+adjusting_panties,팬티를_조정하다
+hand_in_panties,팬티를_손대다
+holding_panties,팬티를_들다
+"panties,_no",팬티를_입지_않다
+clitoris_slip,팬티를_내려_노출하다
+panty_lift,팬티를_위로_올려서_노출하다
+pussy_peek,팬티를_내려_보지를_노출하다
+panties_aside,팬티를_옆으로_넘겨_노출하다
+pantyhose_pull,팬티_스타킹을_내렸다
+no_legwear,양말이_없다
+wet_legwear,양말이_젖다
+torn_legwear,양말이_찢어졌다
+taut_legwear,양말이_팽팽하다
+mismatched_legwear,양말이_일치하지_않다
+holding_legwear,양말을_들다
+pulling_off_legwear,양말을_벗다
+putting_on_legwear,양말을_입다
+removing_legwear,양말을_제거하다
+adjusting_legwear,양말을_조정하다
+hat_on_chest,모자를_가슴_위에_올리다
+hat_over_one_eye,모자를_한쪽_눈_위에_올리다
+hat_over_eyes,모자를_양쪽_눈_위에_올리다
+holding_hat,모자를_들다
+hat_removed,모자를_벗다
+torn_hat,모자를_찢다
+hat_basket,모자에_담다
+hat_loss,모자가_날아가다
+adjusting_headwear,모자를_조정하다
+backwards_hat,모자를_뒤로_돌리다
+sideways_hat,모자를_옆으로_돌리다
+putting_on_headwear,모자를_쓰다
+tilted_headwear,모자를_기울이다
+eyewear_in_mouth,안경을_입_안에_물다
+eyewear_on_head,안경을_머리_위에_올리다
+eyewear_on_headwear,안경을_모자_위에_올리다
+crooked_eyewear,안경을_삐뚫었다
+eyewear_removed,안경을_제거한다
+eyewear_hang,안경을_벗어_장식하다
+holding_eyewear,안경_들다
+looking_for_glasses,안경을_찾다
+eyewear_switch,다른_안경을_끼다
+eyewear_view,안경_안으로_보다
+hand_on_eyewear,안경에_손을_대다
+removing_eyewear,안경을_제거하다
+mask_on_head,마스크를_머리_위에_올리다
+mask_over_one_eye,마스크를_한쪽_눈_위에_올리다
+holding_mask,마스크를_들다
+mask_removed,마스크를_벗다
+removing_mask,마스크를_살짝_벗다
+mask_lift,마스크를_올리다
+mask_pull,마스크를_당기다
+mask_around_neck,목에_마스크
+adjusting_earrings,귀걸이_조정하다
+cuddling,누구를_껴안다
+earcleaning,누구의_귀를_청소하다
+touching,누군가_감동하다
+dying,누군가_곧_죽다
+vomiting,누군가_구토하다
+whispering,누군가_귓가에_속삭이다
+praying,누군가_기도하다
+diaperchanging,누군가_기저귀를_갈다
+gardening,누군가_꽃에_물을_주다
+dreaming,누군가_꿈꾸다
+flapping,누군가_날개를_펄럭이다
+landing,누군가_내려오다
+singing,누군가_노래하다
+knocking,누군가_노크하다
+playing,누군가_놀다
+blinking,누군가_눈을_깜빡이다
+trolling,누구를_도발하다
+hugfrombehind,누구를_뒤에서_껴안다
+imitating,누구를_따라하다
+hitting,누구를_때리다
+smoking,누군가_담배를_피다
+waiting,누군가_대기하다
+fleeing,누군가_도망치다
+climbing,누군가_등반하다
+digging,누군가_땅을_파다
+rappelling,누군가_로프를_타고_내려온다
+blocking,누구를_말리다
+catching,누구를_매달다
+mindreading,누구의_마음을_읽다
+sittingonlap,누구의_무릎을_껴안다
+scarftying,누군가_매다_목도리를_매다
+tying,누군가_매다_장식을_매다
+resisting,누군가_매우_저항하다
+bathing,누군가_목욕하다
+soap,누군가_목욕하며_비누를_쓰다
+shampoo,누군가_목욕하며_거품을_쓰다
+mixedbathing,누군가_목욕을_같이_한다
+sharedbathing,누군가_목욕을_함께_한다
+clothedbath,누군가_옷을_입고_목욕하다
+strangling,누군가_목을_조르다
+trembling,누군가_몸을_떨다
+drying,누군가_몸을_말리다
+cowering,누군가_몸을_웅크리다
+bowing,누군가_무릎꿇고_인사하다
+kneeing,누군가_무릎을_꿇다
+textmessaging,누군가_문자_메시지를_보내다
+diving=(differentfromdive),누군가_물_속에_다이빙하다
+wading,누군가_물을_넘어가다
+decantering,누군가_물을_높게_잔에_붓다
+squirtingliquid,누군가_물을_분출하다
+watering,누군가_물을_뿌리다
+pouring,누군가_물을_잔에_붓다
+splashing,누군가_물이_몸에_튀다
+slipping,누군가_미끄러지다
+bumping,누구와_실수로_부딪힌다
+apologizing,누군가_사과하다
+stacking,누군가_사람을_쌓다
+eavesdropping,누군가_소리를_엿듣다
+screaming,누군가_소리를_크게_낸다
+shouting,누군가_소리를_크게_외치다
+drinking,누군가_술을_마시다
+giggling,누군가_숨죽여_웃다
+sliding,누군가_슬라이딩하다
+moaning,누군가_신음하다
+fighting,누군가_싸우다
+duel,누군가_결투하다
+pillow_fight,누군가_베개로_싸운다
+snowball_fight,누군가_눈으로_싸운다
+comforting,누구를_위로하다
+roaring,누구를_위협하다
+flirting,누구를_유혹하다
+cheering,누구를_응원하다
+flailing,누군가_어리광을_부리다
+sulking,누군가_얼굴을_찡그리다
+spanking,누군가_엉덩이를_때리다
+forceddressing,누군가_옷을_강제로_입히다
+dressing,누군가_옷을_입다
+wringing,누군가_옷을_짜내다
+driving,누군가_운전하다
+laughing,누군가_웃다
+baking,누군가_음식(빵)을_만들다
+chocolatemaking,누군가_음식(초콜렛)을_만들다
+roasting,누군가_음식을_데우다
+cooking,누군가_음식을_요리하다
+stirring,누군가_음식을_휘젓다
+sunbathing,누군가_일광욕하다
+working,누군가_일하고_있다
+chasing,누구를_쫓다
+sneezing,누군가_재채기하다
+pouncing,누군가_강하게_점프하다
+hopping,누군가_약하게_점프하다
+searching,누군가_주위를_둘러본다
+zipping,누군가_지퍼를_위로_당기다
+concentrating,누군가_집중하다
+whipping,누구를_채찍찔하다
+launching,누군가_착륙_준비하다
+reading,누군가_책을_읽다
+firing,누군가_총을_쏘다
+muzzleflash,누군가_총을_쏘자_빛나다
+reloading,누군가_총을_재장전하다
+dancing,누군가_춤추다
+poledancing,누군가_춤추며_봉을_타다
+spitting,누군가_침을_뱉다
+nosepicking,누군가_코를_파다
+strokingownchin,누군가_턱을_쓰다듬다
+elbowing,누구를_팔꿈치로_때리다
+penspinning,누군가_펜을_회전하다
+whistling,누군가_휘파람을_불다
+resting,누군가_휴식하다
+sweeping,누군가_흙먼지를_쓸다
+peeing,누군가를_쓰다듬다
+feeding,누군가에게_음식을_권하다
+sinking,무엇이_가라앉다
+floating,무엇이_공중에_떠_있다
+flying,무엇이_공중을_날다
+teaching,무엇을_가르치다
+opening,무엇을_개봉하다
+skipping,무엇을_건너뛰다
+repairing,무엇을_고치다
+studying,무엇을_공부하다
+polishing,무엇을_광택내다
+begging,무엇을_구걸하다
+rolling,무엇을_굴리며_이동하다
+sketching,무엇을_그리다
+dragging,무엇을_끌고_가다
+melting,무엇을_녹이다
+crushing,무엇을_눌러서_터뜨리다
+pulling,무엇을_당기다
+pitching,무엇을_던지다
+holding,무엇을_들다
+punching,무엇을_때리다
+rapidpunches,무엇을_때리다_빠르게
+dropping,무엇을_떨어뜨리다
+cupping,무엇을_모아_담다
+pointing_weapon,무엇을_무기로_조준하다
+hatching,무엇이_부화하다
+glowing,무엇이_빛난다
+unsheathing,무엇을_벗기다
+protecting,무엇을_보호하다
+sucking,무엇을_빨다
+shopping,무엇을_사다
+imagining,무엇을_상상하다
+scratching,무엇을_상처_입힌다
+thinking,무엇을_생각하다
+giving,무엇을_선물하다
+dishwashing,무엇을_설거지하다
+summoning,무엇을_소환하다
+hiding,무엇을_숨기다
+patting,무엇을_쓰다듬다
+bouncing,무엇이_요동친다
+spinning,무엇이_회전하다
+staring,무엇을_응시하다
+cutting,무엇을_자르다
+juggling,무엇을_저글링하다
+shaving,무엇을_제모하다
+aiming,무엇을_조준하다
+poking,무엇을_찌르다
+ripping,무엇을_찢다
+cleaning,무엇을_청소하다
+at_gunpoint,무엇을_총구로_조준하다
+healing,무엇을_치유하다
+riding,무엇을_타다
+tapping,무엇을_테이프로_감다
+breaking,무엇을_파괴하다
+pushing,무엇을_한쪽으로_밀다
+dodging,무엇을_회피하다
+slashing,무엇을_휘둘러_베다
+whisking,무엇을_휘젓다
+shaking,무엇을_흔들다
+spilling,무엇을_흘리다
 penis,자지
 foreskin,포피
 phimosis,포경
 testicles,고환
-large_penis,자지가 크다
-huge_penis,자지가 매우 크다
-gigantic_penis,자지가 엄청 크다
-erection,자지가 발기하다
-flaccid,자지가 이완된다
-invisible_penis,자지가 투명하다
-disembodied_penis,자지만 남아있다
+large_penis,자지가_크다
+huge_penis,자지가_매우_크다
+gigantic_penis,자지가_엄청_크다
+erection,자지가_발기하다
+flaccid,자지가_이완된다
+invisible_penis,자지가_투명하다
+disembodied_penis,자지만_남아있다
 pussy,보지
 uterus,자궁
 labia,음순
 pubic_hair,음모
 pussy_juice,애액
 clitoris,음핵
-pussy_juice_puddle,애액이 모였다
-pussy_juice_trail,애액이 남았다
-colored_pubic_hair,음모가 착색되다
-excessive_pubic_hair,음모가 과도하다
-sparse_pubic_hair,음모가 희박하다
-mismatched_pubic_hair,음모가 난잡하다
-erect_clitoris,음핵이 서 있다
-huge_clitoris,음핵이 크다
-tiny_clitoris,음핵이 작다
-covered_clitoris,음핵을 덮다
-condom_balloon,콘돔 풍선
-condom_box,콘돔 상자
-condom_wrapper,콘돔 포장지
-condom_belt,콘돔 벨트
-condom_packet_strip,콘돔 묶음
-oversized_breast_cup,가슴 특대 컵
-breast_padding,가슴 패드
-breast_size_switch,가슴 사이즈 스위치
-areola_piercing,유륜 피어싱
-nipple_clamps,젖꽂기 클램프
-nipple_leash,젖꼭지 가죽끈
-nipple_piercing,젖꼭지 피어싱
-nipple_rings,젖꼭지 고리
-nipple_sleeves,젖꼭지 긴 줄
-nipple_ribbon,젖꼭지 리본
-nipple_bar,젖꼭지 바
-nipple_lock,젖꼭지 자물쇠
-nipple_bells,젖꼭지 종
-vibrator_on_nipple,젖꼭지 진동기
-nipple_chain,젖꼭지 체인
-nipple_plug,젖꼭지 플러그
-clitoris_piercing,음핵 피어싱
-clitoris_ring,음핵 링
-clitoris_tied,음핵 구속
-clitoris_chain,음핵 사슬
-clitoris_leash,음핵 끈
-clitoris_ribbon,음핵 리본
-artificial_vagina,인공 질
-sex_machine,섹스 기계
-riding_machine,승마 기계
-sybian,승차 기계
-too_many_sex_toys,매우 많은 섹스 장난감
+pussy_juice_puddle,애액이_모였다
+pussy_juice_trail,애액이_남았다
+colored_pubic_hair,음모가_착색되다
+excessive_pubic_hair,음모가_과도하다
+sparse_pubic_hair,음모가_희박하다
+mismatched_pubic_hair,음모가_난잡하다
+erect_clitoris,음핵이_서_있다
+huge_clitoris,음핵이_크다
+tiny_clitoris,음핵이_작다
+covered_clitoris,음핵을_덮다
+condom_balloon,콘돔_풍선
+condom_box,콘돔_상자
+condom_wrapper,콘돔_포장지
+condom_belt,콘돔_벨트
+condom_packet_strip,콘돔_묶음
+oversized_breast_cup,가슴_특대_컵
+breast_padding,가슴_패드
+breast_size_switch,가슴_사이즈_스위치
+areola_piercing,유륜_피어싱
+nipple_clamps,젖꽂기_클램프
+nipple_leash,젖꼭지_가죽끈
+nipple_piercing,젖꼭지_피어싱
+nipple_rings,젖꼭지_고리
+nipple_sleeves,젖꼭지_긴_줄
+nipple_ribbon,젖꼭지_리본
+nipple_bar,젖꼭지_바
+nipple_lock,젖꼭지_자물쇠
+nipple_bells,젖꼭지_종
+vibrator_on_nipple,젖꼭지_진동기
+nipple_chain,젖꼭지_체인
+nipple_plug,젖꼭지_플러그
+clitoris_piercing,음핵_피어싱
+clitoris_ring,음핵_링
+clitoris_tied,음핵_구속
+clitoris_chain,음핵_사슬
+clitoris_leash,음핵_끈
+clitoris_ribbon,음핵_리본
+artificial_vagina,인공_질
+sex_machine,섹스_기계
+riding_machine,승마_기계
+sybian,승차_기계
+too_many_sex_toys,매우_많은_섹스_장난감
 dildo,딜도
-huge_dildo,큰 딜도
-dragon_dildo,용 모양 딜도
-horse_dildo,말 모양 딜도
-spiked_dildo,스파이크 딜도
-strap-on,착용 딜도
-suction_cup_dildo,부착 딜도
-dildo_riding,부착 딜도 승마
+huge_dildo,큰_딜도
+dragon_dildo,용_모양_딜도
+horse_dildo,말_모양_딜도
+spiked_dildo,스파이크_딜도
+strap-on,착용_딜도
+suction_cup_dildo,부착_딜도
+dildo_riding,부착_딜도_승마
 vibrator,바이브레이터
-bunny_vibrator,음핵 바이브레이터
-butterfly_vibrator,착용 바이브레이터
-egg_vibrator,구형 바이브레이터
-hitachi_magic_wand,전기 음핵 바이브레이터
-remote_control_vibrator,원격 제어 바이브레이터
-butt_plug,엉덩이 플러그
-butt_plug_tail,엉덩이 플러그 꼬리
-anal_beads,항문 구슬
-anal_tail,항문 꼬리
+bunny_vibrator,음핵_바이브레이터
+butterfly_vibrator,착용_바이브레이터
+egg_vibrator,구형_바이브레이터
+hitachi_magic_wand,전기_음핵_바이브레이터
+remote_control_vibrator,원격_제어_바이브레이터
+butt_plug,엉덩이_플러그
+butt_plug_tail,엉덩이_플러그_꼬리
+anal_beads,항문_구슬
+anal_tail,항문_꼬리
 gag,개그
-ball_gag,볼 개그
-bit_gag,막대 개그
-cleave_gag,밧줄 개그
-panty_gag,팬티 개그
-plug_gag,플러그 개그
-ring_gag,고리형 개그
-tape_gag,테이프 개그
-dildo_gag,딜도 개그
+ball_gag,볼_개그
+bit_gag,막대_개그
+cleave_gag,밧줄_개그
+panty_gag,팬티_개그
+plug_gag,플러그_개그
+ring_gag,고리형_개그
+tape_gag,테이프_개그
+dildo_gag,딜도_개그
 pump,착유기
-breast_pump,가슴 착유기
-clitoris_pump,음핵 착유기
+breast_pump,가슴_착유기
+clitoris_pump,음핵_착유기
 clamp,집게
-clitoris_clamp,음핵 집게
-tongue_clamp,혀 짖게
+clitoris_clamp,음핵_집게
+tongue_clamp,혀_짖게
 cuffs,수갑
 shackles,족쇄
 whip,채찍
 rope,밧줄
-leash,속박용 끈
-leash_on_penis,자지 끈
-crotch_rope,가랑이 밧줄
+leash,속박용_끈
+leash_on_penis,자지_끈
+crotch_rope,가랑이_밧줄
 solo_male,남자
 solo_female,여자
-group_sex,그룹 섹스
-orgy,다중 섹스
-daisy_chain,다중 연결
+group_sex,그룹_섹스
+orgy,다중_섹스
+daisy_chain,다중_연결
 teamwork,팀워크
 threesome,삼인조
 incest,근친상간
@@ -3333,14 +3333,14 @@ voyeurism,관음증
 sadism,가학성애
 masochism,피학성애
 rape,강간
-imminent_rape,강간 직전
+imminent_rape,강간_직전
 reverse_rape,역강간
 netorare,네토라레
 netorase,네토라세
 cheating,불륜
 time_stop,시간정지
 molestation,성추행
-compensated_molestation,성추행 조르기
+compensated_molestation,성추행_조르기
 bondage,속박
 sleeping,수면
 gangbang,윤간
@@ -3348,328 +3348,328 @@ pregnant,임신
 mind_control,정신지배
 mind_break,정신붕괴
 asphyxiation,질식
-choking_on_object,물건에 질식하다
-autoerotic_asphyxiation,스스로 질식하다
+choking_on_object,물건에_질식하다
+autoerotic_asphyxiation,스스로_질식하다
 catfight,캣파이트
 chikan,치한
 missionary_position,정상위
 cowgirl_position,기승위
 doggy_style,후배위
-spooning,측위 (옆으로 껴안아 눕다)
-standing_position,입위 (둘이 서 있다)
-full_nelson,입위(다리를 들고 머리를 잡는다)
-suspended_congress,입위(여자가 남자에게 안기다)
-reverse_suspended_congress,역입위(여자를 남자에게 안기다)
-viennese_oyste,굴곡위(누워서 다리를 머리 위로 올리다)
+spooning,측위_(옆으로_껴안아_눕다)
+standing_position,입위_(둘이_서_있다)
+full_nelson,입위(다리를_들고_머리를_잡는다)
+suspended_congress,입위(여자가_남자에게_안기다)
+reverse_suspended_congress,역입위(여자를_남자에게_안기다)
+viennese_oyste,굴곡위(누워서_다리를_머리_위로_올리다)
 bestiality,수간
-mating_press,교배 프레스
-piledriver,파일 드라이버
-happy_sex,행복한 섹스
-tentacle_sex,촉수 섹스
-underwater_sex,수중 섹스
-implied_sex,몰래 섹스
-stealth_sex,숨어서 섹스
-navel_sex,배꼽 섹스
-thigh_sex,허벅지 섹스
-kneepit_sex,무릎 뒤 섹스
-clothed_sex,옷 입고 섹스
+mating_press,교배_프레스
+piledriver,파일_드라이버
+happy_sex,행복한_섹스
+tentacle_sex,촉수_섹스
+underwater_sex,수중_섹스
+implied_sex,몰래_섹스
+stealth_sex,숨어서_섹스
+navel_sex,배꼽_섹스
+thigh_sex,허벅지_섹스
+kneepit_sex,무릎_뒤_섹스
+clothed_sex,옷_입고_섹스
 animal_play,동물놀이
-pet_play,동물 플레이
-pony_play,조랑말 플레이
+pet_play,동물_플레이
+pony_play,조랑말_플레이
 masturbation,자위
-crotch_rub,가랑이를 문지르다
-implied_masturbation,조용한 자위
-mutual_masturbation,상호 자위
-stealth_masturbation,숨어서 자위
-teddy_bear_sex,곰인형 자위
-tail_masturbation,꼬리 자위
-pillow_sex,베개 자위
-clothed_masturbation,옷 입고 자위
-table_sex,테이블 자위
-frottage_(dry_humping),몸을 비빈다
-grinding,자지를 비빈다
-armpit_sex,자지를 겨드랑이에 비빈다
-buttjob,자지를 엉덩이에 비빈다
+crotch_rub,가랑이를_문지르다
+implied_masturbation,조용한_자위
+mutual_masturbation,상호_자위
+stealth_masturbation,숨어서_자위
+teddy_bear_sex,곰인형_자위
+tail_masturbation,꼬리_자위
+pillow_sex,베개_자위
+clothed_masturbation,옷_입고_자위
+table_sex,테이블_자위
+frottage_(dry_humping),몸을_비빈다
+grinding,자지를_비빈다
+armpit_sex,자지를_겨드랑이에_비빈다
+buttjob,자지를_엉덩이에_비빈다
 oral,오랄
 anilingus,아닐링구스
 trombone,트롬본
 cunnilingus,커닐링구스
-implied_cunnilingus,몰래 커닐링구스
-face_fuck,구강 섹스
+implied_cunnilingus,몰래_커닐링구스
+face_fuck,구강_섹스
 fellatio,펠라치오
 deepthroat,딥쓰로트
 irrumatio,이루마티오
-autofellatio,스스로 펠라치오
-implied_fellatio,몰래 펠라치오
-cooperative_fellatio,협력 펠라치오
-multiple_penis_fellatio,여러 자지를 펠라치오
-fellatio_under_mask,마스크 아래로 펠라치오
-snowballing,정액 교환
+autofellatio,스스로_펠라치오
+implied_fellatio,몰래_펠라치오
+cooperative_fellatio,협력_펠라치오
+multiple_penis_fellatio,여러_자지를_펠라치오
+fellatio_under_mask,마스크_아래로_펠라치오
+snowballing,정액_교환
 paizuri_(tittyfuck),파이즈리
-cooperative_paizuri,협동 파이즈리
-paizuri_on_lap,가랑이 위에 파이즈리
-paizuri_over_clothes,옷 위에 파이즈리
-paizuri_under_clothes,옷 속에 파이즈리
-naizuri_(flatchested_paizuri),부족한 파이즈리
+cooperative_paizuri,협동_파이즈리
+paizuri_on_lap,가랑이_위에_파이즈리
+paizuri_over_clothes,옷_위에_파이즈리
+paizuri_under_clothes,옷_속에_파이즈리
+naizuri_(flatchested_paizuri),부족한_파이즈리
 handjob,핸드잡
-caressing_testicles,고환을 쥐다
-cooperative_handjob,동시에 쥐다
-nursing_handjob,간호하며 쥐다
-reach-around,뒤에서 쥐다
-two-handed_handjob,양손으로 쥐다
-crotch_grab,내 가랑이를 잡다
-guided_crotch_grab,남의 가랑이를 잡다
-grabbing_own_breast,내 가슴을 잡다
+caressing_testicles,고환을_쥐다
+cooperative_handjob,동시에_쥐다
+nursing_handjob,간호하며_쥐다
+reach-around,뒤에서_쥐다
+two-handed_handjob,양손으로_쥐다
+crotch_grab,내_가랑이를_잡다
+guided_crotch_grab,남의_가랑이를_잡다
+grabbing_own_breast,내_가슴을_잡다
 footjob,풋잡
-double_footjob,동시 풋잡
-implied_footjob,몰래 풋잡
-cooperative_footjob,협력 풋잡
-shoejob,신발 풋잡
-penis_grab,자지를 잡다
-penis_milking,자지를 착유하다
-humping,옷을 입고 자지를 비비다
-bulge_press,자지를 옷의 균열에 비비다
-large_insertion,큰 자지를 삽입하다
-vaginal_object_insertion,자지를 보지에 삽입하다
-anal_object_insertion,자지를 항문에 삽입하다
-stomach_bulge,자지를 삽입해 배가 팽창하다
-urethral_insertion,자지를 요도에 삽입하다
-cervical_penetration,자지를 자궁에 삽입하다
-nipple_penetration,자지를 젖꼭지에 삽입하다
-penis_to_breast,자지를 가슴 안에 넣다
-penis_in_pussy,자지를 보지 안에 넣디
-penis_in_ass,자지를 엉덩이에 넣다
-penis_in_pantyhose,자지를 팬티 스타킹 안에 넣다
-penis_in_bikini,자지를 비키니 안에 넣다
-penis_in_swimsuit,자지를 수영복 안에 넣다
-penis_in_thighhigh,자지를 허벅지 안에 넣다
-penis_on_ass,자지를 엉덩이 위에 올리다
-penis_on_face,자지를 얼굴 위에 올리다
-penis_over_one_eye,자지를 한쪽 눈 위에 올리다
-penis_over_eyes,자지를 양쪽 눈 위에 올리다
-penis_on_head,자지를 머리 위에 올리다
-penis_on_pussy,자지를 보지 위에 올리다
-penis_on_shoulder,자지를 어깨 위에 올리다
-penis_on_stomach,자지를 배 위에 올리다
+double_footjob,동시_풋잡
+implied_footjob,몰래_풋잡
+cooperative_footjob,협력_풋잡
+shoejob,신발_풋잡
+penis_grab,자지를_잡다
+penis_milking,자지를_착유하다
+humping,옷을_입고_자지를_비비다
+bulge_press,자지를_옷의_균열에_비비다
+large_insertion,큰_자지를_삽입하다
+vaginal_object_insertion,자지를_보지에_삽입하다
+anal_object_insertion,자지를_항문에_삽입하다
+stomach_bulge,자지를_삽입해_배가_팽창하다
+urethral_insertion,자지를_요도에_삽입하다
+cervical_penetration,자지를_자궁에_삽입하다
+nipple_penetration,자지를_젖꼭지에_삽입하다
+penis_to_breast,자지를_가슴_안에_넣다
+penis_in_pussy,자지를_보지_안에_넣디
+penis_in_ass,자지를_엉덩이에_넣다
+penis_in_pantyhose,자지를_팬티_스타킹_안에_넣다
+penis_in_bikini,자지를_비키니_안에_넣다
+penis_in_swimsuit,자지를_수영복_안에_넣다
+penis_in_thighhigh,자지를_허벅지_안에_넣다
+penis_on_ass,자지를_엉덩이_위에_올리다
+penis_on_face,자지를_얼굴_위에_올리다
+penis_over_one_eye,자지를_한쪽_눈_위에_올리다
+penis_over_eyes,자지를_양쪽_눈_위에_올리다
+penis_on_head,자지를_머리_위에_올리다
+penis_on_pussy,자지를_보지_위에_올리다
+penis_on_shoulder,자지를_어깨_위에_올리다
+penis_on_stomach,자지를_배_위에_올리다
 ejaculation,사정
 nakadashi,질내사정
 creampie,정액범벅
 internal_cumshot,내부사정
-gokkun,정액을 먹다
-felching,정액을 받아먹다
-pull_out,정액을 밖에 사정하다
-bukkake,정액을 뿌리다
-cum_dump,정액을 뿌린다
-facial,정액을 얼굴에 뿌리다
-cum_pool,정액이 고인다
-cum_drip,정액이 떨어진다
-cum_inflation,정액이 배를 팽창시킨다
-cum_in_cup,정액을 컵 안에 뿌리다
-cum_in_clothes,정액을 옷 안에 뿌리다
-cum_in_throat,정액을 몸 안에 뿌리다
-cum_in_mouth,정액을 입 안에 뿌리다
-cum_on_tongue,정액을 혀 안에 뿌리다
-cum_in_pussy,정액을 보지 안에 뿌리다
-cum_in_urethra,정액을 요도 안에 뿌리다
-cum_in_ass,정액을 엉덩이 안에 뿌리다
-cum_on_glasses,정액을 안경 위에 뿌리다
-cum_on_food,정액을 음식 위에 뿌리다
-cum_on_clothes,정액을 옷 위에 뿌리다
-cum_on_face,정액을 얼굴 위에 뿌리다
-cum_on_body,정액을 몸 위에 뿌리다
-cum_on_hair,정액을 머리 위에 뿌리다
-cum_on_breasts,정액을 가슴 위에 뿌리다
-cum_on_fingers,정액을 손가락 위에 뿌리다
-cum_on_pussy,정액을 보지 위에 뿌리다
-cum_on_ass,정액을 엉덩이 위에 뿌리다
-used_condom,콘돔을 사용했다
-buying_condoms,콘돔을 산다
-putting_on_condom,콘돔을 끼다
-used_condom_on_penis,콘돔을 자지에 끼우다
-broken_condom,콘돔을 찢다
-sabotaged_condom,콘돔이 찢기다
-pointless_condom,콘돔이 무의미하다
-condom_left_inside,콘돔이 몸에 남다
-holding_condom,콘돔을 들다
-condom_in_clothes,콘돔을 옷 안에 올리다
-condom_in_mouth,콘돔을 입 안에 올리다
-condom_earrings,콘돔을 귀걸이 위에 올리다
-condom_on_head,콘돔을 머리 위에 올리다
-condom_on_object,콘돔을 물건 위에 올리다
-condom_on_penis,콘돔을 자지 위에 올리다
-lactation_into_condom,콘돔을 젖꽂지에 올리다
-condom_on_nipples,콘돔을 젖꼭지 위에 올리다
-double_vaginal,보지에 자지를 2개 넣다
-imminent_vaginal,보지에 자지를 넣으려 한다
-clitoral_stimulation,음핵을 자극하다
-clitoris_pull,음핵을 당기다
-clitoris_tweak,음핵을 비틀다
-vibrator_on_clitoris,음핵을 진동시킨다
-clitorises_touching,음핵을 만진다
-clitoris_injection,음핵을 주사한다
-clitoris_torture,음핵을 고문하다
-imminent_anal,항문에 자리를 넣으려 한다
-public_vibrator,공공 장소에서 바이브를 사용한다
-vibrator_under_clothes,옷 아래 바이브를 넣다
-vibrator_in_leg_garter,다리 벨트에 바이브를 달다
-vibrator_in_thighhighs,허벅지에 바이브를 달다
-vibrator_in_thigh_strap,허벅지 장식에 바이브를 달다
-vibrator_under_panties,팬티 아래에 바이브를 달다
-vibrator_under_pantyhose,팬티 스타킹 아래에 바이브를 달다
-vibrator_in_anus,항문에 바이브를 넣다
+gokkun,정액을_먹다
+felching,정액을_받아먹다
+pull_out,정액을_밖에_사정하다
+bukkake,정액을_뿌리다
+cum_dump,정액을_뿌린다
+facial,정액을_얼굴에_뿌리다
+cum_pool,정액이_고인다
+cum_drip,정액이_떨어진다
+cum_inflation,정액이_배를_팽창시킨다
+cum_in_cup,정액을_컵_안에_뿌리다
+cum_in_clothes,정액을_옷_안에_뿌리다
+cum_in_throat,정액을_몸_안에_뿌리다
+cum_in_mouth,정액을_입_안에_뿌리다
+cum_on_tongue,정액을_혀_안에_뿌리다
+cum_in_pussy,정액을_보지_안에_뿌리다
+cum_in_urethra,정액을_요도_안에_뿌리다
+cum_in_ass,정액을_엉덩이_안에_뿌리다
+cum_on_glasses,정액을_안경_위에_뿌리다
+cum_on_food,정액을_음식_위에_뿌리다
+cum_on_clothes,정액을_옷_위에_뿌리다
+cum_on_face,정액을_얼굴_위에_뿌리다
+cum_on_body,정액을_몸_위에_뿌리다
+cum_on_hair,정액을_머리_위에_뿌리다
+cum_on_breasts,정액을_가슴_위에_뿌리다
+cum_on_fingers,정액을_손가락_위에_뿌리다
+cum_on_pussy,정액을_보지_위에_뿌리다
+cum_on_ass,정액을_엉덩이_위에_뿌리다
+used_condom,콘돔을_사용했다
+buying_condoms,콘돔을_산다
+putting_on_condom,콘돔을_끼다
+used_condom_on_penis,콘돔을_자지에_끼우다
+broken_condom,콘돔을_찢다
+sabotaged_condom,콘돔이_찢기다
+pointless_condom,콘돔이_무의미하다
+condom_left_inside,콘돔이_몸에_남다
+holding_condom,콘돔을_들다
+condom_in_clothes,콘돔을_옷_안에_올리다
+condom_in_mouth,콘돔을_입_안에_올리다
+condom_earrings,콘돔을_귀걸이_위에_올리다
+condom_on_head,콘돔을_머리_위에_올리다
+condom_on_object,콘돔을_물건_위에_올리다
+condom_on_penis,콘돔을_자지_위에_올리다
+lactation_into_condom,콘돔을_젖꽂지에_올리다
+condom_on_nipples,콘돔을_젖꼭지_위에_올리다
+double_vaginal,보지에_자지를_2개_넣다
+imminent_vaginal,보지에_자지를_넣으려_한다
+clitoral_stimulation,음핵을_자극하다
+clitoris_pull,음핵을_당기다
+clitoris_tweak,음핵을_비틀다
+vibrator_on_clitoris,음핵을_진동시킨다
+clitorises_touching,음핵을_만진다
+clitoris_injection,음핵을_주사한다
+clitoris_torture,음핵을_고문하다
+imminent_anal,항문에_자리를_넣으려_한다
+public_vibrator,공공_장소에서_바이브를_사용한다
+vibrator_under_clothes,옷_아래_바이브를_넣다
+vibrator_in_leg_garter,다리_벨트에_바이브를_달다
+vibrator_in_thighhighs,허벅지에_바이브를_달다
+vibrator_in_thigh_strap,허벅지_장식에_바이브를_달다
+vibrator_under_panties,팬티_아래에_바이브를_달다
+vibrator_under_pantyhose,팬티_스타킹_아래에_바이브를_달다
+vibrator_in_anus,항문에_바이브를_넣다
 ahegao,아헤가오
 torogao,토르가오
-blowjob_face,펠라치오 얼굴
-fucked_silly,바보같은 얼굴
-naughty_face,못된 얼굴
-fellatio_gesture,펠라치오 동작
-handjob_gesture,핸드잡 동작
-cunnilingus_gesture,커닐링구스 동작
-penetration_gesture,삽입 동작
-oral_invitation,사정 동작
-after_sex,섹스 후
-after_vaginal,섹스 후 보지
-afterglow,섹스 후 여운
-clothed_after_sex,섹스 후 옷을 입다
-after_anal,애널 섹스 후
-after_masturbation,자위 후
-after_insertion,삽입 후
-after_ora,오랄 후
-after_rape,강간 후
-after_fellatio,펠라치오 후
-after_paizuri,파이즈리 후
-spitroast,남자가 여자의 주위로
-reverse_spitroast,여자가 남자의 주위로
-boy_on_top,남자가 위에 타다
-anvil_position,남자가 다리를 머리 위로 올리다
-girl_on_top,여자가 위에 타다
-amazon_position,여자가 다리를 잡고 올라타다
-guided_penetration,여자가 삽입을 알려주다
-imminent_penetration,여자가 삽입하기 전
-walk-in,여자가 서서 섹스를 보다
-caught,여자가 섹스를 보다
-peeping,여자가 섹스를 엿보다
-reverse_upright_straddle,여자가 앞을 보며 앉다
-reverse_cowgirl_position,여자가 올라타서 다리를 들다
+blowjob_face,펠라치오_얼굴
+fucked_silly,바보같은_얼굴
+naughty_face,못된_얼굴
+fellatio_gesture,펠라치오_동작
+handjob_gesture,핸드잡_동작
+cunnilingus_gesture,커닐링구스_동작
+penetration_gesture,삽입_동작
+oral_invitation,사정_동작
+after_sex,섹스_후
+after_vaginal,섹스_후_보지
+afterglow,섹스_후_여운
+clothed_after_sex,섹스_후_옷을_입다
+after_anal,애널_섹스_후
+after_masturbation,자위_후
+after_insertion,삽입_후
+after_ora,오랄_후
+after_rape,강간_후
+after_fellatio,펠라치오_후
+after_paizuri,파이즈리_후
+spitroast,남자가_여자의_주위로
+reverse_spitroast,여자가_남자의_주위로
+boy_on_top,남자가_위에_타다
+anvil_position,남자가_다리를_머리_위로_올리다
+girl_on_top,여자가_위에_타다
+amazon_position,여자가_다리를_잡고_올라타다
+guided_penetration,여자가_삽입을_알려주다
+imminent_penetration,여자가_삽입하기_전
+walk-in,여자가_서서_섹스를_보다
+caught,여자가_섹스를_보다
+peeping,여자가_섹스를_엿보다
+reverse_upright_straddle,여자가_앞을_보며_앉다
+reverse_cowgirl_position,여자가_올라타서_다리를_들다
 twitching_bulge,경련하다
-twitching_penis,자지가 경련하다
-twitching_pussy,보지가 경련하다
-twitching_testicles,고환이 경련하다
-rubbing,몸을 비비며 만지다
-presenting,몸을 벌려 유혹하다
-public_indecency,공공장소에서 외설행위를 한다
-public_nudity,공공장소에서 알몸을 노출하다
-public_use,공공장소에서 몸을 굴리다
-tentacles,촉수를 꺼내다
-tentacle_gagged,촉수로 재갈을 물리다
-tentaclejob,촉수로 애무하다
-consensual_tentacles,촉수를 원하다
-too_many_tentacles,촉수를 매우 말리 늘리다
-tentacles_in_thighhighs,촉수를 허벅지 안에 넣다
-tentacles_under_clothes,촉수를 옷 안에 넣다
-animation,애니메이션 
-fine_art_parody={},패러디 
-pectoral_focus,가슴에 집중 
-hip_focus,엉덩이에 집중 
-portrait,범위를 얼굴에 
-looking_afar,시점을 멀리 
-striped_background,줄무늬 
-gray,회색 
-white,흰색 
-brown,갈색 
-red,빨강색 
-pink,분홍색 
-orange,주황색 
-yellow,노란색 
-golden,황금색 
-light_green,연두색 
-green,초록색 
-sky_blue,하늘색 
-blue,파란색 
-purple,보라색 
-black,검은색 
-rainbow,무지개색 
-two-tone,투 톤 
-streaked,줄무늬 
-gradient,그라데이션 
-split-color,색깔 분열 
-multicolored,여러 색깔 
-colored_inner,내부 착색 
-plaid,격자 무늬 
-strawberry,딸기 무늬 
-polka_dot,물방울 무늬 
-american_flag,미국 국기 무늬 
-argyle,아가일 무늬 
-camouflage,위장 무늬 
-print,인쇄한 무늬 
-striped,줄무늬 
-diagonal-striped,사선 줄무늬 
-vertical-striped,세로 줄무늬 
-checkered,체크 무늬 
-dressing_room,탈의실 
-prison,감옥 
-movie_theater,영화관 
-market_stall,시장 
-greenhouse,온실 
-warehouse,창고 
-geyser,온천 
-tower,탑 
-brothers,형제 
-merchant,상인 
-school_nurse,보건 교사 
-skank,걸레 
-two-tone_hair,투 톤 
-streaked_hair,줄무늬 
-gradient_hair,그라데이션 
-gorilla_ears,고릴라 
-mature_female,성숙한 여자 
-fat,뚱뚱한 몸 
-sweating_profusely,땀을 흘리는 몸 
-hip,엉덩이 
-slender_fingers,손목이 가늘다 
-thick_fingers,손목이 두껍다 
-leg,다리 
-naked_cloak,알몸 망토 
-nearly_naked_apron,알몸 에이프런 
-habit,사제복 
+twitching_penis,자지가_경련하다
+twitching_pussy,보지가_경련하다
+twitching_testicles,고환이_경련하다
+rubbing,몸을_비비며_만지다
+presenting,몸을_벌려_유혹하다
+public_indecency,공공장소에서_외설행위를_한다
+public_nudity,공공장소에서_알몸을_노출하다
+public_use,공공장소에서_몸을_굴리다
+tentacles,촉수를_꺼내다
+tentacle_gagged,촉수로_재갈을_물리다
+tentaclejob,촉수로_애무하다
+consensual_tentacles,촉수를_원하다
+too_many_tentacles,촉수를_매우_말리_늘리다
+tentacles_in_thighhighs,촉수를_허벅지_안에_넣다
+tentacles_under_clothes,촉수를_옷_안에_넣다
+animation,애니메이션_
+fine_art_parody={},패러디_
+pectoral_focus,가슴에_집중_
+hip_focus,엉덩이에_집중_
+portrait,범위를_얼굴에_
+looking_afar,시점을_멀리_
+striped_background,줄무늬_
+gray,회색_
+white,흰색_
+brown,갈색_
+red,빨강색_
+pink,분홍색_
+orange,주황색_
+yellow,노란색_
+golden,황금색_
+light_green,연두색_
+green,초록색_
+sky_blue,하늘색_
+blue,파란색_
+purple,보라색_
+black,검은색_
+rainbow,무지개색_
+two-tone,투_톤_
+streaked,줄무늬_
+gradient,그라데이션_
+split-color,색깔_분열_
+multicolored,여러_색깔_
+colored_inner,내부_착색_
+plaid,격자_무늬_
+strawberry,딸기_무늬_
+polka_dot,물방울_무늬_
+american_flag,미국_국기_무늬_
+argyle,아가일_무늬_
+camouflage,위장_무늬_
+print,인쇄한_무늬_
+striped,줄무늬_
+diagonal-striped,사선_줄무늬_
+vertical-striped,세로_줄무늬_
+checkered,체크_무늬_
+dressing_room,탈의실_
+prison,감옥_
+movie_theater,영화관_
+market_stall,시장_
+greenhouse,온실_
+warehouse,창고_
+geyser,온천_
+tower,탑_
+brothers,형제_
+merchant,상인_
+school_nurse,보건_교사_
+skank,걸레_
+two-tone_hair,투_톤_
+streaked_hair,줄무늬_
+gradient_hair,그라데이션_
+gorilla_ears,고릴라_
+mature_female,성숙한_여자_
+fat,뚱뚱한_몸_
+sweating_profusely,땀을_흘리는_몸_
+hip,엉덩이_
+slender_fingers,손목이_가늘다_
+thick_fingers,손목이_두껍다_
+leg,다리_
+naked_cloak,알몸_망토_
+nearly_naked_apron,알몸_에이프런_
+habit,사제복_
 skirtsuit,정장
-track_suit,운동복 
-housekeeper_costume,하우스키퍼 
-criss-cross_halter,X자로 꼬인 옷 
-converse,운동화 
-headband,머리띠 
-fedora,탐정 모자 
-pirate_hat,해적 모자 
-goggles_around_neck,고글 
-baseball_gloves,야구 장갑 
-tail_ribbon,꼬리 리본 
-hugging,껴안다 
-tongue_out,혀를 내밀다 
-licking_hip,혀로 엉덩이를 핥다 
-flat_envy,가슴을 질투한다 
-power_fist,손으로 주먹쥐다 
-raised_fist,손을 뻗다 
-foot_tickling,손으로 간지럽히다 
-pointing_up,손가락으로 가리키다 
-pointing_at_self,손가락으로 가리키다 
-folded,다리를 잡는다 
-standing_split,다리를 서서 뻗다 
-undressing,옷을 벗다 
-stomach_cutout,옷의 배를 노출하다 
-cross-laced_cutout,옷의 옆구리를 노출하다 
-bare_shoulders,옷의 어깨를 노출하다 
-off_shoulder,옷의 어깨를 노출하다 
-cleavage_cutout,옷의 가슴골을 노출하다 
-panties_around_one_leg,팬티를 발목 주위로 내리다 
-throwing,무엇을 던지다 
-bouncingbreasts,무엇이 요동친다 
-vaginal,보지 
-urethra,보지 
-tenga,인공 질 
-handcuffs,수갑 
-love_train,다중 연결 
-prone_bone,후배위 
-hair tie,머리끈
+track_suit,운동복_
+housekeeper_costume,하우스키퍼_
+criss-cross_halter,X자로_꼬인_옷_
+converse,운동화_
+headband,머리띠_
+fedora,탐정_모자_
+pirate_hat,해적_모자_
+goggles_around_neck,고글_
+baseball_gloves,야구_장갑_
+tail_ribbon,꼬리_리본_
+hugging,껴안다_
+tongue_out,혀를_내밀다_
+licking_hip,혀로_엉덩이를_핥다_
+flat_envy,가슴을_질투한다_
+power_fist,손으로_주먹쥐다_
+raised_fist,손을_뻗다_
+foot_tickling,손으로_간지럽히다_
+pointing_up,손가락으로_가리키다_
+pointing_at_self,손가락으로_가리키다_
+folded,다리를_잡는다_
+standing_split,다리를_서서_뻗다_
+undressing,옷을_벗다_
+stomach_cutout,옷의_배를_노출하다_
+cross-laced_cutout,옷의_옆구리를_노출하다_
+bare_shoulders,옷의_어깨를_노출하다_
+off_shoulder,옷의_어깨를_노출하다_
+cleavage_cutout,옷의_가슴골을_노출하다_
+panties_around_one_leg,팬티를_발목_주위로_내리다_
+throwing,무엇을_던지다_
+bouncingbreasts,무엇이_요동친다_
+vaginal,보지_
+urethra,보지_
+tenga,인공_질_
+handcuffs,수갑_
+love_train,다중_연결_
+prone_bone,후배위_
+hair_tie,머리끈
 highleg,하이레그
 pincet,핀셋
 squirt,분출
@@ -3728,8 +3728,8 @@ toes,발가락
 rose,장미
 chain,체인
 animal,동물
-frown,찌푸린 얼굴
-pov,1인칭 화면
+frown,찌푸린_얼굴
+pov,1인칭_화면
 back,뒤
 scar,흉터
 parody,패러디
@@ -3855,7 +3855,7 @@ blanket,담요
 cannon,대포
 railing,방책
 horizon,수평선
-goatee,염소 수염
+goatee,염소_수염
 eyeball,안구
 basket,바구니
 logo,로고
@@ -3868,7 +3868,7 @@ glass,잔
 tiles,타일
 mittens,장갑
 flag,깃발
-headpat,헤드 팻
+headpat,헤드_팻
 scythe,낫
 selfie,셀카
 talking,얘기
@@ -3908,19 +3908,19 @@ petite,작다
 torii,도리
 teapot,찻주전자
 axe,축
-antlers,가지 진 뿔
+antlers,가지_진_뿔
 pumpkin,호박
 belly,배
 rwby,루비
 tight,꽉
 macross,마크로스
-precum,뿐만 아니라
+precum,뿐만_아니라
 bald,곧
-aura,아우 라
+aura,아우_라
 link,링크
-scared,무서 워
+scared,무서_워
 torpedo,어뢰
-manly,남자 같은
+manly,남자_같은
 pikachu,피카츄
 tea,차
 balloon,풍선
@@ -3939,7 +3939,7 @@ saki,사키
 cutoffs,컷오프
 old,오래된
 bread,빵
-futon,이불 세트
+futon,이불_세트
 cookie,쿠키
 rice,쌀
 badge,배지
@@ -4103,7 +4103,7 @@ lotion,로션
 paint,페인트
 cupcake,컵케이크
 cheese,치즈
-keyhole,열쇠 구멍
+keyhole,열쇠_구멍
 hallway,복도
 wedding,결혼식
 medal,메달
@@ -4146,7 +4146,7 @@ spatula,주걱
 beak,부리
 satchel,가방
 dessert,디저트
-cervix,자궁 경부
+cervix,자궁_경부
 racket,라켓
 liquid,액체
 wire,철사
@@ -4163,7 +4163,7 @@ turban,터번
 mop,대걸레
 whale,고래
 spanked,때리다
-gusset,삼각 천
+gusset,삼각_천
 dust,먼지
 pill,알약
 teenage,사춘기
@@ -4173,7 +4173,7 @@ taiyaki,붕어빵
 afro,아프리카
 aria,공기
 warship,군함
-grimace,찡그린 얼굴
+grimace,찡그린_얼굴
 comb,빗
 skewer,꼬챙이
 cube,큐브
@@ -4230,7 +4230,7 @@ mascot,마스코트
 truck,트럭
 hanging,매달린
 morning,아침
-gamepad,게임 패드
+gamepad,게임_패드
 neck,목
 skyline,지평선
 ovum,난자
@@ -4252,7 +4252,7 @@ friends,친구
 flash,플래시
 runes,룬
 soup,수프
-sobble,흐느껴 울다
+sobble,흐느껴_울다
 gathers,수집
 sausage,소시지
 sick,아픈
@@ -4287,7 +4287,7 @@ chimney,굴뚝
 sundae,아이스크림
 honey,꿀
 cooler,냉각기
-beans,건초 더미
+beans,건초_더미
 picnic,피크닉
 clothes,옷
 lighter,라이터
@@ -4295,7 +4295,7 @@ bus,버스
 bored,심심하다
 snack,간식
 soda,소다
-yarn,털 실
+yarn,털_실
 rocket,로켓
 wetsuit,잠수복
 omelet,오믈렛
@@ -4355,7 +4355,7 @@ onion,양파
 frozen,얼다
 melon,멜론
 wallet,지갑
-tall,키가 큰
+tall,키가_큰
 cursor,커서
 note,메모
 cart,카트
@@ -4517,7 +4517,7 @@ fly,파리
 bonsai,분재
 leina,슬픔
 grid,그리드
-curious,호기심이 많은
+curious,호기심이_많은
 pacific,태평양
 trowel,모종삽
 wool,양모
@@ -4533,7 +4533,7 @@ suplex,수플렉스
 giraffe,기린
 menace,위협
 slide,슬라이드
-fisting,주먹 넣기
+fisting,주먹_넣기
 basin,대야
 racecar,레이싱카
 mullet,숭어
@@ -4576,7 +4576,7 @@ scizor,가위
 barbell,바벨
 hybrid,잡종
 totoro,토토로
-bort,자리 비움
+bort,자리_비움
 ryne,린
 puzzle,수수께끼
 guile,교활
@@ -4590,7 +4590,7 @@ rotated,회전
 keroro,케로로
 flood,홍수
 dishes,설거지
-piglet,새끼 돼지
+piglet,새끼_돼지
 typing,입력
 saiyan,사이어인
 falcon,송골매
@@ -4603,7 +4603,7 @@ caution,주의
 tossing,던지기
 hymen,처녀막
 rivalry,경쟁
-keyring,열쇠 고리
+keyring,열쇠_고리
 engine,엔진
 lego,레고
 fart,속도
@@ -4655,7 +4655,7 @@ yakuza,야쿠자
 cracker,크래커
 sashimi,생선회
 lineage,혈통
-ginko,은행 나무
+ginko,은행_나무
 kyoto,교토
 jedi,제다이
 ovaries,난소
